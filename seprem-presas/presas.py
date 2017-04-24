@@ -8,6 +8,7 @@ writer = csv.writer(f)
 
 # Vamos a iterar desde 1 hasta 1226
 for n in range(1,1227):
+#for n in range(1,30):
 
     # Descarga el html de la web de SEPREM
     url = 'http://www.seprem.es/ficha.php?idpresa='+str(n)
@@ -22,22 +23,32 @@ for n in range(1,1227):
     datas = []
 
     # Tenemos en cuenta las dos columnas de datos
+    cta = 0
     for tr in trs:
         tds = tr.findAll("td")
         if len(tds) < 4:
             continue
-
+        cta += 1
         name = tds[0].text.strip()
         data = tds[1].text.strip()
         if name:
-            if n == 1:
-                names.append(name)
-            datas.append(data)
+            if cta == 11: # separamos coordenadas en X e Y
+                if n == 1:
+                    names.append("X utm 30")
+                    names.append("Y utm 30")
+                xy = data.split(" - ")
+                datas.append(xy[0])
+                datas.append(xy[1])
+            else:
+                if n == 1:
+                    names.append(name)
+                datas.append(data)
 
     for tr in trs:
         tds = tr.findAll("td")
         if len(tds) < 4:
             continue
+        cta += 1
         name = tds[2].text.strip()
         data = tds[3].text.strip()
         if name:
@@ -47,7 +58,7 @@ for n in range(1,1227):
 
     # Escribimos encabezados
     if n == 1:
-        writer.writerow([unicode(s).encode("utf-8") for s in names])
+       writer.writerow([unicode(s).encode("utf-8") for s in names])
 
     # Escribimos datos
     writer.writerow([unicode(s).encode("utf-8") for s in datas])

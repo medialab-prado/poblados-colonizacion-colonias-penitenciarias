@@ -20,7 +20,7 @@ for row in reader:
             year = int(year)
             if year > 1938 and year < 1976:             # filtro de anyo
                 total += 1
-                if row[10] and "Riego" in row[10]:      # filtro de Riego
+                if row[10] and "Riego" in row[11]:      # filtro de Riego
                     print str(year) + " " + row[1]
                     writer.writerow( row )
                     totriego += 1

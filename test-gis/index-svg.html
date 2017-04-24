@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  background-color: #aaa;
+}
+
+svg {
+  background-color: #fff;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.penal {
+  fill: #faa;
+}
+
+.entidad {
+  fill: #afa;
+}
+
+.entidad:hover{
+  fill: #aaa;
+}
+
+.embalse {
+  fill: #aaf;
+}
+
+
+
+</style>
+<body>
+<div id="info"><h1 id="name"></h1></div>
+
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://d3js.org/topojson.v1.min.js"></script>
+  <script>
+
+
+var width = 960,
+    height = 450;
+
+var path = d3.geoPath()
+    .projection(null);
+
+var zoom = d3.zoom()
+    .scaleExtent([1, 8])
+    .on("zoom", zoomed);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+var g = svg.append("g");
+
+var zoomrect = svg.append("rect")
+    .attr("class", "overlay")
+    .attr("width", width)
+    .attr("height", height)
+    .on("mousemove", mousemove)
+    .call(zoom);
+
+
+var poblados;
+
+d3.queue()
+    .defer(d3.json, "./map.json")
+    .await(ready);
+
+    // esta función recibe como parametro nuestro mapa
+    // para aclararnos la hemos llamado 'map' (podríamos llamarla como quisieramos)
+    function ready(error, map) {
+      if (error) throw error;
+
+      g.append("path")
+          .datum(topojson.feature(map, map.objects.penales))
+          .attr("class", "penal")
+          .attr("d", path);
+
+      poblados = topojson.feature(map, map.objects.poblados);
+
+//      for id, n1, n2, prov, year, n3, n4, x, y, n5, t1,t2,t3,t4,t5 of poblados.features[i].properties
+//        console.log year;
+
+      g.append("path")
+          .data([poblados])
+          .attr("pointRadius", 2)
+          .attr("class", "entidad")
+          .attr("d", function(d){
+                    path.pointRadius(2);
+                    return path(d);
+          });
+
+      g.append("path")
+          .datum(topojson.feature(map, map.objects.embalses))
+          .attr("pointRadius", 2)
+          .attr("class", "embalse")
+          .attr("d", function(d){
+                    path.pointRadius(2);
+                    return path(d);
+                });
+};
+
+function update(yr) {
+  var g = d3.select("body").transition();
+
+  pobladosFiltradas = [];
+  for (var i = 0; i < poblados.features.length; i++) {
+    var n = 0;
+    var k = "";
+    for (var k in poblados.features[i].properties) {
+      if (n == 4) {
+        var t = poblados.features[i].properties[k];
+        if (parseInt(t) < yr) {
+          pobladosFiltradas.push(poblados.features[i]);
+        }
+      }
+      n++;
+    }
+  }
+
+  g.selectAll(".entidad")
+  .each(function(d) {
+            // loop through the keys - this assumes no extra data
+            d3.keys(d).forEach( function(key) {
+                for (var k in d[key]) {
+                  var n = 0;
+                  var kv = "";
+                  for (var kv in poblados.features[k].properties) {
+                    if (n == 4) {
+                      var t = poblados.features[k].properties[k];
+                      if (parseInt(t) < yr) {
+                        //pobladosFiltradas.push(poblados.features[k]);
+                        d3.select(this).attr("visibility","hidden");
+                      }
+                      else {
+                        d3.select(this).attr("visibility","visible");
+                      }
+                    }
+                    n++;
+                  }
+                }
+            });
+          });
+}
+
+function zoomed() {
+  var transform = d3.event.transform;
+  g.attr("transform", transform);
+  g.select(".state-border").style("stroke-width", 1.5 / d3.event.scale + "px");
+  g.select(".county-border").style("stroke-width", .5 / d3.event.scale + "px");
+}
+
+function mousemove() {
+    var mouseX = d3.mouse(this)[0];
+    var yr = 1936 + (1975-1936)*mouseX/960;
+    update(yr);
+}
+
+d3.select(self.frameElement).style("height", height + "px");
+
+</script>
