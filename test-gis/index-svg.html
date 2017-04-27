@@ -7,7 +7,8 @@ body {
 }
 
 svg {
-  background-color: #fff;
+  background-color: #eee;
+  margin: 10px auto;
 }
 
 .overlay {
@@ -16,19 +17,28 @@ svg {
 }
 
 .penal {
-  fill: #faa;
+  fill: #a00;
 }
 
-.entidad {
-  fill: #afa;
+.scpm {
+  fill: #a00;
 }
 
-.entidad:hover{
-  fill: #aaa;
+.zona {
+  fill: #ccc;
+}
+
+.adm {
+  fill:#fff;
+  stroke:#ddd;
+}
+
+.poblado {
+  fill: #0a0;
 }
 
 .embalse {
-  fill: #aaf;
+  fill: #00a;
 }
 
 
@@ -66,7 +76,6 @@ var zoomrect = svg.append("rect")
     .call(zoom);
 
 
-var poblados;
 
 d3.queue()
     .defer(d3.json, "./map.json")
@@ -77,76 +86,101 @@ d3.queue()
     function ready(error, map) {
       if (error) throw error;
 
+      var adm = topojson.feature(map, map.objects.adm)
       g.append("path")
-          .datum(topojson.feature(map, map.objects.penales))
+          .datum(adm)
+          .attr("class", "adm")
+          .attr("d", path);
+
+
+      var zonas = topojson.feature(map, map.objects.zonas2)
+      g.append("path")
+          .datum(zonas)
+          .attr("class", "zona")
+          .attr("d", path);
+
+      path.pointRadius(2);
+
+      var penales = topojson.feature(map, map.objects.penales2);
+      g.selectAll(".penal")
+          .data(penales.features)
+          .enter()
+          .append("path")
           .attr("class", "penal")
           .attr("d", path);
 
-      poblados = topojson.feature(map, map.objects.poblados);
+      path.pointRadius(3);
 
-//      for id, n1, n2, prov, year, n3, n4, x, y, n5, t1,t2,t3,t4,t5 of poblados.features[i].properties
-//        console.log year;
+      var scpm = topojson.feature(map, map.objects.scpm);
+      g.selectAll(".scpm")
+          .data(scpm.features)
+          .enter()
+          .append("path")
+          .attr("class", "scpm")
+          .attr("d", path);
 
-      g.append("path")
-          .data([poblados])
-          .attr("pointRadius", 2)
-          .attr("class", "entidad")
-          .attr("d", function(d){
-                    path.pointRadius(2);
-                    return path(d);
-          });
+      path.pointRadius(2);
 
-      g.append("path")
-          .datum(topojson.feature(map, map.objects.embalses))
-          .attr("pointRadius", 2)
+      var embalses = topojson.feature(map, map.objects.embalses2);
+      g.selectAll(".embalse")
+          .data(embalses.features)
+          .enter()
+          .append("path")
           .attr("class", "embalse")
-          .attr("d", function(d){
-                    path.pointRadius(2);
-                    return path(d);
-                });
+          .attr("d", path);
+
+      var poblados = topojson.feature(map, map.objects.poblados2);
+      g.selectAll(".poblado")
+          .data(poblados.features)
+          .enter()
+          .append("path")
+          .attr("class", "poblado")
+          .attr("d", path)
+
 };
 
 function update(yr) {
   var g = d3.select("body").transition();
 
-  pobladosFiltradas = [];
-  for (var i = 0; i < poblados.features.length; i++) {
-    var n = 0;
-    var k = "";
-    for (var k in poblados.features[i].properties) {
-      if (n == 4) {
-        var t = poblados.features[i].properties[k];
-        if (parseInt(t) < yr) {
-          pobladosFiltradas.push(poblados.features[i]);
-        }
-      }
-      n++;
-    }
-  }
+  // update poblados
+  g.selectAll(".poblado").style("visibility", "hidden")
+  .filter(function(d){
+      return parseInt(d.properties.ANYO) < yr;
+    })
+  .style("visibility", "visible");
 
-  g.selectAll(".entidad")
-  .each(function(d) {
-            // loop through the keys - this assumes no extra data
-            d3.keys(d).forEach( function(key) {
-                for (var k in d[key]) {
-                  var n = 0;
-                  var kv = "";
-                  for (var kv in poblados.features[k].properties) {
-                    if (n == 4) {
-                      var t = poblados.features[k].properties[k];
-                      if (parseInt(t) < yr) {
-                        //pobladosFiltradas.push(poblados.features[k]);
-                        d3.select(this).attr("visibility","hidden");
-                      }
-                      else {
-                        d3.select(this).attr("visibility","visible");
-                      }
-                    }
-                    n++;
-                  }
-                }
-            });
-          });
+  // update embalses
+  g.selectAll(".embalse").style("visibility", "hidden")
+  .filter(function(d){
+      return parseInt(d.properties.Anyo) < yr;
+    })
+  .style("visibility", "visible");
+
+  // update penales
+  g.selectAll(".penal").style("visibility", "hidden")
+  .filter(function(d){
+      var info = d.properties.PENALES_10;
+      var anyos = info.split("-");
+      if (anyos.length > 0) {
+        var a1 = parseInt(anyos[0]);
+        if (anyos.length == 2) var a2 = anyos[1];
+        else var a2 = a1+5;
+        return a1 < yr && a2 > yr;
+      }
+    })
+  .style("visibility", "visible");
+
+  // update penales
+  g.selectAll(".scpm").style("visibility", "hidden")
+  .filter(function(d){
+      var a1_ = d.properties.ANYOINICI;
+      var a2 = parseInt(d.properties.ANYOFINAL);
+      var a1 = parseInt(a1_);
+      if (a1_ == "?") a1 = a2 - 6;
+      return a1 < yr && a2 > yr;
+    })
+  .style("visibility", "visible");
+
 }
 
 function zoomed() {

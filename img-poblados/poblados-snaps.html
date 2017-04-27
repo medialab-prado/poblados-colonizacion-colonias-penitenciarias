@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+<style>
+.snap {
+  width:200px;
+  height:200px;
+}
+</style>
+<body>
+
+  <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+  <script>
+
+var tabulate = function (data,columns) {
+  var table = d3.select('body').append('table')
+	var thead = table.append('thead')
+	var tbody = table.append('tbody')
+
+	thead.append('tr')
+	  .selectAll('th')
+	    .data(columns)
+	    .enter()
+	  .append('th')
+	    .text(function (d) { return d })
+
+	var rows = tbody.selectAll('tr')
+	    .data(data)
+	    .enter()
+	  .append('tr')
+
+	var cells = rows.selectAll('td')
+	    .data(function(row) {
+	    	return columns.map(function (column) {
+	    		return { column: column, value: row[column] }
+	      })
+      })
+      .enter()
+    .append('td')
+      .html(function (d) {
+        if (['1945','1956','2014'].indexOf(d.column) > -1 ) {
+          var img = "<img src=" + d.value + " class='snap'>"
+          return img
+        }
+        else return d.value
+      })
+
+  return table;
+}
+
+d3.csv('poblados-unicode.csv',function (data) {
+	var columns = ['id_propi','POBLADO','PROVINCIA','ANYO','1945','1956','2014']
+  tabulate(data,columns)
+})
+
+</script>
+</body>
+</html>
