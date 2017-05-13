@@ -45,16 +45,6 @@ svg {
 
 </style>
 <body>
-  <div>
-    <p>
-      <b>Interacción:</b></br>
-      <ul>
-        <li>Si se mueve el ratón en el rectángulo del mapa, de izquierda a derecha, se recorren los años del tramo 1936 a 1975. </li>
-        <li>Con la rueda del mouse se hace zoom. Arrastrando el mouse, se arrastra el plano.</li>
-      </ul>
-    </p>
-  </div>
-
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://d3js.org/topojson.v1.min.js"></script>
   <script>
@@ -207,6 +197,15 @@ function mousemove() {
 d3.select(self.frameElement).style("height", height + "px");
 
 </script>
+<div>
+  <p>
+    <b>Interacción:</b></br>
+    <ul>
+      <li>Si se mueve el ratón en el rectángulo del mapa, de izquierda a derecha, se recorren los años del tramo 1936 a 1975. </li>
+      <li>Con la rueda del mouse se hace zoom. Arrastrando el mouse, se arrastra el plano.</li>
+    </ul>
+  </p>
+</div>
 <div>
   <p>
     <span style="color:#0a0">Punto verde: </span>Poblado de colonizaci&oacute;n</br>
