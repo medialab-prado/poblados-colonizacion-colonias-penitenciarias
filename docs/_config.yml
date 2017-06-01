@@ -10,6 +10,7 @@ first_published: 2017 # if migrating another site, the year of your first publis
 #email: your-email@domain.com
 baseurl: "poblados-colonizacion-colonias-penitenciarias" # the subpath of your site, e.g. /blog
 url: "https://medialab-prado.github.io" # the base hostname & protocol for your site
+theme: spectral
 #social:
   #twitter: https://twitter.com/<username>
   #github: https://github.com/<username>
