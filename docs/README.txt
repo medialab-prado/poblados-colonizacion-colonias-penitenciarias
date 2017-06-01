@@ -1,5 +1,14 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A Jekyll port of the Spectral theme by HTML5 UP.
+Find the original non-jekyll theme at: http://html5up.net/
+Note: @arkadianriver is in no way associated with @n33co
+      other than I really like his _style_! get it?
+Below is @n33co's readme from the original pure HTML theme
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 Spectral by HTML5 UP
-html5up.net | @ajlkn
+html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -32,7 +41,7 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+n33.co @n33co dribbble.com/n33
 
 
 Credits:
