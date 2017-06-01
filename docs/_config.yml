@@ -8,7 +8,7 @@ description: |
 #owner: Your Name # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
 #email: your-email@domain.com
-baseurl: "poblados-colonizacion-colonias-penitenciarias" # the subpath of your site, e.g. /blog
+baseurl: "/poblados-colonizacion-colonias-penitenciarias" # the subpath of your site, e.g. /blog
 url: "https://medialab-prado.github.io" # the base hostname & protocol for your site
 theme: spectral
 #social:
