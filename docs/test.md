@@ -1,5 +1,6 @@
 ---
-layout: layout
+layout: title
+title: Test
 ---
 
 Test
