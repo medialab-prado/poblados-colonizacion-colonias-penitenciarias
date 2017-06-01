@@ -78,7 +78,7 @@
 					hideOnSwipe: false,
 
 				// Reset scroll position on hide.
-					resetScroll: true,
+					resetScroll: false,
 
 				// Reset forms on hide.
 					resetForms: false,
