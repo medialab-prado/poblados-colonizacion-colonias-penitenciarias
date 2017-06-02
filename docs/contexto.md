@@ -1,4 +1,4 @@
 ---
-layout: landing
+layout: generic
 title: El contexto internacional
 ---
