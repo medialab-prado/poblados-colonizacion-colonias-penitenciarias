@@ -1,4 +1,4 @@
 ---
-layout: landing
+layout: page
 title: Los tres principales modelos de colonización
 ---

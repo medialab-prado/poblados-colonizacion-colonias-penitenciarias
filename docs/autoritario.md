@@ -1,4 +1,4 @@
 ---
-layout: landing
+layout: page
 title: El Estado autoritario
 ---
