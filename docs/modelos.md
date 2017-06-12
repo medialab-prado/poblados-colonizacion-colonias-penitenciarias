@@ -3,5 +3,5 @@ layout: page
 title: Los tres principales modelos de colonización
 ---
 
-{% include sliders/bardenas.html %}
-{% include sliders/sotogordo.html %}
+{% include _bardenas.html %}
+{% include _sotogordo.html %}
