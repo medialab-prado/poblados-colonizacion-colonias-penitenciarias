@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Los tres principales modelos de colonización
+title: Los principales modelos de colonización
 ---
 
 {% include _bardenas.html %}
