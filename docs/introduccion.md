@@ -1,6 +1,6 @@
 ---
 layout: page
-title: El contexto internacional
+title: Agua, reforma agraria y colonización. Contexto internacional de modernización agrícola
 subtitle: Agua, reforma agraria y colonización. Contexto internacional de modernización agrícola
 ---
 
