@@ -478,7 +478,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			line-height: 3em;
 			text-align: center;
 			width: calc(3em + 2px);
-			
+
 			&:before {
 				@include vendor('transform', 'rotate(45deg)');
 				display: inline-block;
@@ -910,7 +910,8 @@ $baseurl: '{{ site.baseurl }}/images';
 
 			&:before {
 				display: block;
-				color: _palette(accent2, bg);
+				/*color: _palette(accent2, bg);*/
+				color:rgba(0,0,0,0);
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
