@@ -912,7 +912,7 @@ $baseurl: '{{ site.baseurl }}/images';
 				display: block;
 				/*color: _palette(accent2, bg);*/
 				color:rgba(0,0,0,0);
-				background-image:url("/css/images/inc-logo.png");
+				background-image:url("images/inc-logo.png");
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
