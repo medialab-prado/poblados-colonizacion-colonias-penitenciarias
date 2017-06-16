@@ -3,7 +3,14 @@
   <head>
     <!-- 1 -->
      <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
-
+     <style type="text/css">
+     .tl-timemarker .tl-timemarker-content-container {
+       background-color: #e50000;
+     }
+     .tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline, .tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline p {
+       color: #fff;
+     }
+     </style>
      <!-- 2 -->
      <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
@@ -20,6 +27,8 @@
        // See below for more about options.
        var additionalOptions = {
               start_at_end: false,
+              start_at_slide:6,
+              scale_factor:0.75,
               default_bg_color: {r:255, g:255, b:255},
               timenav_height: 150
             }
