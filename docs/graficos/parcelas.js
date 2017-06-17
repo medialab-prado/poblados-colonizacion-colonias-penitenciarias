@@ -3,6 +3,7 @@ var ids,nombres,colores,x,y;
 var capas,capaspg,imgs;
 var dim, dimr;
 var pg;
+var zoom;
 
 function preload() {
   ids = new Array("norte","duero","ebro","pirineo","jucar","tajo","guadiana","guadalquivir","sur","segura","baleares");
@@ -42,7 +43,7 @@ function draw() {
   // Resize:
   var w = min(800,width*.85);
   var h = w*519./800.;
-  var zoom = w*800.;
+  zoom = w*800.;
   var mx = map(mouseX-width/2+w/2,0,w,0,800);
   var my = map(mouseY-height/2+h/2,0,h,0,519);
 
@@ -115,5 +116,5 @@ function compara(c1, c2) {
 }
 
 function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
+  resizeCanvas(windowWidth*zoom, windowHeight*zoom);
 }
