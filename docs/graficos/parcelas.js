@@ -43,7 +43,7 @@ function draw() {
   }
 
   // Parcelas segun PGC
-  var mc = cmap.get(mouseX+dx,mouseY);
+  var mc = cmap.get(mouseX-dx,mouseY);
   for (var n = 0; n < colores.length; n++) {
     if (compara(mc,color(colores[n]))) {
       tint(255,100);
