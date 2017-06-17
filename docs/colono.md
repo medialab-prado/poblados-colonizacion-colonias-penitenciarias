@@ -9,9 +9,9 @@ title: El colono
 Los requisitos indispensables vinculados directamente con la situación personal del candidato se repetían, y aunque con algunas variaciones, mantenían unos criterios muy similares:
 >**1.** Ser mayor de 23 años, licenciado del ejército o exento del servicio militar.**2.** Acreditar una préctica agrícola reciente de 2 años al menos. **3.** Acreditar unas dotes de moralidad y conducta aceptables
 
-Además tendrían preferencia los que a su vez:
->**4.** Poseyeran conocimientos de regadío. **5.** ser casado o viudo con hijos. **6.** Tener el mayor número de hijos. **7.** Saber leer y escribir. Los analfabetos que resulten admitidos están obligados a aprender a leer y escribir en un plazo de tres años  pudiendo ser expulsado por la Dirección General de Colonización si no cumpliera con el compromiso. **8.** Tener menos de cincuenta años.
+Además se priorizarían los que a su vez los que:
+>**4.** poseyeran conocimientos de regadío. **5.** estuvieran casados o fueran viudos con hijos. **6.** tuvieran el mayor número de hijos. **7.** supieran leer y escribir. Los analfabetos que resulten admitidos están obligados a aprender a leer y escribir en un plazo de tres años  pudiendo ser expulsado por la Dirección General de Colonización si no cumpliera con el compromiso. **8.** Tuvieran menos de cincuenta años.
 
 Las condiciones serán modificadas a partir de 1958, o al menos así sucede para la Delegación de Talavera de la Reina, donde serán las [unidades familiares del trabajo](https://medialab-prado.github.io/poblados-colonizacion-colonias-penitenciarias/mujeres.html) las que definan con más precisión el acceso.
 
-No podemos 
+Señalaremos además el rol que la iglesia 
