@@ -57,7 +57,7 @@ function draw() {
     //var nbr = String.prototype.toUpperCase(nombres[n]);
     if (dimr[n] != -1 || !compara(mc,color(colores[n]))) fill(0);
     else fill(0);
-    stroke(255);
+    noStroke();
     textStyle(BOLD);
 
     text(nombres[n], x[n], y[n]-10);
@@ -74,15 +74,15 @@ function draw() {
 
   // Titulo
   fill(255,200);
-  stroke(255);
+  stroke(155);
   rect(605, 375, 170, 120);
   fill(0);
   textStyle(BOLD);
   textSize(12);
   text("TAMAÑO MEDIO DE EXPLOTACIÓN ENTREGADA A COLONO", 620, 390, 150, 80);
   textStyle(NORMAL);
-  textSize(12);
-  text("Datos reales frente a datos según Plan de Colonización", 620, 440, 150, 80);
+  textSize(11);
+  text("Interacción con el ratón: Datos reales (verde) frente a datos según Plan de Colonización (blanco)", 620, 440, 150, 80);
 }
 
 
