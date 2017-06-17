@@ -2702,7 +2702,7 @@ twentytwenty-wrapper img {
 
 @media screen and (max-width: 736px) {
   .features li {
-    padding: 3em 3em 1em 3em; }
+    padding: 1em; }
     .features li h3,
     .features li p {
       text-align: left; } }

@@ -35,14 +35,14 @@ twentytwenty-wrapper img {
 @include breakpoint(small) {
   .features {
     li {
-      padding: 3em 3em 1em 3em;
+      padding: 1em;
 
       h3,
       p {
         text-align: left;
-      }
+      }      
     }
-  }  
+  }
 }
 /* Section Three */
 
