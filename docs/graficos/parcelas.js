@@ -26,7 +26,7 @@ function setup() {
   pg = createGraphics(800, 519);
   var as = 519. / 800.;
   var zoom = .8;
-  var w = windowidth*zoom;
+  var w = windowWidth*zoom;
   var h = windowHeight*as*zoom;
 
   createCanvas(w,h);
