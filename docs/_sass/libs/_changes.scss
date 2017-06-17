@@ -60,7 +60,7 @@ twentytwenty-wrapper img {
 // menu small devices
 
 #menu {
-
+  background: #60768B;
   ul {
 
     > li {
@@ -69,6 +69,8 @@ twentytwenty-wrapper img {
         @include breakpoint(small) {
           line-height: 2em;
         }
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
       }
     }
   }
@@ -77,4 +79,8 @@ twentytwenty-wrapper img {
 // rewrite link colors
 a {
   color: #4f85bb;
+}
+
+.wrapper.style3 {
+  background: #3D4955;
 }

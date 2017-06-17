@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("//fonts.googleapis.com/css?family=PT+Serif:400,400i,700");
+@import url("//fonts.googleapis.com/css?family=Open+Sans:700|PT+Serif:400,400i");
 /*
 	Spectral by HTML5 UP
 	html5up.net | @n33co
@@ -2716,9 +2716,17 @@ twentytwenty-wrapper img {
     #three .inner {
       width: 100%; } }
 
-@media screen and (max-width: 736px) {
+#menu {
+  background: #60768B; }
   #menu ul > li > a {
-    line-height: 2em; } }
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold; }
+    @media screen and (max-width: 736px) {
+      #menu ul > li > a {
+        line-height: 2em; } }
 
 a {
   color: #4f85bb; }
+
+.wrapper.style3 {
+  background: #3D4955; }
