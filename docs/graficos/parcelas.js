@@ -31,7 +31,7 @@ function setup() {
   var framesWidth = window.parent.$("iframe.p5").width();
   var framesHeight = window.parent.$("iframe.p5").height();
 
-  createCanvas(w,h);
+  createCanvas(framesWidth,framesHeight);
   nombres = new Array("Norte","Duero","Ebro","Pirineo","Jucar","Tajo","Guadiana","Guadalquivir","Sur", "Segura", "Baleares y Canarias");
   colores = new Array("#f00","#0f0","#00f","#ff0","#0ff","#a00","#0a0","#00a","#aa0","#0aa", "#aaa");
   x = new Array(158,243, 429, 597, 432, 268, 226, 253, 362,432, 611);
