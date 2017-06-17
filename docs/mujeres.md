@@ -14,6 +14,10 @@ En relación a las mujeres que trabajan en labores agrícolas encontramos a muje
 ![Unidades de trabajo](images/Unidadestrabajo.jpg)
 
 Fuente: Elaboración propia a partir de GÓMEZ BENITO, C. Políticos, burócratas y expertos. Un estudio de la política agraria y la sociología rural en España (1936-1959). Siglo XXI de España Editores S.A (1995) e iconos de Adrien Coquet en [Noun Project](http://thenounproject.com)
+
+
+
+
 laséstas las que fueron cuantificadas
 
 
