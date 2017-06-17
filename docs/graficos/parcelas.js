@@ -25,7 +25,7 @@ function preload() {
 function setup() {
   pg = createGraphics(800, 519);
   var as = 519. / 800.;
-  var w = windowWidth;
+  var w = windowWidth*.95;
   var h = windowWidth*as;
 
   createCanvas(w,h);
