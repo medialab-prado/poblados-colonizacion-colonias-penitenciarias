@@ -58,7 +58,7 @@ function draw() {
     var nbr = String.prototype.toUpperCase(nombres[n]);
     if (dimr[n] != -1 || !compara(mc,color(colores[n]))) fill(0);
     else fill(0);
-    textStyle(BOLD);
+    //textStyle(BOLD);
     text(nbr, x[n], y[n]-10);
     textStyle(NORMAL);
     if (compara(mc,color(colores[n]))) {
