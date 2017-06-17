@@ -18,11 +18,11 @@
       width: 40em;
 
       @include breakpoint(large) {
-        width: 90%;
+        width: 45em;
       }
 
       @include breakpoint(medium) {
-        width: 45em;
+        width: 90%;
       }
     }
   }

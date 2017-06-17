@@ -63,7 +63,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		@include breakpoint(large) {
-			font-size: 12pt;
+			font-size: 13pt;
 		}
 
 		@include breakpoint(small) {
