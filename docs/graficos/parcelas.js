@@ -31,7 +31,7 @@ function setup() {
 
 
 function draw() {
-  background(0,0);
+  background("#cad2d3");
   // capas
   for (var n = 0; n < ids.length; n++) {
     if (dimr[n] != -1) image(capas[n],0,0);
@@ -69,6 +69,15 @@ function draw() {
       else text("(Sin datos)", x[n], y[n]+5);
     }
   }
+
+  // Titulo
+  fill(0);
+  textStyle(BOLD);
+  textSize(14);
+  text("TAMAÑO MEDIO DE EXPLOTACIÓN ENTREGADA A COLONO", 600, 350, 150, 80);
+  textStyle(NORMAL);
+  textSize(14);
+  text("Datos reales frente a datos según Plan de Colonización", 600, 430, 150, 80);
 }
 
 
