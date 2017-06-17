@@ -92,7 +92,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 	p {
-		margin: 0 0 _size(element-margin) 0;
+		margin: 0 auto _size(element-margin) auto;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -208,6 +208,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	.align-right {
 		text-align: right;
 	}
+
 
 /* Section/Article */
 
@@ -1227,7 +1228,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		@include padding(6em, 0);
 
 		> .inner {
-			width: 45em;
+			width: 55em;
 			margin: 0 auto;
 
 			@include breakpoint(large) {
@@ -1236,6 +1237,17 @@ $baseurl: '{{ site.baseurl }}/images';
 
 			@include breakpoint(medium) {
 				width: 100%;
+			}
+			> p {
+				width: 45em;
+				
+				@include breakpoint(large) {
+					width: 90%;
+				}
+
+				@include breakpoint(medium) {
+					width: 100%;
+				}
 			}
 		}
 
