@@ -67,7 +67,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		@include breakpoint(small) {
-			font-size: 11pt;
+			font-size: 12pt;
 			letter-spacing: _size(letter-spacing) * 0.5;
 		}
 	}
