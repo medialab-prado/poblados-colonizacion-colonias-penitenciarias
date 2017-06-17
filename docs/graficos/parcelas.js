@@ -25,8 +25,9 @@ function preload() {
 function setup() {
   pg = createGraphics(800, 519);
   var as = 519. / 800.;
-  var w = document.innerWidth;
-  var h = document.innerHeight*as;
+  var zoom = .8;
+  var w = document.innerWidth*zoom;
+  var h = document.innerHeight*as*zoom;
 
   createCanvas(w,h);
   nombres = new Array("Norte","Duero","Ebro","Pirineo","Jucar","Tajo","Guadiana","Guadalquivir","Sur", "Segura", "Baleares y Canarias");
