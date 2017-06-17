@@ -116,5 +116,5 @@ function compara(c1, c2) {
 }
 
 function windowResized() {
-  resizeCanvas(windowWidth*zoom, windowHeight*zoom);
+  resizeCanvas(windowWidth, windowHeight);
 }
