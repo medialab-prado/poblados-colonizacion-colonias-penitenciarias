@@ -75,14 +75,18 @@ function draw() {
   // Titulo
   fill(255,200);
   stroke(155);
-  rect(605, 375, 170, 120);
+  rect(605, 365, 170, 130);
   fill(0);
   textStyle(BOLD);
   textSize(12);
-  text("TAMAÑO MEDIO DE EXPLOTACIÓN ENTREGADA A COLONO", 620, 390, 150, 80);
+  text("TAMAÑO MEDIO DE EXPLOTACIÓN ENTREGADA A COLONO", 620, 380, 150, 80);
   textStyle(NORMAL);
   textSize(11);
-  text("Interacción con el ratón: Datos reales (verde) frente a datos según Plan de Colonización (blanco)", 620, 440, 150, 80);
+  noStroke();
+  fill(155,0,0);
+  text("Interacción con el ratón:",620, 430, 150, 20);
+  fill(0);
+  text("Datos reales (verde) frente a datos según Plan de Colonización (blanco)", 620, 445, 150, 80);
 }
 
 
