@@ -14,7 +14,7 @@
     @include breakpoint(medium) {
       width: 100%;
     }
-    > p {
+    > p, header {
       width: 40em;
 
       @include breakpoint(large) {
