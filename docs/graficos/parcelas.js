@@ -32,7 +32,8 @@ function setup() {
 
 function draw() {
   background(200,225,225);
-  translate((width-519)*.5,0);
+  var dx = (width-519)*.5;
+  translate(dx,0);
   // capas
   for (var n = 0; n < ids.length; n++) {
     if (dimr[n] != -1) image(capas[n],0,0);
@@ -42,7 +43,7 @@ function draw() {
   }
 
   // Parcelas segun PGC
-  var mc = cmap.get(mouseX,mouseY);
+  var mc = cmap.get(mouseX+dx,mouseY);
   for (var n = 0; n < colores.length; n++) {
     if (compara(mc,color(colores[n]))) {
       tint(255,100);
@@ -55,7 +56,7 @@ function draw() {
   // nombres
   textSize(14);
   for (var n = 0; n < nombres.length; n++) {
-    var nbr = String.prototype.toUpperCase(nombres[n]);
+    //var nbr = String.prototype.toUpperCase(nombres[n]);
     if (dimr[n] != -1 || !compara(mc,color(colores[n]))) fill(0);
     else fill(0);
     textStyle(BOLD);
