@@ -2715,3 +2715,10 @@ twentytwenty-wrapper img {
   @media screen and (max-width: 980px) {
     #three .inner {
       width: 100%; } }
+
+@media screen and (max-width: 736px) {
+  #menu ul > li > a {
+    line-height: 2em; } }
+
+a {
+  color: #4f85bb; }

@@ -40,14 +40,14 @@ twentytwenty-wrapper img {
       h3,
       p {
         text-align: left;
-      }      
+      }
     }
   }
 }
 /* Section Three */
 
 #three .inner {
-	width: 60em;
+  width: 60em;
 
   @include breakpoint(large) {
     width: 100%;
@@ -55,5 +55,26 @@ twentytwenty-wrapper img {
   @include breakpoint(medium) {
     width: 100%;
   }
+}
 
+// menu small devices
+
+#menu {
+
+  ul {
+
+    > li {
+
+      > a {
+        @include breakpoint(small) {
+          line-height: 2em;
+        }
+      }
+    }
+  }
+}
+
+// rewrite link colors
+a {
+  color: #4f85bb;
 }
