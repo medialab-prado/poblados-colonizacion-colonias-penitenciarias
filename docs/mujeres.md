@@ -2,7 +2,13 @@
 layout: page
 title: Las mujeres en el proceso colonizador
 ---
-Ella
+Aunque puede parecer que las políticas de colonización se construyen de espaldas al género, es el trabajo reproductivo y de cuidados el que convierte en viable al proyecto en si. Las mujeres han aparecido, cuando lo han hecho, como apéndices complementarios de aquel hombre vinculado al mundo agrícola que asumía todo el protagonismo, a la vez que se utilizaba y se reconstruía como símbolo patrio.
+
+Ellas aparecen, como no podía ser de otro modo en un hecho social, vinculadas a los diferentes Las mujeres de los presos, 
+
+
+cNo solo ha sido invisibilizado el trabajo reprodictivo y de cuidados
+**¿Quiénes son?** 
 
 El sistema de equivalencia que se estableció como uno de los [requisitos para ser seleccionado como colono](https://medialab-prado.github.io/poblados-colonizacion-colonias-penitenciarias/colono.html) invisibilizaba a las mujeres de la unidad familiar cuando no las ubicaba en los tramos más bajos en relación con el trabajo productivo. Así, las mujeres dedicadas a los trabajos domésticos (esposa del colono) y las que, en el núcleo familiar tuvieran a su cargo hijos/as menores de tres años no computaban de ningún modo como fuerza laboral. Además, las que sí que lo hacían por no ubicarse en los epígrafes anteriormente mencionados, tan sólo obtenían un 0,25, la mitad de lo que representaba un varón de entre 12 y 14 años (0,50).
 
@@ -19,3 +25,4 @@ jornaleras,
 esposas-hijas de los colonos, El Hogar, la sección femenina. 
 la excepción de "las colonas"
 Las "maestras", las únicas remuneradas. 
+Las mujeres de los presos (El canal de los presos)
