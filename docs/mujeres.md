@@ -7,4 +7,5 @@ El sistema de equivalencia que se estableció como uno de los [requisitos para s
 
 
 ![Unidades de trabajo](images/Unidadestrabajo.jpg)
+
 Fuente: GÓMEZ BENITO C. Políticos, burócratas y expertos. Un estudio de la política agraria y la sociología rural en España (1936-1959). Siglo XXI de España Editores S.A (1995)
