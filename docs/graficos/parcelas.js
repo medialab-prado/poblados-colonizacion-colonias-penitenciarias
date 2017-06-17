@@ -57,6 +57,7 @@ function draw() {
     //var nbr = String.prototype.toUpperCase(nombres[n]);
     if (dimr[n] != -1 || !compara(mc,color(colores[n]))) fill(0);
     else fill(0);
+    stroke(255);
     textStyle(BOLD);
 
     text(nombres[n], x[n], y[n]-10);
@@ -65,18 +66,22 @@ function draw() {
         text("Plan inicial: " + dim[n]+"  Has", x[n], y[n]+5);
     }
     else {
+      noStroke();
       if (dimr[n] != -1) text("Parcela media: " + dimr[n]+" Has", x[n], y[n]+5);
       else text("(Sin datos)", x[n], y[n]+5);
     }
   }
 
   // Titulo
+  fill(255,200);
+  stroke(255);
+  rect(585, 365, 170, 150);
   fill(0);
   textStyle(BOLD);
-  textSize(14);
-  text("TAMAÑO MEDIO DE EXPLOTACIÓN ENTREGADA A COLONO", 600, 350, 150, 80);
+  textSize(12);
+  text("TAMAÑO MEDIO DE EXPLOTACIÓN ENTREGADA A COLONO", 600, 380, 150, 80);
   textStyle(NORMAL);
-  textSize(14);
+  textSize(12);
   text("Datos reales frente a datos según Plan de Colonización", 600, 430, 150, 80);
 }
 
