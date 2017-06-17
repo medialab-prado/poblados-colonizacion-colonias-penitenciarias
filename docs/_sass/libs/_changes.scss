@@ -13,7 +13,7 @@
       width: 100%;
     }
     > p {
-      width: 45em;
+      width: 40em;
 
       @include breakpoint(large) {
         width: 90%;
@@ -32,3 +32,11 @@ img {
     width: 100%;
   }
 }
+
+// Font.
+	$font: (
+		family:				('PT Serif', serif),
+		family-fixed:		('Courier New', monospace),
+		weight:				400,
+		weight-bold:		700
+	);
