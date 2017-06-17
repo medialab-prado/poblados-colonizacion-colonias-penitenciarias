@@ -50,7 +50,7 @@ function draw() {
   textStyle(BOLD);
   textSize(14);
   for (var n = 0; n < nombres.length; n++) {
-    var nbr = String.toUpperCase(nombres[n]);
+    var nbr = nombres[n].toUpperCase();
     fill(255);
     noStroke();
     fill(0);
