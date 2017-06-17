@@ -8,8 +8,7 @@ $baseurl: '{{ site.baseurl }}/images';
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'font-awesome.min.css';
-//@import url('//fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
-@import url('//fonts.googleapis.com/css?family=Crimson+Text:400,400i,700');
+@import url('//fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
 /*
 	Spectral by HTML5 UP
 	html5up.net | @n33co
@@ -51,8 +50,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	body, input, select, textarea {
 		color: _palette(fg);
-		//font-family: _font(family);
-		font-family: 'Crimson Text', serif;
+		font-family: _font(family);
 		font-size: 15pt;
 		font-weight: _font(weight);
 		letter-spacing: _size(letter-spacing);
