@@ -261,7 +261,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 
 			@include breakpoint(small) {
-				margin: 0 0 _size(element-margin) 0;
+				margin: 0 0 _size(element-margin) _size(element-margin) * .75;
 			}
 		}
 
