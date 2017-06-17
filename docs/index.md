@@ -1,6 +1,6 @@
 ---
 layout: title
-title: Titulo Introducción - presentación
+title: Introducción
 ---
 
 
