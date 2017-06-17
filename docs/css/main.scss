@@ -1627,6 +1627,12 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+/* Section Three */
+
+#three .inner {
+	max-width: 60em;
+}
+
 /* CTA */
 
 	#cta {
