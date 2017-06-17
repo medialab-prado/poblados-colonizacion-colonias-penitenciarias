@@ -31,7 +31,7 @@ function setup() {
 
 
 function draw() {
-  background(0,0);
+  background("#cad2d3");
   // capas
   for (var n = 0; n < ids.length; n++) {
     if (dimr[n] != -1) image(capas[n],0,0);
