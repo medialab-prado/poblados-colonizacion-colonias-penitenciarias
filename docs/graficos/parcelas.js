@@ -75,7 +75,7 @@ function draw() {
   // Titulo
   fill(255,200);
   stroke(255);
-  rect(585, 365, 170, 150);
+  rect(585, 365, 170, 100);
   fill(0);
   textStyle(BOLD);
   textSize(12);
