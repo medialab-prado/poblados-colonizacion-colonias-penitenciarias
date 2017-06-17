@@ -105,22 +105,22 @@ $.getJSON("data/zonas.geojson", function(zon_data){
 		else if (type == "C") fillColor = "#31a354";
 		else fillColor = "#f7f7f7"; //no data
 		return { color: "#999", weight: 0, fillColor: fillColor, fillOpacity: .6};
-	},
-	onEachFeature: function (feature, layer){
-		layer.bindPopup( "<strong> Nombre: " + feature.properties.Nombre + "</strong><br/>" + "<strong> Tipo: </strong>" + feature.properties.D_Tipo + "<br/>" + "<strong> Estado: </strong>" +feature.properties.D_Estado)
-	}
-} ).addTo(mymap);
+    },
+    onEachFeature: function (feature, layer){
+      layer.bindPopup( "<strong> Nombre: " + feature.properties.Nombre + "</strong><br/>" + "<strong> Tipo: </strong>" + feature.properties.D_Tipo + "<br/>" + "<strong> Estado: </strong>" +feature.properties.D_Estado)
+    }
+  }).addTo(mymap);
+
+  var legend = L.control({position: 'bottomright'});
+
+  legend.onAdd = function (mymap) {
+    var div = L.DomUtil.create('div', 'info legend');
+    div.innerHTML = "<i style='background: #e5f5e0'> </i>Poblados de Colonización <br> Colonias Penitenciarias <br> Embalses";
+    return div;
+  };
+
+  legend.addTo(mymap);
 });
-
-var legend = L.control({position: 'bottomright'});
-
-legend.onAdd = function (mymap) {
-	 var div = L.DomUtil.create('div', 'info legend');
-	 div.innerHTML = "<i style='background: #e5f5e0'> </i>Poblados de Colonización <br> Colonias Penitenciarias <br> Embalses";
-	 return div;
-};
-
-legend.addTo(mymap);
 </script>
 
 </body>

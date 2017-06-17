@@ -6,7 +6,7 @@ Uno de los episodios más relevantes entre los procesos operados sobre el territ
 
 La necesidad de mano de obra para las tierras puestas en producción implicó la construcción de un gran número de nuevos pueblos, los llamados poblados de colonización. Dispuestos en redes de pequeños núcleos urbanos sitas en el interior de las zonas regables, fueron pueblos diseñados por algunos de los arquitectos más relevantes del momento <a href="urbanismo">cuyos trazados vanguardistas llaman todavía hoy la atención</a>. Cada familia de colonos, <a href="colono">seleccionada tanto por sus capacidades y competencias como por criterios de buena conducta</a>, recibía así una vivienda y una parcela que había de costear con los réditos de su trabajo.
 
-{% include mapa.html %}
+AQUI VA EL MAPA: include mapa.html
 
 En muchos casos, las tierras recibidas eran de muy baja calidad, <a href="mecanismos-expropiacion">debido a una compleja mecánica de expropiación que benefició a los grandes terratenientes y a las redes clientelares del Régimen</a>. Los suelos no fueron la única dificultad que estos pobladores tuvieron que afrontar; a esta hay que sumarle la burocratización debida al continuo control del Instituto de Colonización, <a href="mujeres">la invisibilización del papel de las mujeres</a> y un diseño estacionario de los planes que contempló tardíamente la mecanización de la agricultura. Pese a todas estas dificultades, sin embargo, <a href="colono-ciudadano">las sucesivas generaciones de colonos pusieron en práctica las nuevas técnicas y han formado parte así de la buscada modernización agraria</a>.
 
