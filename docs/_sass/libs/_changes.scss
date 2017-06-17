@@ -1,5 +1,8 @@
 .wrapper {
   @include padding(6em, 0);
+  @include breakpoint(small) {
+    @include padding(2em, 0, 4, 0);
+  }
 
   > .inner {
     width: 55em;
@@ -20,7 +23,7 @@
       }
 
       @include breakpoint(medium) {
-        width: 90%;
+        width: 45em;
       }
     }
   }
