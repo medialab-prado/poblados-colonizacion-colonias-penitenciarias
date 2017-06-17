@@ -1,6 +1,6 @@
 .wrapper {
   @include breakpoint(small) {
-    @include padding(2em, 0, 2em, 0);
+    @include padding(2em, 0);
   }
 
   > .inner {
