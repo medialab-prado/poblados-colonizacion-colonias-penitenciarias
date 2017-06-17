@@ -25,7 +25,7 @@ function preload() {
 function setup() {
   pg = createGraphics(800, 519);
   var as = 519. / 800.;
-  var w = document.querySelectorAll(".video-container").offsetWidth;
+  var w = windowWidth;
   var h = windowWidth*as;
 
   createCanvas(w,h);
