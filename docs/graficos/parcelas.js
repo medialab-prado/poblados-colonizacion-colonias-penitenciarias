@@ -75,14 +75,14 @@ function draw() {
   // Titulo
   fill(255,200);
   stroke(255);
-  rect(585, 365, 170, 120);
+  rect(605, 385, 170, 120);
   fill(0);
   textStyle(BOLD);
   textSize(12);
-  text("TAMAÑO MEDIO DE EXPLOTACIÓN ENTREGADA A COLONO", 600, 380, 150, 80);
+  text("TAMAÑO MEDIO DE EXPLOTACIÓN ENTREGADA A COLONO", 620, 400, 150, 80);
   textStyle(NORMAL);
   textSize(12);
-  text("Datos reales frente a datos según Plan de Colonización", 600, 430, 150, 80);
+  text("Datos reales frente a datos según Plan de Colonización", 620, 450, 150, 80);
 }
 
 
