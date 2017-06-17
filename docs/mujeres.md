@@ -4,8 +4,12 @@ title: Las mujeres en el proceso colonizador
 ---
 Aunque puede parecer que las políticas de colonización se construyen de espaldas al género, es el trabajo reproductivo y de cuidados el que convierte en viable al proyecto en si. Las mujeres han aparecido, cuando lo han hecho, como apéndices complementarios de aquel hombre vinculado al mundo agrícola que asumía todo el protagonismo, a la vez que se utilizaba y se reconstruía como símbolo patrio.
 
-Ellas aparecen, como no podía ser de otro modo en un hecho social, vinculadas a los diferentes Las mujeres de los presos, 
+Ellas aparecen, como no podía ser de otro modo, vinculadas en las diferentes etapas del proceso. Lo hacen como **compañeras de los presos políticos** que adscritos al [Programa de Redención de Penas por el Trabajo](...) construyen las numerosas infraestructuras que vertebrarán los nuevos espacios de regadío.
+>El ingreso en la cárcel y, posteriormente, en el campo de trabajo significaba un duro golpe para la subsistencia de todo el grupo familiar. A partir de ese momento las mujeres debían asumir un nuevo papel: ellas pasaban a ser las "cabezas" de familia. Era necesario subsistir fuera del campo, y en ocasiones era necesario buscar dinero para aproximarse a Sevilla para estar cerca de los compañeros apresados y poder llevarles comida. A la vez, muchas de estas mujeres se hicieron cargo de la manutención de los padres ancianos impedidos para el trabajo remunerado. Las vidas de las mujeres de los presos se asemejan en muchas cosas unas
+a otras. Son vidas paralelas donde la autoexplotación de todo el grupo doméstico es imprescindible para la supervivencia.
 
+
+(https://www.planetadelibros.com/libro-el-canal-de-los-presos-1940-1962/17486#soporte/17486)
 
 cNo solo ha sido invisibilizado el trabajo reprodictivo y de cuidados
 **¿Quiénes son?** 
