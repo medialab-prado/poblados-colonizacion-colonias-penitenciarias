@@ -31,7 +31,6 @@ function setup() {
   var h = windowHeight*as*zoom;
 
   createCanvas(w,h);
-  resizeCanvas(windowWidth*zoom, windowHeight*zoom);
   nombres = new Array("Norte","Duero","Ebro","Pirineo","Jucar","Tajo","Guadiana","Guadalquivir","Sur", "Segura", "Baleares y Canarias");
   colores = new Array("#f00","#0f0","#00f","#ff0","#0ff","#a00","#0a0","#00a","#aa0","#0aa", "#aaa");
   x = new Array(158,243, 429, 597, 432, 268, 226, 253, 362,432, 611);
