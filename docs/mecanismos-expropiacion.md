@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Mecanismos de expropiación y plusvalía
+subtitle: subtitulo
 ---
-
-Hola
-*Hola*
 
 
 {% include _expropiacion.html %}
