@@ -10,8 +10,12 @@ Los requisitos indispensables vinculados directamente con la situación personal
 * Ser mayor de 23 años, licenciado del ejército o exento del servicio militar.
 * Acreditar una préctica agrícola reciente de 2 años al menos
 * Acreditar unas dotes de moralidad y conducta aceptables
-
-
+Además tendrían preferencia los que a su vez:
+* Poseyeran conocimientos de regadío
+* ser casado o viudi con hijos
+* Tener el mayor número de hijos
+* Saber leer y escribir. Los analfabetos que resulten admitidos están obligados a aprender a leer y escribir en un plazo de tres años  pudiendo ser expulsado por la Dirección General de Colonización si no cumpliera con el compromiso.
+* Tener menos de cincuenta años.
 
 El elemento humano 
 mento  humano  adecuado,
