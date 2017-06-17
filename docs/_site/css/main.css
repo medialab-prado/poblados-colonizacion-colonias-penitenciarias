@@ -2700,12 +2700,12 @@ body.is-mobile.landing #footer {
 twentytwenty-wrapper img {
   width: 100%; }
 
-.features li {
-  padding: 3em 3em 1em 3em; }
-  .features li h3,
-  .features li p {
-    text-align: left; }
-
+@media screen and (max-width: 736px) {
+  .features li {
+    padding: 3em 3em 1em 3em; }
+    .features li h3,
+    .features li p {
+      text-align: left; } }
 /* Section Three */
 #three .inner {
   width: 60em; }
