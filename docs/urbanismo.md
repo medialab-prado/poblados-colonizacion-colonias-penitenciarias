@@ -14,5 +14,6 @@ A día de hoy algunos de estos pueblos se han quedado como joyas de esta arquite
 
 <img style="max-width:100%" src="//cdn.thinglink.me/api/image/932648009341075457/1024/10/scaletowidth#tl-932648009341075457;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
 
-
+<div class="video-container">
 ![Módulo carro](images/modulo-carro.jpg)
+</div>
