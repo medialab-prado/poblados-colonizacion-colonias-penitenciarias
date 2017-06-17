@@ -58,8 +58,9 @@ function draw() {
     var nbr = String.prototype.toUpperCase(nombres[n]);
     if (dimr[n] != -1 || !compara(mc,color(colores[n]))) fill(0);
     else fill(0);
-    //textStyle(BOLD);
-    text(nbr, x[n], y[n]-10);
+    textStyle(BOLD);
+
+    text(nombres[n], x[n], y[n]-10);
     textStyle(NORMAL);
     if (compara(mc,color(colores[n]))) {
         text("Plan inicial: " + dim[n]+"  Has", x[n], y[n]+5);
