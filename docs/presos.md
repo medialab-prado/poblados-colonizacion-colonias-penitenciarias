@@ -4,7 +4,9 @@ title: Empleo de presos en las grandes obras
 subtitle: De la represión política a la explotación económica
 ---
 
-En un batallón de tierra la jornada laboral no terminaba hasta que el cupo de 4 metros cúbicos excavados por persona era completado. Un trabajo extenuante a cambio de 2 pesetas y 50 céntimos diarios, apenas la cuarta parte del sueldo medio en este tipo de tareas. De las 2,50, además, 1,50 no se entregaban al trabajador: pasaban -cuando no se perdían en el camino- al grueso de su cartilla de liberación. Y es que hablamos de reclusos, de presos políticos en particular.
+4 metros cúbicos excavados, por persona y día. Mientras el cupo no estuviera completado, la jornada no terminaba. Un trabajo extenuante a cambio de 2 pesetas y 50 céntimos diarios, apenas la cuarta parte del sueldo medio en este tipo de tareas. De las 2,50, además, 1,50 no se entregaban al trabajador: pasaban -cuando no se perdían en el camino- al grueso de su cartilla de liberación. Y es que hablamos de reclusos, de presos políticos en particular, empleados como mano de obra.
+
+# Redención de Penas por el Trabajo
 
 El jesuita José Agustín Pérez del Pulgar lo vio claro. En aras de que el ingente número de prisioneros capturados durante y después de la Guerra Civil no constituyera "un peso muerto al erario público", estos debían sustentarse a sí mismos con su propio trabajo. El programa de Redención de Penas por el Trabajo fue creado en 1937 a partir de esta idea. Y con él, una fuente de mano de obra gratuita para el Régimen que, en el contexto de necesidad de infraestructuras que la empresa colonizadora demandaba, resultó ser crucial en algunas de las obras más significativas.
 
