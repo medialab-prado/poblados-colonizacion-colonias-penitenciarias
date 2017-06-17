@@ -28,9 +28,20 @@
   }
 }
 
-img {
-  &.twentytwenty-before,
-  &.twentytwenty-after {
+twentytwenty-wrapper img {
+  width: 100%;
+
+}
+/* Section Three */
+
+#three .inner {
+	width: 60em;
+
+  @include breakpoint(large) {
     width: 100%;
   }
+  @include breakpoint(medium) {
+    width: 100%;
+  }
+
 }

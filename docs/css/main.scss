@@ -951,6 +951,7 @@ $baseurl: '{{ site.baseurl }}/images';
 				}
 			}
 
+
 			@include breakpoint(small) {
 				@include padding(3em, 0);
 				background-color: transparent !important;
@@ -1616,11 +1617,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
-/* Section Three */
 
-#three .inner {
-	width: 60em;
-}
 
 /* CTA */
 
