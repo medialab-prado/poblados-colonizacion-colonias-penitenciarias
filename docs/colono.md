@@ -8,7 +8,8 @@ title: El colono
 
 Los requisitos indispensables vinculados directamente con la situación personal del candidato se repetían, y aunque con algunas variaciones, mantenían unos criterios muy similares:
 * Ser mayor de 23 años, licenciado del ejército o exento del servicio militar.
-*Acreditar una préctica agrícola
+* Acreditar una préctica agrícola reciente de 2 años al menos
+* Acreditar unas dotes de moralidad y conducta aceptables
 
 
 
