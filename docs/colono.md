@@ -32,3 +32,9 @@ Las condiciones serán modificadas a partir de 1958, o al menos así sucede para
 No podemos dejar de señalar el rol que la iglesia católica tiene tanto en el proceso de selección como en el acompañamiento doctrinal en estos nuevos espacios construidos.  Las referencias son numerosas, pero destacaremos el artículo aparecido en el principal medio propagandístico con el que el INC contaba, la revista Colonización y que encaja con el modelo paternalista que el Estado promueve.
 
 >Un colono que tenga una primaria fe religiosa, un elemental concepto del deber y honradez, que se encuentre sano de cuerpo, sin tristes taras hereditarias, con una elemental instrucción, será el germen que asegure un desenvolvimiento próspero del núcleo de población creado. -ESCARDÓ PEINADOR, G. El hombre, factor básico de la colonización. Colonización , nº 9, 1949
+
+**De colono a ciudadano.** La historia de la colonización no sólo una, y gran parte de sus espacios están dibujados con los recuerdos de una generación que creció y transitó parte de su vida adulta vinculada a uno de los programas más ambiciosos que el estado franquista operó. Esta segunda generación, los hijos e hijas de los colonos.
+**CONTINUAR. Presentar a Nuestros entrevistados**
+
+SIN CERTEZAS. Y esta segunda generación será la que herede bienes que durante mucho tiempo no fueron certezas. Se ha pagado muy poco. Cuando se murió tu padre (en referencia a la hija de un colono) no tenías la propiedad todavía, no se había hecho la escritura todavía. (Mariano y Milagros, hijos de colonos).
+
