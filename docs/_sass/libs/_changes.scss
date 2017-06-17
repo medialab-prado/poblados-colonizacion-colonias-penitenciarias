@@ -32,6 +32,16 @@ twentytwenty-wrapper img {
   width: 100%;
 
 }
+.features {
+  li {
+    padding: 3em 3em 1em 3em;
+
+    h3,
+    p {
+      text-align: left;
+    }
+  }
+}
 /* Section Three */
 
 #three .inner {

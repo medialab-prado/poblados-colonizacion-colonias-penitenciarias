@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- 1 -->
+     <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+     <style type="text/css">
+     .tl-timemarker .tl-timemarker-content-container {
+       background-color: #e50000;
+     }
+     .tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline, .tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline p {
+       color: #fff;
+     }
+     </style>
+     <!-- 2 -->
+     <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
+     <div id='timeline-embed' style="width: 100%; height: 500px"></div>
+
+     <!-- 3 -->
+     <script type="text/javascript">
+       // The TL.Timeline constructor takes at least two arguments:
+       // the id of the Timeline container (no '#'), and
+       // the URL to your JSON data file or Google spreadsheet.
+       // the id must refer to an element "above" this code,
+       // and the element must have CSS styling to give it width and height
+       // optionally, a third argument with configuration options can be passed.
+       // See below for more about options.
+       var additionalOptions = {
+              start_at_end: false,
+              start_at_slide:0,
+              scale_factor:0.75,
+              default_bg_color: {r:255, g:255, b:255},
+              timenav_height: 150
+            }
+       timeline = new TL.Timeline('timeline-embed',
+         'https://docs.google.com/spreadsheets/d/1VLDzqJzMt7yB29pRsdO_HfDVbCXrdIHXP9R2LNDSE9c/pubhtml',additionalOptions);
+     </script>
+  <style> body {padding: 0; margin: 0;} </style>
+  </head>
+  <body>
+  </body>
+</html>
