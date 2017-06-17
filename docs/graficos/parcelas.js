@@ -28,8 +28,8 @@ function setup() {
   var as = 519. / 800.;
   zoom = .95;
 
-  var framesWidth = window.parent.$("iframe.p5").width();
-  var framesHeight = window.parent.$("iframe.p5").height();
+  var framesWidth = document.getElementbyId("#p5").offsetWidth;
+  var framesHeight = document.getElementbyId("#p5").offsetHeight;
 
   createCanvas(framesWidth,framesHeight);
   nombres = new Array("Norte","Duero","Ebro","Pirineo","Jucar","Tajo","Guadiana","Guadalquivir","Sur", "Segura", "Baleares y Canarias");
