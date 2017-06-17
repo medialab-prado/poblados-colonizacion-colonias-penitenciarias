@@ -3,7 +3,7 @@ var nombres;
 var plot;
 
 function setup() {
-  createCanvas(800-130,519);
+  createCanvas(800,519);
   nombres = new Array("Norte","Duero","Ebro","Pirineo","Jucar","Tajo","Guadiana","Guadalquivir","Sur", "Segura", "Islas");
   exceso = new Array(15267,35628,136465,3466,19615,64179,81809,148193,13326,35075,3235);
   reserva = new Array(12251,62730,131128,24433,54545,68854,82052,140453,20980,131042,5985);
@@ -13,18 +13,18 @@ function setup() {
   var points = [];
 
   for (var n = 0; n < nombres.length; n++) {
-    points[n] = new GPoint(exceso[n]+reserva[n], exceptuadas[n], nombres[n]);
+    points[n] = new GPoint(exceso[n], exceptuadas[n], nombres[n]);
     pointSizes[n] = map(reserva[n],5000,141000,5,100);
   }
 
   // Creamos el plot
   plot = new GPlot(this);
-  plot.setDim(width-100, height-100);
+  plot.setDim(width-230, height-100);
   plot.setTitleText("Tierras en exceso, reserva y exceptuadas por cuenca hidrografica segun PGC");
   plot.getXAxis().setAxisLabelText("Tierras en exceso (Has)");
-  plot.getYAxis().setAxisLabelText("Tierras en reserva y exceptuadas (Has)");
+  plot.getYAxis().setAxisLabelText("Tierras exceptuadas (Has)");
   plot.setPoints(points);
-  //plot.setPointSizes(pointSizes);
+  plot.setPointSizes(pointSizes);
   plot.setPointColor(color(255,0,0,50));
   plot.setLineColor(color(0));
   plot.setLabelBgColor(color(255,0));
@@ -45,7 +45,7 @@ function draw() {
   plot.drawLabels();
   plot.drawAllLabels();
   plot.endDraw();
-/*
+
     textFont("Helvetica");
     textSize(11);
     fill(0);
@@ -60,5 +60,5 @@ function draw() {
     noFill();
     ellipse(720, 455, 10, 10);
     fill(0);
-    text("14000", 720, 475);*/
+    text("14000", 720, 475);
 }
