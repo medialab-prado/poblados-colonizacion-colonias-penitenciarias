@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Agua, reforma agraria y colonización. Contexto internacional de modernización agrícola
-subtitle: Agua, reforma agraria y colonización. Contexto internacional de modernización agrícola
+title: Las raíces de la colonización agraria
+subtitle: Agua, reforma agraria y colonización. 
 ---
 
-**Agua, reforma agraria y colonización**. El proyecto y
+El proyecto y
 políticas de colonización agraria del Estado franquista desplegadas por el
 Instituto Nacional de Colonización (1939-1973) no surgen de la nada. Siguiendo a
 [Cristóbal Gómez Benito](http://historiadelpresente.es/sites/default/files/revista/articulos/3/305unarevisionyunareflexionsobrelapoliticadecolonizacionagrariaenlaespanadefranco.pdf),
