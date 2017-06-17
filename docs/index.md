@@ -17,7 +17,7 @@ La necesidad de mano de obra para las tierras puestas en producción implicó la
 
 - dibujarlo con palabras
 
-AQUI VA EL MAPA: include mapa.html
+{% include mapa.html %}
 
 En muchos casos, las tierras recibidas eran de muy baja calidad, <a href="mecanismos-expropiacion">debido a una compleja mecánica de expropiación que benefició a los grandes terratenientes y a las redes clientelares del Régimen</a>. Los suelos no fueron la única dificultad que estos pobladores tuvieron que afrontar; a esta hay que sumarle la burocratización debida al continuo control del Instituto de Colonización, <a href="mujeres">la invisibilización del papel de las mujeres</a> y un diseño estacionario de los planes (quitar de los planes) que contempló tardíamente la mecanización de la agricultura. (punto y aparte)
 
