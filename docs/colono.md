@@ -14,4 +14,6 @@ Además se priorizarían los que a su vez los que:
 
 Las condiciones serán modificadas a partir de 1958, o al menos así sucede para la Delegación de Talavera de la Reina, donde serán las [unidades familiares del trabajo](https://medialab-prado.github.io/poblados-colonizacion-colonias-penitenciarias/mujeres.html) las que definan con más precisión el acceso.
 
-Señalaremos además el rol que la iglesia 
+No podemos dejar de señalar el rol que la iglesia católica tiene tanto en el proceso de selección como en el acompañamiento doctrinal en estos nuevos espacios construidos.  Las referencias son numerosas, pero destacaremos el artículo aparecido en el principal medio propagandístico con el que el INC contaba, la revista Colonización. 
+
+>Un colono que tenga una primaria fe religiosa, un elemental concepto del deber y honradez, que se encuentre sano de cuerpo, sin tristes taras hereditarias, con una elemental instrucción, será el germen que asegure un desenvolvimiento próspero del núcleo de población creado. -ESCARDÓ PEINADOR, G. El hombre, factor básico de la colonización. Colonización , nº 9, 1949 
