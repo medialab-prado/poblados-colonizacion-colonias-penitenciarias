@@ -27,8 +27,9 @@ function setup() {
   pg = createGraphics(800, 519);
   var as = 519. / 800.;
   zoom = .95;
-  var w = windowWidth*zoom;
-  var h = windowHeight*as*zoom;
+
+  var framesWidth = window.parent.$("iframe.p5").width();
+  var framesHeight = window.parent.$("iframe.p5").height();
 
   createCanvas(w,h);
   nombres = new Array("Norte","Duero","Ebro","Pirineo","Jucar","Tajo","Guadiana","Guadalquivir","Sur", "Segura", "Baleares y Canarias");
