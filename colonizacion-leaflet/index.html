@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	
+
 	<title>Colonización Interior - Mapa</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
+
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin=""/>
 
     <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js" integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg==" crossorigin=""></script>
@@ -25,7 +25,7 @@
 .info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } .info h4 { margin: 0 0 5px; color: #777; }
 .legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }</style>
 
-	
+
 </head>
 <body>
 
@@ -116,8 +116,8 @@ var legend = L.control({position: 'bottomright'});
 
 legend.onAdd = function (mymap) {
 	 var div = L.DomUtil.create('div', 'info legend');
-	 div.innerHTML = "<i style=background: #e5f5e0> </i>Poblados de Colonización <br> Colonias Penitenciarias <br> Embalses";
-	 return div;        
+	 div.innerHTML = "<i style='background: #e5f5e0'> </i>Poblados de Colonización <br> Colonias Penitenciarias <br> Embalses";
+	 return div;
 };
 
 legend.addTo(mymap);
