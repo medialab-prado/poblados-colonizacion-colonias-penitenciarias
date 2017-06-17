@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Las mujeres en el proceso colonizador
+
 ---
 Aunque puede parecer que las políticas de colonización se construyen de espaldas al género, es el trabajo reproductivo y de cuidados el que convierte en viable al proyecto en si. Las mujeres han aparecido en el diseño del proyecto colonizador, cuando lo han hecho, como apéndices complementarios de aquel varón vinculado al mundo agrícola que asumía todo el protagonismo, a la vez que se utilizaba y se reconstruía como símbolo patrio. Ellas están y participan en todas y cada una de las etapas del proceso. Pero ¿quiénes son?
 
@@ -18,5 +19,5 @@ Fuente: Elaboración propia a partir de GÓMEZ BENITO, C. Políticos, burócrata
 En el caso de las **jornaleras** propiamente dichas nos encontramos con mujeres que formando parte de cuadrillas itinerantes trabajan a destajo en tareas de recolección. 
 >“¿y recoger cien kilos de algodón una mujer? Recoger 100 kilos de algodón en una jornada ya era recoger algodón, más que los hombres. Se pagaba por kilo. Nos poníamos mi hermano y yo y como mucho cogíamos 30 kilos, te desriñonabas de intentarlo. Eran las jornaleras.” -Milagros, hija de colono.
 
-Las **Maestras** vinculadas a los pueblos de colonización fueron objeto de un Estado receloso y controlador que estableció como medida preventiva, el no otorgarles el título de *maestra nacional*. Limitaba así las posibilidades de ejercer su profesión fuera del contexto colonizador, minimizando de esta forma las "deserciones" que amenazaban a un cuerpo profesional poco demandado.
+Por último mencionaremos a las **Maestras** vinculadas a los pueblos de colonización fueron objeto de un Estado receloso y controlador que estableció como medida preventiva, el no otorgarles el título de *maestra nacional*. Limitaba así las posibilidades de ejercer su profesión fuera del contexto colonizador, minimizando de esta forma las "deserciones" que amenazaban a un cuerpo profesional poco demandado.
 
