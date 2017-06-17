@@ -22,7 +22,7 @@ function setup() {
 }
 
 function draw() {
-  background(200,225,225);
+  background("#cad2d3");
   image(cuencas,0,0);
 
   var mc = cmap.get(mouseX,mouseY);
