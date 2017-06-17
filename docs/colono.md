@@ -12,12 +12,16 @@ Los requisitos indispensables vinculados directamente con la situación personal
 * Acreditar unas dotes de moralidad y conducta aceptables
 Además tendrían preferencia los que a su vez:
 * Poseyeran conocimientos de regadío
-* ser casado o viudi con hijos
+* ser casado o viudo con hijos
 * Tener el mayor número de hijos
 * Saber leer y escribir. Los analfabetos que resulten admitidos están obligados a aprender a leer y escribir en un plazo de tres años  pudiendo ser expulsado por la Dirección General de Colonización si no cumpliera con el compromiso.
 * Tener menos de cincuenta años.
 
-El elemento humano 
+Las condiciones serán modificadas a partir de 1958, o al menos así sucede para la Delegación de Talavera de la Reina, donde serán las [unidades familiares del trabajo](https://medialab-prado.github.io/poblados-colonizacion-colonias-penitenciarias/mujeres.html) las que definan con más precisión el acceso.
+
+
+* Preferencia absoluta los que dispongan de un mayor número de uni 
+l elemento humano 
 mento  humano  adecuado,
 el  buen  colono
 .  De  ahí  que  entre  los  responsables  del
