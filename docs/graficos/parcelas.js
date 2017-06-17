@@ -105,3 +105,7 @@ function draw() {
 function compara(c1, c2) {
   return red(c1) == red(c2) && green(c1) == green(c2) && blue(c1) == blue(c2);
 }
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
