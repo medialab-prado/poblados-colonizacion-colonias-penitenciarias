@@ -31,8 +31,7 @@ function setup() {
 
 
 function draw() {
-  background(200,225,225);
-
+  background(0,0);
   // capas
   for (var n = 0; n < ids.length; n++) {
     if (dimr[n] != -1) image(capas[n],0,0);
@@ -55,11 +54,12 @@ function draw() {
   // nombres
   textSize(14);
   for (var n = 0; n < nombres.length; n++) {
-    var nbr = String.toUpperCase(nombres[n]);
+    //var nbr = String.prototype.toUpperCase(nombres[n]);
     if (dimr[n] != -1 || !compara(mc,color(colores[n]))) fill(0);
     else fill(0);
     textStyle(BOLD);
-    text(nbr, x[n], y[n]-10);
+
+    text(nombres[n], x[n], y[n]-10);
     textStyle(NORMAL);
     if (compara(mc,color(colores[n]))) {
         text("Plan inicial: " + dim[n]+"  Has", x[n], y[n]+5);

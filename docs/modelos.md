@@ -6,6 +6,8 @@ Latifundio, minifundio, grandes propietarios, pequeños agricultores… La adapt
  
 A lo largo y ancho de la geografía española podemos diferenciar entre varios modelos que tomaron las instituciones dependiendo del lugar donde se ideaban las nuevas poblaciones. Y con unas características y unos resultados finales también bastante diferentes.
 
+Con este mapa es fácil ver los diferentes planes implementados en cada zona geográfica, y descubrir, también, las diferencias entre los planes iniciales y la ejecución final. En la zona del Guadalquivir, por ejemplo, los colonos, en principio, iban a recibir 10 hectareas de media por familia, tras la ejecución de los planes solo recibieron 5,3.
+
 
 {% include _parcelas.html %}
  
@@ -15,7 +17,7 @@ Debido a su geografía y su situación parcelaria la zona aragonesa y navarra se
 
 {% include _bardenas.html %}
 
-<b>El modelo de Andalucia-Extremadura-Navarra</b>
+<b>El modelo de Andalucia-Extremadura</b>
  
 Aquí la situación cambiaba completamente. Frente a los minifundios del norte, la situación del sur siempre se ha caracterizado por los grandes latifundios controlados por pocas manos. Esto provocó que la colonización se hiciese de una forma bastante aislada y con una eficacia menor que en el norte. La mayoría de poblados, como el de Sotogordo se localizaron en medio de grandes extensiones de terrenos y acabaron aislados y gran parte de ellos abandonados.
 
