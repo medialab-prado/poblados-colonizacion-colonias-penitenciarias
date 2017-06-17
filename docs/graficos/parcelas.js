@@ -22,7 +22,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(800,519);
+  createCanvas(windowWidth,519);
   nombres = new Array("Norte","Duero","Ebro","Pirineo","Jucar","Tajo","Guadiana","Guadalquivir","Sur", "Segura", "Baleares y Canarias");
   colores = new Array("#f00","#0f0","#00f","#ff0","#0ff","#a00","#0a0","#00a","#aa0","#0aa", "#aaa");
   x = new Array(158,243, 429, 597, 432, 268, 226, 253, 362,432, 611);
@@ -32,7 +32,7 @@ function setup() {
 
 function draw() {
   background(200,225,225);
-
+  translate((width-519)*.5,0);
   // capas
   for (var n = 0; n < ids.length; n++) {
     if (dimr[n] != -1) image(capas[n],0,0);
@@ -55,7 +55,7 @@ function draw() {
   // nombres
   textSize(14);
   for (var n = 0; n < nombres.length; n++) {
-    var nbr = String.toUpperCase(nombres[n]);
+    var nbr = String.prototype.toUpperCase(nombres[n]);
     if (dimr[n] != -1 || !compara(mc,color(colores[n]))) fill(0);
     else fill(0);
     textStyle(BOLD);
