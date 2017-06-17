@@ -25,7 +25,7 @@ function preload() {
 function setup() {
   pg = createGraphics(800, 519);
   var as = 519. / 800.;
-  var w = windowWidth*.95;
+  var w = windowWidth;
   var h = windowWidth*as;
 
   createCanvas(w,h);
@@ -37,6 +37,15 @@ function setup() {
 
 
 function draw() {
+
+  // Resize:
+  var w = min(800,width*.85);
+  var h = w*519./800.;
+  var zoom = w*800.;
+  var mx = map(mouseX-width/2+w/2,0,w,0,800);
+  var my = map(mouseY-height/2+h/2,0,h,0,519);
+
+
   pg.background("#cad2d3");
   // capas
   for (var n = 0; n < ids.length; n++) {
@@ -47,7 +56,7 @@ function draw() {
   }
 
   // Parcelas segun PGC
-  var mc = cmap.get(mouseX,mouseY);
+  var mc = cmap.get(mx,my);
   for (var n = 0; n < colores.length; n++) {
     if (compara(mc,color(colores[n]))) {
       pg.tint(255,100);
@@ -95,8 +104,6 @@ function draw() {
   pg.text("Datos reales (verde) frente a datos según Plan de Colonización (blanco)", 620, 445, 150, 80);
   background("#cad2d3");
   imageMode(CENTER);
-  var w = min(800,width*.85);
-  var h = w*519./800.;
   image(pg,width/2, height/2,w,h);
 }
 
