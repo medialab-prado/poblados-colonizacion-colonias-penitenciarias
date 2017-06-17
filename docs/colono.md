@@ -19,18 +19,4 @@ Además tendrían preferencia los que a su vez:
 
 Las condiciones serán modificadas a partir de 1958, o al menos así sucede para la Delegación de Talavera de la Reina, donde serán las [unidades familiares del trabajo](https://medialab-prado.github.io/poblados-colonizacion-colonias-penitenciarias/mujeres.html) las que definan con más precisión el acceso.
 
-
-* Preferencia absoluta los que dispongan de un mayor número de uni 
-l elemento humano 
-mento  humano  adecuado,
-el  buen  colono
-.  De  ahí  que  entre  los  responsables  del
-Instituto  Nacional  de  Colonización  se  prestara  gran  atención  a  la  selección  de
-los colonos, para lo cual se establecieron criterios precisos basados en los resul-
-tados  de  otras  experiencias  colonizadoras  similares,  aunque  tampoco  faltaron
-otros de contenido ideológico como la moralidad y los antecedentes políticos y
-penales, propios del contexto político en que se desarrolló este proceso. De la
-combinación  de  prioridades  y  requisitos  se  perfila  el  tipo  ideal  preferente  de
-colono: arrendatario o aparcero de tierras afectadas por la transformación en rie-
-go, sin tierras propias o escasas, de edad media, casado y con varios hijos varo-
-nes, que sabe leer y escribir, con buena salud y buena reputación moral.
+No podemos 
