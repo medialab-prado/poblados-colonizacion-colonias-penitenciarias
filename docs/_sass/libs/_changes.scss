@@ -110,8 +110,26 @@ blockquote {
 }
 
 canvas {
-    margin: 0 auto;
+  margin: 0 auto;
 }
 .inner img {
   width: 100%;
+}
+
+#header  {
+  h1 {
+
+    a::before {
+      content: '';
+      background: url("images/inc-logo.png");
+      background-repeat: no-repeat;
+      position: relative;
+      display: inline-block;
+      width: 30px;
+      height: 30px;
+      background-size: 20px;
+      top: 7px;
+
+    }
+  }
 }
