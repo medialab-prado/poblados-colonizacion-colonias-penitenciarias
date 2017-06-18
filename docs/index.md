@@ -1,6 +1,6 @@
 ---
 layout: title
-title: Introducción
+title: Ingenieros, colonos y presos
 ---
 
 El Instituto Nacional de la Colonización fue el organismo creado durante la dictadura para llevar a cabo una de las transformaciones de mayor envergadura sobre el territorio, la colonización interior. Su comentido: transformar y poner en producción agrícola vastas extensiones de terreno, a través principalmente de la implantación de sistemas de regadío.
