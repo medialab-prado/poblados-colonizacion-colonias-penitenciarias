@@ -8,6 +8,10 @@ Durante los años que duraron estos planes de colonización, unos ochenta arquit
 
 Una de las características más extendida en estos diseños urbano fue el uso de trazados curvos para las calles. Se evitaban de este modo las calles rectas, con el objeto de dar lugar a espacios más recogidos para la comunidad. Adaptaron conceptos organicistas de las vanguardias de la segunda mitad de sigo para convertir estos nuevos poblados en lugares en armonía con el entorno y la naturaleza.
 
+<div class="video-container">
+<img style="max-width:100%" src="//cdn.thinglink.me/api/image/932648009341075457/1024/10/scaletowidth#tl-932648009341075457;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+</div>
+
 
 **El módulo carro**
 
@@ -22,7 +26,3 @@ El agricultor, es decir, el colono, debía ir con el carro y sus aperos hasta la
 Este sistema, sin embargo, pronto quedó desfasado. El fin del aislamiento internacional propició una paulatina <a href="introduccion">mecanización de la agricultura</a> que volvió obsoleta esta estructura de redes de círculos.
 
 Pese a esta escasa capacidad de los planes para adaptarse a los cambios contextuales, los poblados de colonización son objeto hoy de admiración nacional e internacional.
-
-<div class="video-container">
-<img style="max-width:100%" src="//cdn.thinglink.me/api/image/932648009341075457/1024/10/scaletowidth#tl-932648009341075457;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
-</div>
