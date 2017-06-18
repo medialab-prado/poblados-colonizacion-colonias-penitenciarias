@@ -84,3 +84,12 @@ a {
 .wrapper.style3 {
   background: #3D4955;
 }
+
+// quotes
+blockquote {
+  border-left: solid 0px _palette(border);
+  font-style: normal;
+  margin: 0 0 _size(element-margin) 0;
+  padding: 2em;
+  background-color:#ddd;
+}
