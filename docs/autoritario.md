@@ -1,7 +1,6 @@
 ---
 layout: page
-title: El Estado autoritario
-subtitle: subtitulo
+title: Fascismo agrario
 
 ---
 **Fascismo Agrario y contrarreforma agraria durante el primer franquismo.** Existe un amplio consenso por el que se nombra como contrarreforma agraria toda la política estatal que perseguía desmantelar cualquier cambio llevado a cabo en el ámbito rural durante la Segunda República. Carlos Barciela profundiza sobre la [contrarreforma agraria y la política de colonización del primer franquismo](http://www.mapama.gob.es/ministerio/pags/Biblioteca/fondo/pdf/17080_10.pdf) y explicita que
