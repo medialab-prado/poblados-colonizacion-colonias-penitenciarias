@@ -7,11 +7,11 @@ Donde no hay nada puede construirse todo. Eso debieron pensar los  arquitectos q
 
 Durante los años que duraron estos planes de colonización, unos ochenta arquitectos trabajaron en los proyectos. Algunos de ellos de renombre como Alejandro de la Sota, Antonio Fernández Alba, José Borobio, José Antonio Corrales, Fernando de Terán o José Luis Fernández del Amo. Los poblados diseñados por este último, por ejemplo, tales como Vegaviana (Cáceres) o Cañada de Agra (Albacete), han quedado para la historia de la arquitectura dentro y fuera de España.
 
-Una de las características más extendida en estos diseños urbano fue el uso de trazados curvos para las calles. Se evitaban de este modo las calles rectas, con el objeto de dar lugar a espacios más recogidos para la comunidad. Adaptaron conceptos organicistas de las vanguardias de la segunda mitad de sigo para convertir estos nuevos poblados en lugares en armonía con el entorno y la naturaleza.
-
 <div class="video-container">
 <img style="max-width:100%" src="//cdn.thinglink.me/api/image/932648009341075457/1024/10/scaletowidth#tl-932648009341075457;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
 </div>
+
+Una de las características más extendida en estos diseños urbano fue el uso de trazados curvos para las calles. Se evitaban de este modo las calles rectas, con el objeto de dar lugar a espacios más recogidos para la comunidad. Con el fin de convertir estos nuevos poblados en lugares en armonía con el entorno y la naturaleza, además, varios conceptos organicistas de las vanguardias de la segunda mitad de siglo fueron adoptados e introducidos en estos diseños.
 
 
 **El módulo carro**
