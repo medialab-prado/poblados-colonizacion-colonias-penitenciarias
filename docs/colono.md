@@ -15,7 +15,7 @@ Los requisitos indispensables vinculados directamente con la situación personal
 
 
 > 1. Ser mayor de 23 años, licenciado del ejército o exento del servicio militar.
-> 2. Acreditar una práctica agrícola reciente de 2 años al menos.
+> 2. Acreditar una préctica agrícola reciente de 2 años al menos.
 > 3. Acreditar unas dotes de moralidad y conducta aceptables.
 
 Además se priorizarían los que a su vez los que:
@@ -32,7 +32,10 @@ No podemos dejar de señalar el rol que la iglesia católica tiene tanto en el p
 
 >Un colono que tenga una primaria fe religiosa, un elemental concepto del deber y honradez, que se encuentre sano de cuerpo, sin tristes taras hereditarias, con una elemental instrucción, será el germen que asegure un desenvolvimiento próspero del núcleo de población creado. -ESCARDÓ PEINADOR, G. El hombre, factor básico de la colonización. Colonización , nº 9, 1949
 
-**De colono a ciudadano** La historia de la colonización no sólo es una, y muchos de sus espacios se rellenan con los recuerdos de una generación que creció y transitó parte de su vida adulta vinculada a uno de los programas más ambiciosos que el estado franquista operó. Esta segunda generación, los hijos e hijas de los colonos.
+[**De colono a ciudadano**](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0ahUKEwjokZS4k8fUAhWKaFAKHXPmBrAQFggjMAA&url=http%3A%2F%2Fwww.historiaagraria.com%2Farticulo.php%3Fid%3D414%26num%3D38&usg=AFQjCNG2HwEH0n8P44311USincnM2NESKA&sig2=lEXxljiI-3AdD_Hut32ngQ&cad=rja) La historia de la colonización no sólo es una, y muchos de sus espacios se rellenan con los recuerdos de una generación que creció y transitó parte de su vida adulta vinculada a uno de los programas más ambiciosos que el estado franquista operó.
+
+Es esta generación, la de los hijos e hijas de colonos, la que va a transicionar hacia una ciudadanía más plena.  aunque la incertidumbre  . 
+desde una subordinación un lugar subordinado, el de sus padres, a uno de mayor autonomía, de construcción  lugar más autonónomo. experimentará y transicionaráen primera persona 
 **CONTINUAR. Presentar a Nuestros entrevistados**
 
 SIN CERTEZAS. Y esta segunda generación será la que herede bienes que durante mucho tiempo no fueron certezas. Se ha pagado muy poco. Cuando se murió tu padre (en referencia a la hija de un colono) no tenías la propiedad todavía, no se había hecho la escritura todavía. (Mariano y Milagros, hijos de colonos).
