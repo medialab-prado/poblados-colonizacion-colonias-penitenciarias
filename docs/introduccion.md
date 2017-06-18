@@ -16,7 +16,7 @@ La centralidad de la política hidráulica en el proyecto colonizador franquista
 
 {% include _hidraulicas.html %}
 
-A lo largo de los 35 años que se despliega en un momento decisivo para la modernización del campo español, partiendo de un sector agrario [escasamente mecanizado](https://medialab-prado.github.io/poblados-colonizacion-colonias-penitenciarias/urbanismo.html) a una plena mecanización e industrialización de la agricultura, contribuyendo tanto a una estabilización del latifundismo (al no existir una redistribución real de la propiedad) como a la posterior empresarialización del campo. 
+A lo largo de los 35 años que se despliega en un momento decisivo para la modernización del campo español, partiendo de un sector agrario [escasamente mecanizado](https://medialab-prado.github.io/poblados-colonizacion-colonias-penitenciarias/urbanismo.html) a una plena mecanización e industrialización de la agricultura, contribuyendo tanto a una estabilización del latifundismo (al no existir una redistribución real de la propiedad) como a la configuración de la agroindustria y al final del campesinado tradicional. 
 
 
 {% include _mecanizacion.html %}
