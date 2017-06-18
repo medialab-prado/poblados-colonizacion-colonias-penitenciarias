@@ -26,4 +26,4 @@ El agricultor, es decir, el colono, debía ir con el carro y sus aperos hasta la
 
 Este sistema, sin embargo, pronto quedó desfasado. El fin del aislamiento internacional propició una paulatina <a href="introduccion">mecanización de la agricultura</a> que volvió obsoleta esta estructura de redes de círculos.
 
-Pese a esta escasa capacidad de los planes para adaptarse a los cambios contextuales, los poblados de colonización son objeto hoy de admiración nacional e internacional.
+Pese a la falta de capacidad de los planes de colonización para adaptarse a cambios coyunturales como este de la mecanización, son numerosos los poblados de colonización que han sabido envejecer sin perder su característica impronta, y siguen siendo objeto hoy de admiración nacional e internacional.
