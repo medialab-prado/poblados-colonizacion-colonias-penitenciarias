@@ -31,7 +31,7 @@ function setup() {
   var framesWidth = document.getElementById("#p5").offsetWidth;
   var framesHeight = document.getElementById("#p5").offsetHeight;
 
-  createCanvas(framesWidth,framesHeight);
+  createCanvas(800, 519);
   nombres = new Array("Norte","Duero","Ebro","Pirineo","Jucar","Tajo","Guadiana","Guadalquivir","Sur", "Segura", "Baleares y Canarias");
   colores = new Array("#f00","#0f0","#00f","#ff0","#0ff","#a00","#0a0","#00a","#aa0","#0aa", "#aaa");
   x = new Array(158,243, 429, 597, 432, 268, 226, 253, 362,432, 611);
@@ -114,8 +114,4 @@ function draw() {
 
 function compara(c1, c2) {
   return red(c1) == red(c2) && green(c1) == green(c2) && blue(c1) == blue(c2);
-}
-
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
 }

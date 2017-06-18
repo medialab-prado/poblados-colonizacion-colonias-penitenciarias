@@ -94,6 +94,22 @@ function draw() {
     fill(0);
     text(nbr, x[n], y[n]-7);
   }
+
+  // Titulo
+  fill(255,200);
+  stroke(155);
+  rect(605, 365, 170, 130);
+  fill(0);
+  textStyle(BOLD);
+  textSize(12);
+  text("NÚMERO DE TRACTORES Y COSECHADORAS POR POBLADO DE COLONIZACIÓN", 620, 380, 150, 80);
+  textStyle(NORMAL);
+  textSize(11);
+  noStroke();
+  fill(155,0,0);
+  text("Interacción con el ratón:",620, 430, 150, 20);
+  fill(0);
+  text("Número medio de tractores y cosechadoras por poblado en la cuenca seleccionada", 620, 445, 150, 80);
 }
 
 function compara(c1, c2) {
