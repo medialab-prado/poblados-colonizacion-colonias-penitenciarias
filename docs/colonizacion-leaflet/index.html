@@ -48,6 +48,29 @@
 	#slider span {
 		height: 2.2em;
 	}
+	@media (max-width: 590px){
+		#slider-container,
+		#slider,
+		.value {
+			display: block;
+		}
+		#slider-container {
+			position: static;
+			left: 0;
+			bottom: 0;
+			width: 100%;
+		}
+		.value {
+			padding: 6px 8px;
+			bottom: auto;
+			position: static;
+		}
+
+		#slider {
+			width: 90%;
+		}
+
+}
 	</style>
 
 	<style>
@@ -82,10 +105,10 @@
 
 	var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
 	streets  = L.tileLayer(mbUrl, {id: 'mapbox.satellite', attribution: mbAttr});
-
+	var desktop = window.innerWidth > 768;
 	var mymap = L.map('map', {
 		center:[40.4168, -3.7038],
-		zoom: 6,
+		zoom: desktop ? 6 : 5,
 		scrollWheelZoom: false,
 		dragging: false,
 		layers: [grayscale]
