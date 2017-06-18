@@ -1,9 +1,9 @@
 ---
 layout: title
-title: Introducción
+title: Ingenieros, colonos y presos, Inc.
 ---
 
-El Instituto Nacional de la Colonización fue el organismo creado durante la dictadura para llevar a cabo una de las transformaciones de mayor envergadura sobre el territorio, la colonización interior. Su comentido: transformar y poner en producción agrícola vastas extensiones de terreno, a través principalmente de la implantación de sistemas de regadío.
+El Instituto Nacional de la Colonización (INC) fue el organismo creado durante la dictadura para llevar a cabo una de las transformaciones de mayor envergadura sobre el territorio, la colonización interior. Su comentido: transformar y poner en producción agrícola vastas extensiones de terreno, a través principalmente de la implantación de sistemas de regadío.
 
 Si bien la colonización interior tuvo un desarrollo espectacular durante el Régimen de Franco, <a href="introduccion">no fue un invento franquista</a>. Hubo colonizaciones y planes de desarrollo hidráulico antes de la Guerra Civil, así como referencias internacionales: la Italia de Mussolini, la Alemania de los años 20 o Estados Unidos.
 
