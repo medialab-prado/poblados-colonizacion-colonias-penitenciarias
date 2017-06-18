@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Colonización Interior - Mapa</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin=""/>
+
+    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js" integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg==" crossorigin=""></script>
+    <script src="js/leaflet.ajax.min.js"></script>
+    <script src="js/jquery-3.2.1.min.js"></script>
+
+	<style>
+		#map {
+			width: 100%;
+			height: 90vh;
+		}
+	</style>
+
+	<style>
+.info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } .info h4 { margin: 0 0 5px; color: #777; }
+.legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }</style>
+
+
+</head>
+<body>
+
+
+
+<div id='map'></div>
+<script>
+
+	var mymap = L.map('map').setView([40.4168, -3.7038], 6);
+
+	L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoidXJiYW5vdmlpaSIsImEiOiJjaWxmODU2ODIwMDJ5dmxsejRva3FyaWU0In0.xUle2zZJMfYkhXdZUsrlqQ', {
+		maxZoom: 11,
+		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+			'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+		id: 'mapbox.streets'
+	}).addTo(mymap);
+
+var emb_style = {
+    radius: 4,
+    fillColor: "#2b8cbe",
+    color: "#000",
+    weight: 0,
+    opacity: 1,
+    fillOpacity: 1
+};
+
+var col_style = {
+    radius: 4,
+    fillColor: "#fdbb84",
+    color: "#000",
+    weight: 0,
+    opacity: 1,
+    fillOpacity: 1
+};
+
+var pob_style = {
+    radius: 4,
+    fillColor: "#e34a33",
+    color: "#000",
+    weight: 0,
+    opacity: 1,
+    fillOpacity: 1
+};
+
+$.getJSON("data/embalses.geojson", function(emb_data){
+	L.geoJson(emb_data, {
+		pointToLayer: function (feature, latlng) {
+			return L.circleMarker(latlng, emb_style);
+		}
+	}).addTo(mymap);
+});
+
+$.getJSON("data/coloniaspenit.geojson", function(col_data){
+	L.geoJson(col_data, {
+		pointToLayer: function (feature, latlng) {
+			return L.circleMarker(latlng, col_style);
+		}
+	}).addTo(mymap);
+});
+
+$.getJSON("data/pobladoscol.geojson", function(pob_data){
+	L.geoJson(pob_data, {
+		pointToLayer: function (feature, latlng) {
+			return L.circleMarker(latlng, pob_style);
+		}
+	}).addTo(mymap);
+});
+
+$.getJSON("data/zonas.geojson", function(zon_data){
+	L.geoJson(zon_data,{
+		style: function(feature){
+		var fillColor,
+			type = feature.properties.Tipo;
+		if (type == "A") fillColor = "#e5f5e0";
+		else if (type == "B") fillColor = "#a1d99b";
+		else if (type == "C") fillColor = "#31a354";
+		else fillColor = "#f7f7f7"; //no data
+		return { color: "#999", weight: 0, fillColor: fillColor, fillOpacity: .6};
+    },
+    onEachFeature: function (feature, layer){
+      layer.bindPopup( "<strong> Nombre: " + feature.properties.Nombre + "</strong><br/>" + "<strong> Tipo: </strong>" + feature.properties.D_Tipo + "<br/>" + "<strong> Estado: </strong>" +feature.properties.D_Estado)
+    }
+  }).addTo(mymap);
+
+  var legend = L.control({position: 'bottomright'});
+
+  legend.onAdd = function (mymap) {
+    var div = L.DomUtil.create('div', 'info legend');
+    div.innerHTML = "<i style='background: #e5f5e0'> </i>Poblados de Colonización <br> Colonias Penitenciarias <br> Embalses";
+    return div;
+  };
+
+  legend.addTo(mymap);
+});
+</script>
+
+</body>
+</html>
