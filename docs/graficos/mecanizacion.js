@@ -102,7 +102,7 @@ function draw() {
   fill(0);
   textStyle(BOLD);
   textSize(12);
-  text("NÚMERO DE TRACTORES Y COSECHADORAS POR POBLADO DE COLONIZACIÓN", 620, 380, 150, 80);
+  text("TRACTORES Y COSECHADORAS POR POBLADO", 620, 380, 150, 80);
   textStyle(NORMAL);
   textSize(11);
   noStroke();
