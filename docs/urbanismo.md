@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Modernismo en el campo
+subtitle: Arquitectura de vanguardia y los dibujos sobre el territorio
 ---
 Donde no hay nada puede construirse todo. Eso debieron pensar los  arquitectos que acudieron a diseñar los nuevos poblados de colonización con la idea de convertir esos lugares en laboratorios vanguardistas. Algunos de los más destacados nombres españoles de la arquitectura de la época fueron los encargados de diseñar todos los elementos de estas nuevas localidades. Si bien dieron rienda suelta a su imaginación, lo hicieron siempre en consonancia con los principios racionalistas del proyecto, y respetando y manteniendo a su vez el uso de materiales y decoraciones autóctonas propias de cada región.
 
