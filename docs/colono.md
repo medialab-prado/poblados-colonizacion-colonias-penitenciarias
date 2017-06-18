@@ -15,8 +15,8 @@ Los requisitos indispensables vinculados directamente con la situación personal
 
 
 > 1. Ser mayor de 23 años, licenciado del ejército o exento del servicio militar.
-> 2. Acreditar una préctica agrícola reciente de 2 años al menos.</li>
-> 3. Acreditar unas dotes de moralidad y conducta aceptables</li>
+> 2. Acreditar una préctica agrícola reciente de 2 años al menos.
+> 3. Acreditar unas dotes de moralidad y conducta aceptables.
 
 Además se priorizarían los que a su vez los que:
 
@@ -32,7 +32,7 @@ No podemos dejar de señalar el rol que la iglesia católica tiene tanto en el p
 
 >Un colono que tenga una primaria fe religiosa, un elemental concepto del deber y honradez, que se encuentre sano de cuerpo, sin tristes taras hereditarias, con una elemental instrucción, será el germen que asegure un desenvolvimiento próspero del núcleo de población creado. -ESCARDÓ PEINADOR, G. El hombre, factor básico de la colonización. Colonización , nº 9, 1949
 
-**De colono a ciudadano.** La historia de la colonización no sólo una, y gran parte de sus espacios están dibujados con los recuerdos de una generación que creció y transitó parte de su vida adulta vinculada a uno de los programas más ambiciosos que el estado franquista operó. Esta segunda generación, los hijos e hijas de los colonos.
+**De colono a ciudadano** La historia de la colonización no sólo es una, y muchos de sus espacios se rellenan con los recuerdos de una generación que creció y transitó parte de su vida adulta vinculada a uno de los programas más ambiciosos que el estado franquista operó. Esta segunda generación, los hijos e hijas de los colonos.
 **CONTINUAR. Presentar a Nuestros entrevistados**
 
 SIN CERTEZAS. Y esta segunda generación será la que herede bienes que durante mucho tiempo no fueron certezas. Se ha pagado muy poco. Cuando se murió tu padre (en referencia a la hija de un colono) no tenías la propiedad todavía, no se había hecho la escritura todavía. (Mariano y Milagros, hijos de colonos).
