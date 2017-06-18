@@ -1,16 +1,15 @@
 ---
 layout: page
-title: El colono
+title: El buen colono
 ---
 
 **El buen colono.** La selección del colono es uno de los aspectos centrales del proceso de colonización, éste conlleva el establecimiento de unos critrerios de selección básicos que aparecerán enumerados en la Ley de 1949 sobre *colonización y distribución de la propiedad de las zonas regables* y que dependiendo de los emplazamientos introducirían matices. Así por ejemplo para el Plan Badajoz las prioridades de acceso al programa que se establecieron formalmente fueron:
 
-> <ol>
-<li>Arrendatarios o aparceros de tierras afectadas por la transformación en regadío, siempre que no sean propietarios de otras tierras con superficie suficiente para el mantenimiento de una familia.</li>
-<li>Colonos o braceros de las comarcas o términos municipales de la provincia de Badajoz en que del estudio económico social efectuado por el INC se deduzca la necesidad de traslado de parte de la población rural a las zonas regables.</li>
-<li>Propietarios arrendadores de la zona que no tengan derecho a reserva y lo soliciten de acuerdo con los artículos noveno y doce de la ley de 1949.</li>
-<li>Colonos o labradores modestos de otras comarcas españolas con medios de producción y conocimientos del cultivo de regadío, que habrán de demostrar, mediante las pruebas correspondientes, ante el personal técnico del INC. Del total de labradores que con arreglo a las presentes normas se instalen, el veinte por ciento habrá de ser elegido precisamente entre los que el Instituto, previas las pruebas pertinentes, considere que cuentan con conocimientos de las prácticas de regadío. Si dentro del ámbito provincial no se alcanza el indicado porcentaje, se complementará con los colonos o labradores del grupo cuarto.</li>
-</ol>
+> 1. Arrendatarios o aparceros de tierras afectadas por la transformación en regadío, siempre que no sean propietarios de otras tierras con superficie suficiente para el mantenimiento de una familia.
+2. Colonos o braceros de las comarcas o términos municipales de la provincia de Badajoz en que del estudio económico social efectuado por el INC se deduzca la necesidad de traslado de parte de la población rural a las zonas regables.
+3. Propietarios arrendadores de la zona que no tengan derecho a reserva y lo soliciten de acuerdo con los artículos noveno y doce de la ley de 1949.
+4. Colonos o labradores modestos de otras comarcas españolas con medios de producción y conocimientos del cultivo de regadío, que habrán de demostrar, mediante las pruebas correspondientes, ante el personal técnico del INC. Del total de labradores que con arreglo a las presentes normas se instalen, el veinte por ciento habrá de ser elegido precisamente entre los que el Instituto, previas las pruebas pertinentes, considere que cuentan con conocimientos de las prácticas de regadío. Si dentro del ámbito provincial no se alcanza el indicado porcentaje, se complementará con los colonos o labradores del grupo cuarto.
+
 
 Los requisitos indispensables vinculados directamente con la situación personal del candidato se repetían, y aunque con algunas variaciones, mantenían unos criterios muy similares:
 
