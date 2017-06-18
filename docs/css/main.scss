@@ -243,6 +243,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.major {
 			margin: 0 0 (_size(element-margin) * 1.75) (_size(element-margin) * .75);
 
+
 			h2, h3, h4, h5, h6 {
 				border-bottom: solid 2px _palette(border);
 				display: inline-block;

@@ -1,0 +1,3413 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="embalsesV1" id="embalsesV1">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="codpresa" type="int"></SimpleField>
+	<SimpleField name="Nombre" type="string"></SimpleField>
+	<SimpleField name="Nombre SEP" type="string"></SimpleField>
+	<SimpleField name="Otro nombr" type="string"></SimpleField>
+	<SimpleField name="Fecha" type="string"></SimpleField>
+	<SimpleField name="Anyo" type="int"></SimpleField>
+	<SimpleField name="Rio" type="string"></SimpleField>
+	<SimpleField name="Municipio" type="string"></SimpleField>
+	<SimpleField name="Cuenca" type="string"></SimpleField>
+	<SimpleField name="Provincia" type="string"></SimpleField>
+	<SimpleField name="x" type="int"></SimpleField>
+	<SimpleField name="y" type="int"></SimpleField>
+	<SimpleField name="Tipos" type="string"></SimpleField>
+	<SimpleField name="time" type="int"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+</Schema>
+<Folder><name>embalsesV1</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2340004</SimpleData>
+		<SimpleData name="Nombre">AGUILAR DE CAMPOO</SimpleData>
+		<SimpleData name="Nombre SEP">AGUILAR DE CAMPOO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">02/09/1964</SimpleData>
+		<SimpleData name="Anyo">1964</SimpleData>
+		<SimpleData name="Rio">PISUERGA</SimpleData>
+		<SimpleData name="Municipio">AGUILAR DE CAMPOO</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">PALENCIA</SimpleData>
+		<SimpleData name="x">394705</SimpleData>
+		<SimpleData name="y">4739000</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, Abastecimiento</SimpleData>
+		<SimpleData name="time">1964</SimpleData>
+		<SimpleData name="date">1964/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.28757733538031,42.7963131818747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8160006</SimpleData>
+		<SimpleData name="Nombre">ALARCON</SimpleData>
+		<SimpleData name="Nombre SEP">ALARCON</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">30/09/1955</SimpleData>
+		<SimpleData name="Anyo">1955</SimpleData>
+		<SimpleData name="Rio">JUCAR</SimpleData>
+		<SimpleData name="Municipio">ALARCON</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">CUENCA</SimpleData>
+		<SimpleData name="x">576346</SimpleData>
+		<SimpleData name="y">4379982</SimpleData>
+		<SimpleData name="Tipos">Regulaci?n, Riego, Abastecimiento</SimpleData>
+		<SimpleData name="time">1955</SimpleData>
+		<SimpleData name="date">1955/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.11120294977171,39.5661399090512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8120006</SimpleData>
+		<SimpleData name="Nombre">ALCORA</SimpleData>
+		<SimpleData name="Nombre SEP">ALCORA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">29/09/1958</SimpleData>
+		<SimpleData name="Anyo">1958</SimpleData>
+		<SimpleData name="Rio">LUCENA</SimpleData>
+		<SimpleData name="Municipio">ALCORA</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">CASTELLON</SimpleData>
+		<SimpleData name="x">737177</SimpleData>
+		<SimpleData name="y">4442329</SimpleData>
+		<SimpleData name="Tipos">Riego, Regulaci?n, ---</SimpleData>
+		<SimpleData name="time">1958</SimpleData>
+		<SimpleData name="date">1958/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.217764880706736,40.097808748237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5110041</SimpleData>
+		<SimpleData name="Nombre">ALMODOVAR (DIQUE DEL COLLADO) (RECRECIDA)</SimpleData>
+		<SimpleData name="Nombre SEP">ALMODOVAR</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1972</SimpleData>
+		<SimpleData name="Anyo">1972</SimpleData>
+		<SimpleData name="Rio">ALMODOVAR</SimpleData>
+		<SimpleData name="Municipio">TARIFA</SimpleData>
+		<SimpleData name="Cuenca">GUADALETE Y BARBATE</SimpleData>
+		<SimpleData name="Provincia">CADIZ</SimpleData>
+		<SimpleData name="x">261945</SimpleData>
+		<SimpleData name="y">4004510</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1972</SimpleData>
+		<SimpleData name="date">1972/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.6496094694724,36.154023079668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3190001</SimpleData>
+		<SimpleData name="Nombre">ALMOGUERA</SimpleData>
+		<SimpleData name="Nombre SEP">ALMOGUERA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1947</SimpleData>
+		<SimpleData name="Anyo">1947</SimpleData>
+		<SimpleData name="Rio">TAJO</SimpleData>
+		<SimpleData name="Municipio">ALMOGUERA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">GUADALAJARA</SimpleData>
+		<SimpleData name="x">503585</SimpleData>
+		<SimpleData name="y">4460330</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Regulaci?n, Riego</SimpleData>
+		<SimpleData name="time">1947</SimpleData>
+		<SimpleData name="date">1947/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.958060149695,40.2742670200186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8030027</SimpleData>
+		<SimpleData name="Nombre">AMADORIO</SimpleData>
+		<SimpleData name="Nombre SEP">AMADORIO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">24/02/1960</SimpleData>
+		<SimpleData name="Anyo">1960</SimpleData>
+		<SimpleData name="Rio">AMADORIO</SimpleData>
+		<SimpleData name="Municipio">VILLAJOYOSA</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">ALICANTE</SimpleData>
+		<SimpleData name="x">738600</SimpleData>
+		<SimpleData name="y">4268800</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1960</SimpleData>
+		<SimpleData name="date">1960/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.264494947243017,38.5344334188992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100070</SimpleData>
+		<SimpleData name="Nombre">ARAYA DE ARRIBA (DIQUE DEL COLLADO)</SimpleData>
+		<SimpleData name="Nombre SEP">ARAYA DE ARRIBA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1958</SimpleData>
+		<SimpleData name="Anyo">1958</SimpleData>
+		<SimpleData name="Rio">ANCIANES</SimpleData>
+		<SimpleData name="Municipio">BROZAS</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">184298</SimpleData>
+		<SimpleData name="y">4380608</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1958</SimpleData>
+		<SimpleData name="date">1958/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.66908309447121,39.514151344136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5110031</SimpleData>
+		<SimpleData name="Nombre">ARCOS</SimpleData>
+		<SimpleData name="Nombre SEP">ARCOS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1965</SimpleData>
+		<SimpleData name="Anyo">1965</SimpleData>
+		<SimpleData name="Rio">GUADALETE</SimpleData>
+		<SimpleData name="Municipio">ARCOS DE LA FRONTERA</SimpleData>
+		<SimpleData name="Cuenca">GUADALETE Y BARBATE</SimpleData>
+		<SimpleData name="Provincia">CADIZ</SimpleData>
+		<SimpleData name="x">250520</SimpleData>
+		<SimpleData name="y">4071143</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1965</SimpleData>
+		<SimpleData name="date">1965/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.79273126777785,36.7521617751756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">7300010</SimpleData>
+		<SimpleData name="Nombre">ARGOS</SimpleData>
+		<SimpleData name="Nombre SEP">ARGOS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/12/1972</SimpleData>
+		<SimpleData name="Anyo">1972</SimpleData>
+		<SimpleData name="Rio">ARGOS</SimpleData>
+		<SimpleData name="Municipio">CEHEGIN</SimpleData>
+		<SimpleData name="Cuenca">SEGURA</SimpleData>
+		<SimpleData name="Provincia">MURCIA</SimpleData>
+		<SimpleData name="x">611000</SimpleData>
+		<SimpleData name="y">4225906</SimpleData>
+		<SimpleData name="Tipos">Defensa frente a avenidas, Riego, ---</SimpleData>
+		<SimpleData name="time">1972</SimpleData>
+		<SimpleData name="date">1972/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.73464646673616,38.1722708280431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8440007</SimpleData>
+		<SimpleData name="Nombre">ARQUILLO DE SAN BLAS</SimpleData>
+		<SimpleData name="Nombre SEP">ARQUILLO DE SAN BLAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1962</SimpleData>
+		<SimpleData name="Anyo">1962</SimpleData>
+		<SimpleData name="Rio">GUADALAVIAR</SimpleData>
+		<SimpleData name="Municipio">TERUEL</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">TERUEL</SimpleData>
+		<SimpleData name="x">653793</SimpleData>
+		<SimpleData name="y">4469304</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Defensa frente a avenidas, Riego</SimpleData>
+		<SimpleData name="time">1962</SimpleData>
+		<SimpleData name="date">1962/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.2053127929868,40.3635545334894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3280039</SimpleData>
+		<SimpleData name="Nombre">ARROYOS, LOS (DIQUE DE COLA)</SimpleData>
+		<SimpleData name="Nombre SEP">ARROYOS, LOS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1967</SimpleData>
+		<SimpleData name="Anyo">1967</SimpleData>
+		<SimpleData name="Rio">LADRON</SimpleData>
+		<SimpleData name="Municipio">ESCORIAL, EL</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">MADRID</SimpleData>
+		<SimpleData name="x">411261</SimpleData>
+		<SimpleData name="y">4493850</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1967</SimpleData>
+		<SimpleData name="date">1967/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.04955827195962,40.5898823660787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3280048</SimpleData>
+		<SimpleData name="Nombre">ATAZAR, EL</SimpleData>
+		<SimpleData name="Nombre SEP">ATAZAR, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1972</SimpleData>
+		<SimpleData name="Anyo">1972</SimpleData>
+		<SimpleData name="Rio">LOZOYA</SimpleData>
+		<SimpleData name="Municipio">PATONES Y ATAZAR</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">MADRID</SimpleData>
+		<SimpleData name="x">460256</SimpleData>
+		<SimpleData name="y">4529303</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1972</SimpleData>
+		<SimpleData name="date">1972/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.47195704241047,40.9138691712604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3450030</SimpleData>
+		<SimpleData name="Nombre">AZUTAN</SimpleData>
+		<SimpleData name="Nombre SEP">AZUTAN</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">TAJO</SimpleData>
+		<SimpleData name="Municipio">AZUTAN Y ALCOLEA DE TAJO</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">TOLEDO</SimpleData>
+		<SimpleData name="x">321222</SimpleData>
+		<SimpleData name="y">4405375</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.08935456730346,39.7768755770303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9250051</SimpleData>
+		<SimpleData name="Nombre">BALAGUER PARTIDOR (CONTRAEMBALSE)</SimpleData>
+		<SimpleData name="Nombre SEP">BALAGUER</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1958</SimpleData>
+		<SimpleData name="Anyo">1958</SimpleData>
+		<SimpleData name="Rio">SEGRE</SimpleData>
+		<SimpleData name="Municipio">OS DE BALAGUER</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">LLEIDA</SimpleData>
+		<SimpleData name="x">818394</SimpleData>
+		<SimpleData name="y">4638887</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1958</SimpleData>
+		<SimpleData name="date">1958/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.837007905576761,41.8534474004393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8440011</SimpleData>
+		<SimpleData name="Nombre">BALAGUERAS</SimpleData>
+		<SimpleData name="Nombre SEP">BALAGUERAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1957</SimpleData>
+		<SimpleData name="Anyo">1957</SimpleData>
+		<SimpleData name="Rio">PALOMERAS</SimpleData>
+		<SimpleData name="Municipio">RUBIELOS DE MORA</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">TERUEL</SimpleData>
+		<SimpleData name="x">697715</SimpleData>
+		<SimpleData name="y">4454450</SimpleData>
+		<SimpleData name="Tipos">Riego, Regulaci?n, ---</SimpleData>
+		<SimpleData name="time">1957</SimpleData>
+		<SimpleData name="date">1957/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.678273734487578,40.2117366762296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">1240011</SimpleData>
+		<SimpleData name="Nombre">BARCENA</SimpleData>
+		<SimpleData name="Nombre SEP">BARCENA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1960</SimpleData>
+		<SimpleData name="Anyo">1960</SimpleData>
+		<SimpleData name="Rio">SIL</SimpleData>
+		<SimpleData name="Municipio">PONFERRADA</SimpleData>
+		<SimpleData name="Cuenca">MI?O-SIL</SimpleData>
+		<SimpleData name="Provincia">LEON</SimpleData>
+		<SimpleData name="x">207593</SimpleData>
+		<SimpleData name="y">4720277</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, Abastecimiento</SimpleData>
+		<SimpleData name="time">1960</SimpleData>
+		<SimpleData name="date">1960/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.55970189359504,42.5778674717466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2240029</SimpleData>
+		<SimpleData name="Nombre">BARRIOS DE LUNA</SimpleData>
+		<SimpleData name="Nombre SEP">BARRIOS DE LUNA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1956</SimpleData>
+		<SimpleData name="Anyo">1956</SimpleData>
+		<SimpleData name="Rio">ORBIGO - LUNA (LUNA)</SimpleData>
+		<SimpleData name="Municipio">BARRIOS DE LUNA, LOS</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">LEON</SimpleData>
+		<SimpleData name="x">266290</SimpleData>
+		<SimpleData name="y">4748255</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1956</SimpleData>
+		<SimpleData name="date">1956/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.86129288922089,42.849593286404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5140040</SimpleData>
+		<SimpleData name="Nombre">BEMBEZAR</SimpleData>
+		<SimpleData name="Nombre SEP">BEMBEZAR</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1963</SimpleData>
+		<SimpleData name="Anyo">1963</SimpleData>
+		<SimpleData name="Rio">BEMBEZAR</SimpleData>
+		<SimpleData name="Municipio">HORNACHUELOS</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">CORDOBA</SimpleData>
+		<SimpleData name="x">305740</SimpleData>
+		<SimpleData name="y">4197410</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1963</SimpleData>
+		<SimpleData name="date">1963/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.20956774936637,37.9034998769656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8460027</SimpleData>
+		<SimpleData name="Nombre">BENAGEBER</SimpleData>
+		<SimpleData name="Nombre SEP">BENAGEBER</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1954</SimpleData>
+		<SimpleData name="Anyo">1954</SimpleData>
+		<SimpleData name="Rio">TURIA</SimpleData>
+		<SimpleData name="Municipio">BENAGEBER</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">VALENCIA</SimpleData>
+		<SimpleData name="x">663079</SimpleData>
+		<SimpleData name="y">4399195</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1954</SimpleData>
+		<SimpleData name="date">1954/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.09839988471165,39.7267527103479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2240030</SimpleData>
+		<SimpleData name="Nombre">BENAMARIAS</SimpleData>
+		<SimpleData name="Nombre SEP">BENAMARIAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1972</SimpleData>
+		<SimpleData name="Anyo">1972</SimpleData>
+		<SimpleData name="Rio">SALGUIRAL</SimpleData>
+		<SimpleData name="Municipio">MAGAZ DE CEPEDA</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">LEON</SimpleData>
+		<SimpleData name="x">244026</SimpleData>
+		<SimpleData name="y">4716999</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1972</SimpleData>
+		<SimpleData name="date">1972/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.11565815929397,42.5642699343374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8030035</SimpleData>
+		<SimpleData name="Nombre">BENIARRES</SimpleData>
+		<SimpleData name="Nombre SEP">BENIARRES</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/04/1958</SimpleData>
+		<SimpleData name="Anyo">1958</SimpleData>
+		<SimpleData name="Rio">SERPIS</SimpleData>
+		<SimpleData name="Municipio">BENIARRES</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">ALICANTE</SimpleData>
+		<SimpleData name="x">729605</SimpleData>
+		<SimpleData name="y">4299796</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1958</SimpleData>
+		<SimpleData name="date">1958/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.357219079341582,38.8145659652489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5180023</SimpleData>
+		<SimpleData name="Nombre">BERMEJALES, LOS</SimpleData>
+		<SimpleData name="Nombre SEP">BERMEJALES, LOS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1958</SimpleData>
+		<SimpleData name="Anyo">1958</SimpleData>
+		<SimpleData name="Rio">CACIN</SimpleData>
+		<SimpleData name="Municipio">ARENAS DEL REY</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">GRANADA</SimpleData>
+		<SimpleData name="x">420700</SimpleData>
+		<SimpleData name="y">4095050</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1958</SimpleData>
+		<SimpleData name="date">1958/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.891365885911,36.9960883354459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">10170002</SimpleData>
+		<SimpleData name="Nombre">BOADELLA</SimpleData>
+		<SimpleData name="Nombre SEP">BOADELLA (ELS FANGOTS)</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">16/12/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">MUGA</SimpleData>
+		<SimpleData name="Municipio">DARNIUS</SimpleData>
+		<SimpleData name="Cuenca">CUENCAS INTERNAS DE CATALU?A</SimpleData>
+		<SimpleData name="Provincia">GERONA</SimpleData>
+		<SimpleData name="x">981015</SimpleData>
+		<SimpleData name="y">4704322</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.83286073400377,42.3411338342544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5230002</SimpleData>
+		<SimpleData name="Nombre">BOLERA, LA</SimpleData>
+		<SimpleData name="Nombre SEP">BOLERA, LA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1967</SimpleData>
+		<SimpleData name="Anyo">1967</SimpleData>
+		<SimpleData name="Rio">GUADALETIN</SimpleData>
+		<SimpleData name="Municipio">POZO ALCON</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">JAEN</SimpleData>
+		<SimpleData name="x">508658</SimpleData>
+		<SimpleData name="y">4179650</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1967</SimpleData>
+		<SimpleData name="date">1967/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.9017005394718,37.7641315555741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100091</SimpleData>
+		<SimpleData name="Nombre">BORBOLLON</SimpleData>
+		<SimpleData name="Nombre SEP">BORBOLLON</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">10/05/1954</SimpleData>
+		<SimpleData name="Anyo">1954</SimpleData>
+		<SimpleData name="Rio">ARRAGO</SimpleData>
+		<SimpleData name="Municipio">SANTIBA?EZ EL ALTO</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">194910</SimpleData>
+		<SimpleData name="y">4447965</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, Adecuaci?n ambiental</SimpleData>
+		<SimpleData name="time">1954</SimpleData>
+		<SimpleData name="date">1954/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.57703832390745,40.1255183137366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100088</SimpleData>
+		<SimpleData name="Nombre">BORBOLLON (DERIVACION) - ARRAGO (CONTRAEMBALSE)</SimpleData>
+		<SimpleData name="Nombre SEP">BORBOLLON (DERIVACION) - ARRAGO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1954</SimpleData>
+		<SimpleData name="Anyo">1954</SimpleData>
+		<SimpleData name="Rio">ARRAGO</SimpleData>
+		<SimpleData name="Municipio">SANTIBA?EZ EL ALTO</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">193368</SimpleData>
+		<SimpleData name="y">4446703</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1954</SimpleData>
+		<SimpleData name="date">1954/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.59468421333394,40.1132665152789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5110061</SimpleData>
+		<SimpleData name="Nombre">BORNOS</SimpleData>
+		<SimpleData name="Nombre SEP">BORNOS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1961</SimpleData>
+		<SimpleData name="Anyo">1961</SimpleData>
+		<SimpleData name="Rio">GUADALETE</SimpleData>
+		<SimpleData name="Municipio">BORNOS</SimpleData>
+		<SimpleData name="Cuenca">GUADALETE Y BARBATE</SimpleData>
+		<SimpleData name="Provincia">CADIZ</SimpleData>
+		<SimpleData name="x">253744</SimpleData>
+		<SimpleData name="y">4075482</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1961</SimpleData>
+		<SimpleData name="date">1961/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.75943609350887,36.7914150006134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100094</SimpleData>
+		<SimpleData name="Nombre">BOYERIL 2, EL</SimpleData>
+		<SimpleData name="Nombre SEP">BOYERIL 2, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1965</SimpleData>
+		<SimpleData name="Anyo">1965</SimpleData>
+		<SimpleData name="Rio">ARROYO MANCO</SimpleData>
+		<SimpleData name="Municipio">CASATEJADA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">274235</SimpleData>
+		<SimpleData name="y">4419290</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1965</SimpleData>
+		<SimpleData name="date">1965/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.64060596657263,39.8936366883496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4060047</SimpleData>
+		<SimpleData name="Nombre">BROVALES</SimpleData>
+		<SimpleData name="Nombre SEP">BROVALES</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1960</SimpleData>
+		<SimpleData name="Anyo">1960</SimpleData>
+		<SimpleData name="Rio">BROVALES</SimpleData>
+		<SimpleData name="Municipio">JEREZ DE LOS CABALLEROS</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">BADAJOZ</SimpleData>
+		<SimpleData name="x">176798</SimpleData>
+		<SimpleData name="y">4251307</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1960</SimpleData>
+		<SimpleData name="date">1960/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.69587386878681,38.3465293775685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9220016</SimpleData>
+		<SimpleData name="Nombre">BUBAL</SimpleData>
+		<SimpleData name="Nombre SEP">BUBAL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1971</SimpleData>
+		<SimpleData name="Anyo">1971</SimpleData>
+		<SimpleData name="Rio">GALLEGO</SimpleData>
+		<SimpleData name="Municipio">HOZ DE JACA, BIESCAS</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">HUESCA</SimpleData>
+		<SimpleData name="x">720079</SimpleData>
+		<SimpleData name="y">4729203</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1971</SimpleData>
+		<SimpleData name="date">1971/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.313735159766937,42.6838155893922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3190007</SimpleData>
+		<SimpleData name="Nombre">BUENDIA</SimpleData>
+		<SimpleData name="Nombre SEP">BUENDIA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1958</SimpleData>
+		<SimpleData name="Anyo">1958</SimpleData>
+		<SimpleData name="Rio">GUADIELA</SimpleData>
+		<SimpleData name="Municipio">BUENDIA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CUENCA</SimpleData>
+		<SimpleData name="x">518481</SimpleData>
+		<SimpleData name="y">4472261</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Abastecimiento, Riego</SimpleData>
+		<SimpleData name="time">1958</SimpleData>
+		<SimpleData name="date">1958/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.78303226893827,40.3989706443899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2420008</SimpleData>
+		<SimpleData name="Nombre">CAMPILLO DE BUITRAGO</SimpleData>
+		<SimpleData name="Nombre SEP">CAMPILLO DE BUITRAGO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">30/09/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">DUERO</SimpleData>
+		<SimpleData name="Municipio">SORIA Y GARRAY</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">SORIA</SimpleData>
+		<SimpleData name="x">539483</SimpleData>
+		<SimpleData name="y">4631600</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.52617706547774,41.8334471731404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5410016</SimpleData>
+		<SimpleData name="Nombre">CANTILLANA</SimpleData>
+		<SimpleData name="Nombre SEP">CANTILLANA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1956</SimpleData>
+		<SimpleData name="Anyo">1956</SimpleData>
+		<SimpleData name="Rio">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Municipio">CANTILLANA</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">SEVILLA</SimpleData>
+		<SimpleData name="x">252655</SimpleData>
+		<SimpleData name="y">4164393</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1956</SimpleData>
+		<SimpleData name="date">1956/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.81135850017545,37.5925678625508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3450033</SimpleData>
+		<SimpleData name="Nombre">CASTREJON</SimpleData>
+		<SimpleData name="Nombre SEP">CASTREJON</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1967</SimpleData>
+		<SimpleData name="Anyo">1967</SimpleData>
+		<SimpleData name="Rio">TAJO</SimpleData>
+		<SimpleData name="Municipio">PUEBLA DE MONTALBAN, LA Y POL?N</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">TOLEDO</SimpleData>
+		<SimpleData name="x">389280</SimpleData>
+		<SimpleData name="y">4410440</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1967</SimpleData>
+		<SimpleData name="date">1967/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.29400307950877,39.8367560260396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3450014</SimpleData>
+		<SimpleData name="Nombre">CASTREJON / CA?ARES</SimpleData>
+		<SimpleData name="Nombre SEP">CASTREJON / CAARES</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1967</SimpleData>
+		<SimpleData name="Anyo">1967</SimpleData>
+		<SimpleData name="Rio">ARROYO CA?ARES</SimpleData>
+		<SimpleData name="Municipio">PUEBLA DE MONTALBAN, LA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">TOLEDO</SimpleData>
+		<SimpleData name="x">382105</SimpleData>
+		<SimpleData name="y">4411925</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1967</SimpleData>
+		<SimpleData name="date">1967/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.37805349088724,39.8478170815301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3450043</SimpleData>
+		<SimpleData name="Nombre">CASTREJON / CARPIO, EL</SimpleData>
+		<SimpleData name="Nombre SEP">CASTREJON / CARPIO, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1967</SimpleData>
+		<SimpleData name="Anyo">1967</SimpleData>
+		<SimpleData name="Rio">ARROYO EL CARPIO</SimpleData>
+		<SimpleData name="Municipio">CARPIO DE TAJO</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">TOLEDO</SimpleData>
+		<SimpleData name="x">376065</SimpleData>
+		<SimpleData name="y">4413100</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1967</SimpleData>
+		<SimpleData name="date">1967/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.45062008586326,39.8568923971038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3450047</SimpleData>
+		<SimpleData name="Nombre">CAZALEGAS</SimpleData>
+		<SimpleData name="Nombre SEP">CAZALEGAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1949</SimpleData>
+		<SimpleData name="Anyo">1949</SimpleData>
+		<SimpleData name="Rio">ALBERCHE</SimpleData>
+		<SimpleData name="Municipio">CAZALEGAS</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">TOLEDO</SimpleData>
+		<SimpleData name="x">354505</SimpleData>
+		<SimpleData name="y">4430825</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1949</SimpleData>
+		<SimpleData name="date">1949/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.70482431692454,40.0150981560158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5110019</SimpleData>
+		<SimpleData name="Nombre">CELEMIN (ALIVIADERO) (DIQUE DEL COLLADO)</SimpleData>
+		<SimpleData name="Nombre SEP">CELEMIN</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1974</SimpleData>
+		<SimpleData name="Anyo">1974</SimpleData>
+		<SimpleData name="Rio">CELEMIN</SimpleData>
+		<SimpleData name="Municipio">MEDINA-SIDONIA</SimpleData>
+		<SimpleData name="Cuenca">GUADALETE Y BARBATE</SimpleData>
+		<SimpleData name="Provincia">CADIZ</SimpleData>
+		<SimpleData name="x">251076</SimpleData>
+		<SimpleData name="y">4021595</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1974</SimpleData>
+		<SimpleData name="date">1974/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.77449372500233,36.3001701046359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">7020010</SimpleData>
+		<SimpleData name="Nombre">CENAJO, EL</SimpleData>
+		<SimpleData name="Nombre SEP">CENAJO, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1960</SimpleData>
+		<SimpleData name="Anyo">1960</SimpleData>
+		<SimpleData name="Rio">SEGURA</SimpleData>
+		<SimpleData name="Municipio">MORATALLA Y HELLIN</SimpleData>
+		<SimpleData name="Cuenca">SEGURA</SimpleData>
+		<SimpleData name="Provincia">MURCIA</SimpleData>
+		<SimpleData name="x">607142</SimpleData>
+		<SimpleData name="y">4247250</SimpleData>
+		<SimpleData name="Tipos">Defensa frente a avenidas, Riego, ---</SimpleData>
+		<SimpleData name="time">1960</SimpleData>
+		<SimpleData name="date">1960/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.77694569461116,38.3650613286916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2490003</SimpleData>
+		<SimpleData name="Nombre">CERNADILLA</SimpleData>
+		<SimpleData name="Nombre SEP">CERNADILLA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">TERA</SimpleData>
+		<SimpleData name="Municipio">CERNADILLA- MANZANAL DE ARRIBA</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">ZAMORA</SimpleData>
+		<SimpleData name="x">213312</SimpleData>
+		<SimpleData name="y">4657994</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.45955933075867,42.0195960797974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3450040</SimpleData>
+		<SimpleData name="Nombre">CERQUILLA, LA</SimpleData>
+		<SimpleData name="Nombre SEP">CERQUILLA, LA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1962</SimpleData>
+		<SimpleData name="Anyo">1962</SimpleData>
+		<SimpleData name="Rio">JULIAN (ARROYO DE SAN JULIAN)</SimpleData>
+		<SimpleData name="Municipio">CALZADA DE OROPESA, LA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">TOLEDO</SimpleData>
+		<SimpleData name="x">307907</SimpleData>
+		<SimpleData name="y">4429641</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1962</SimpleData>
+		<SimpleData name="date">1962/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.250132699482,39.9951236740151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4100015</SimpleData>
+		<SimpleData name="Nombre">CIJARA</SimpleData>
+		<SimpleData name="Nombre SEP">CIJARA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1956</SimpleData>
+		<SimpleData name="Anyo">1956</SimpleData>
+		<SimpleData name="Rio">GUADIANA</SimpleData>
+		<SimpleData name="Municipio">ALIA Y HERRERA DEL DUQUE</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">326475</SimpleData>
+		<SimpleData name="y">4360367</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1956</SimpleData>
+		<SimpleData name="date">1956/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.01454945075657,39.3753530084905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9430006</SimpleData>
+		<SimpleData name="Nombre">CIURANA</SimpleData>
+		<SimpleData name="Nombre SEP">CIURANA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1972</SimpleData>
+		<SimpleData name="Anyo">1972</SimpleData>
+		<SimpleData name="Rio">CIURANA</SimpleData>
+		<SimpleData name="Municipio">CORNUDELLA DE MONTSANT</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">TARRAGONA</SimpleData>
+		<SimpleData name="x">828373</SimpleData>
+		<SimpleData name="y">4574080</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1972</SimpleData>
+		<SimpleData name="date">1972/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.919011710611436,41.2514313501369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">10170006</SimpleData>
+		<SimpleData name="Nombre">COLOMERS (AZUD)</SimpleData>
+		<SimpleData name="Nombre SEP">COLOMERS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/12/1967</SimpleData>
+		<SimpleData name="Anyo">1967</SimpleData>
+		<SimpleData name="Rio">TER</SimpleData>
+		<SimpleData name="Municipio">COLOMERS</SimpleData>
+		<SimpleData name="Cuenca">CUENCAS INTERNAS DE CATALU?A</SimpleData>
+		<SimpleData name="Provincia">GERONA</SimpleData>
+		<SimpleData name="x">996004</SimpleData>
+		<SimpleData name="y">4675791</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1967</SimpleData>
+		<SimpleData name="date">1967/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.99526183648238,42.0773760316643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5140036</SimpleData>
+		<SimpleData name="Nombre">CORDOBILLA</SimpleData>
+		<SimpleData name="Nombre SEP">CORDOBILLA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1953</SimpleData>
+		<SimpleData name="Anyo">1953</SimpleData>
+		<SimpleData name="Rio">GENIL</SimpleData>
+		<SimpleData name="Municipio">PUENTE GENIL</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">CORDOBA</SimpleData>
+		<SimpleData name="x">347701</SimpleData>
+		<SimpleData name="y">4135123</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1953</SimpleData>
+		<SimpleData name="date">1953/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.71953755738512,37.3503254261455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100064</SimpleData>
+		<SimpleData name="Nombre">CORONO, EL</SimpleData>
+		<SimpleData name="Nombre SEP">CORONO, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1971</SimpleData>
+		<SimpleData name="Anyo">1971</SimpleData>
+		<SimpleData name="Rio">ARROYO GODINO</SimpleData>
+		<SimpleData name="Municipio">PASARON DE LA VERA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">260734</SimpleData>
+		<SimpleData name="y">4435578</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1971</SimpleData>
+		<SimpleData name="date">1971/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.80542502260616,40.0361074047749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5180012</SimpleData>
+		<SimpleData name="Nombre">CUBILLAS</SimpleData>
+		<SimpleData name="Nombre SEP">CUBILLAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1956</SimpleData>
+		<SimpleData name="Anyo">1956</SimpleData>
+		<SimpleData name="Rio">CUBILLAS</SimpleData>
+		<SimpleData name="Municipio">ALBOLOTE, CHAPARRAL</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">GRANADA</SimpleData>
+		<SimpleData name="x">439470</SimpleData>
+		<SimpleData name="y">4126405</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1956</SimpleData>
+		<SimpleData name="date">1956/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.68213187361113,37.275113549931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2420001</SimpleData>
+		<SimpleData name="Nombre">CUERDA DEL POZO</SimpleData>
+		<SimpleData name="Nombre SEP">CUERDA DEL POZO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1941</SimpleData>
+		<SimpleData name="Anyo">1941</SimpleData>
+		<SimpleData name="Rio">DUERO</SimpleData>
+		<SimpleData name="Municipio">VINUESA</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">SORIA</SimpleData>
+		<SimpleData name="x">524663</SimpleData>
+		<SimpleData name="y">4636207</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1941</SimpleData>
+		<SimpleData name="date">1941/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70411063391709,41.8756060148834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9390001</SimpleData>
+		<SimpleData name="Nombre">EBRO</SimpleData>
+		<SimpleData name="Nombre SEP">EBRO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1945</SimpleData>
+		<SimpleData name="Anyo">1945</SimpleData>
+		<SimpleData name="Rio">EBRO</SimpleData>
+		<SimpleData name="Municipio">ROZAS DE VALDEARROLLO, LAS</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">CANTABRIA</SimpleData>
+		<SimpleData name="x">414326</SimpleData>
+		<SimpleData name="y">4758227</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1945</SimpleData>
+		<SimpleData name="date">1945/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.05062366921491,42.971874766016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3280052</SimpleData>
+		<SimpleData name="Nombre">ENCINILLA, LA</SimpleData>
+		<SimpleData name="Nombre SEP">ENCINILLA, LA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1964</SimpleData>
+		<SimpleData name="Anyo">1964</SimpleData>
+		<SimpleData name="Rio">ENCINILLA (ARROYO ENCINILLA)</SimpleData>
+		<SimpleData name="Municipio">GUADARRAMA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">MADRID</SimpleData>
+		<SimpleData name="x">406098</SimpleData>
+		<SimpleData name="y">4503397</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1964</SimpleData>
+		<SimpleData name="date">1964/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.11109953629523,40.6761127594353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3190016</SimpleData>
+		<SimpleData name="Nombre">ENTREPE?AS</SimpleData>
+		<SimpleData name="Nombre SEP">ENTREPEAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1956</SimpleData>
+		<SimpleData name="Anyo">1956</SimpleData>
+		<SimpleData name="Rio">TAJO</SimpleData>
+		<SimpleData name="Municipio">SACEDON, AU?ON</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">GUADALAJARA</SimpleData>
+		<SimpleData name="x">521162</SimpleData>
+		<SimpleData name="y">4482457</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, Abastecimiento</SimpleData>
+		<SimpleData name="time">1956</SimpleData>
+		<SimpleData name="date">1956/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74995959421909,40.4926345939065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5410014</SimpleData>
+		<SimpleData name="Nombre">ESPARRAGAL, EL</SimpleData>
+		<SimpleData name="Nombre SEP">ESPARRAGAL, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1970</SimpleData>
+		<SimpleData name="Anyo">1970</SimpleData>
+		<SimpleData name="Rio">ENCARNACION</SimpleData>
+		<SimpleData name="Municipio">GERENA</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">SEVILLA</SimpleData>
+		<SimpleData name="x">224955</SimpleData>
+		<SimpleData name="y">4160665</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1970</SimpleData>
+		<SimpleData name="date">1970/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.11348034423537,37.5519764642699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3190026</SimpleData>
+		<SimpleData name="Nombre">ESTREMERA</SimpleData>
+		<SimpleData name="Nombre SEP">ESTREMERA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1950</SimpleData>
+		<SimpleData name="Anyo">1950</SimpleData>
+		<SimpleData name="Rio">TAJO</SimpleData>
+		<SimpleData name="Municipio">DRIEBES, LEGANIEL</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">GUADALAJARA</SimpleData>
+		<SimpleData name="x">499510</SimpleData>
+		<SimpleData name="y">4450630</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1950</SimpleData>
+		<SimpleData name="date">1950/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00575775958773,40.2060754333033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9430007</SimpleData>
+		<SimpleData name="Nombre">FLIX</SimpleData>
+		<SimpleData name="Nombre SEP">FLIX</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1948</SimpleData>
+		<SimpleData name="Anyo">1948</SimpleData>
+		<SimpleData name="Rio">EBRO</SimpleData>
+		<SimpleData name="Municipio">FLIX</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">TARRAGONA</SimpleData>
+		<SimpleData name="x">797742</SimpleData>
+		<SimpleData name="y">4570937</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Regulaci?n, Riego</SimpleData>
+		<SimpleData name="time">1948</SimpleData>
+		<SimpleData name="date">1948/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.546685765282842,41.2322298066531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8460004</SimpleData>
+		<SimpleData name="Nombre">FORATA</SimpleData>
+		<SimpleData name="Nombre SEP">FORATA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">MAGRO</SimpleData>
+		<SimpleData name="Municipio">YATOVA</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">VALENCIA</SimpleData>
+		<SimpleData name="x">684213</SimpleData>
+		<SimpleData name="y">4356914</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.866259988066856,39.3400612886027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">1240021</SimpleData>
+		<SimpleData name="Nombre">FUENTE DEL AZUFRE (CONTRAEMBALSE)</SimpleData>
+		<SimpleData name="Nombre SEP">FUENTE DEL AZUFRE</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1949</SimpleData>
+		<SimpleData name="Anyo">1949</SimpleData>
+		<SimpleData name="Rio">SIL</SimpleData>
+		<SimpleData name="Municipio">PONFERRADA</SimpleData>
+		<SimpleData name="Cuenca">MI?O-SIL</SimpleData>
+		<SimpleData name="Provincia">LEON</SimpleData>
+		<SimpleData name="x">205737</SimpleData>
+		<SimpleData name="y">4718533</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, Riego</SimpleData>
+		<SimpleData name="time">1949</SimpleData>
+		<SimpleData name="date">1949/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.58219613173273,42.5632254164673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100073</SimpleData>
+		<SimpleData name="Nombre">GABRIEL Y GALAN</SimpleData>
+		<SimpleData name="Nombre SEP">GABRIEL Y GALAN</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1961</SimpleData>
+		<SimpleData name="Anyo">1961</SimpleData>
+		<SimpleData name="Rio">ALAGON</SimpleData>
+		<SimpleData name="Municipio">GUIJO DE GRANADILLA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">233284</SimpleData>
+		<SimpleData name="y">4457169</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1961</SimpleData>
+		<SimpleData name="date">1961/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.13454936242733,40.2225190210536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4060063</SimpleData>
+		<SimpleData name="Nombre">GARCIA DE SOLA</SimpleData>
+		<SimpleData name="Nombre SEP">GARCIA DE SOLA</SimpleData>
+		<SimpleData name="Otro nombr">PUERTO PE?A</SimpleData>
+		<SimpleData name="Fecha">01/01/1965</SimpleData>
+		<SimpleData name="Anyo">1965</SimpleData>
+		<SimpleData name="Rio">GUADIANA</SimpleData>
+		<SimpleData name="Municipio">TALARRUBIAS</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">BADAJOZ</SimpleData>
+		<SimpleData name="x">311314</SimpleData>
+		<SimpleData name="y">4335259</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1965</SimpleData>
+		<SimpleData name="date">1965/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.18341856854113,39.1460916619095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9260028</SimpleData>
+		<SimpleData name="Nombre">GONZALEZ LACASA</SimpleData>
+		<SimpleData name="Nombre SEP">GONZALEZ LACASA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1962</SimpleData>
+		<SimpleData name="Anyo">1962</SimpleData>
+		<SimpleData name="Rio">ALBERCOS</SimpleData>
+		<SimpleData name="Municipio">ORTIGOSA DE CAMEROS</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">LOGRO?O</SimpleData>
+		<SimpleData name="x">527302</SimpleData>
+		<SimpleData name="y">4669311</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1962</SimpleData>
+		<SimpleData name="date">1962/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.67276137549368,42.1740956926309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9220078</SimpleData>
+		<SimpleData name="Nombre">GRADO I, EL</SimpleData>
+		<SimpleData name="Nombre SEP">GRADO I, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">CINCA</SimpleData>
+		<SimpleData name="Municipio">GRADO, EL</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">HUESCA</SimpleData>
+		<SimpleData name="x">767725</SimpleData>
+		<SimpleData name="y">4671815</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, Abastecimiento</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.23741948399448,42.1514333587585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5230049</SimpleData>
+		<SimpleData name="Nombre">GUADALEN</SimpleData>
+		<SimpleData name="Nombre SEP">GUADALEN</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1954</SimpleData>
+		<SimpleData name="Anyo">1954</SimpleData>
+		<SimpleData name="Rio">GUADALEN</SimpleData>
+		<SimpleData name="Municipio">ARQUILLOS, VILCHES</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">JAEN</SimpleData>
+		<SimpleData name="x">458265</SimpleData>
+		<SimpleData name="y">4224145</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1954</SimpleData>
+		<SimpleData name="date">1954/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.47794000226296,38.1619626656835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8030092</SimpleData>
+		<SimpleData name="Nombre">GUADALEST</SimpleData>
+		<SimpleData name="Nombre SEP">GUADALEST</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">27/11/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">GUADALEST</SimpleData>
+		<SimpleData name="Municipio">GUADALEST</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">ALICANTE</SimpleData>
+		<SimpleData name="x">744422</SimpleData>
+		<SimpleData name="y">4285116</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.192166073309142,38.6800297963977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">6290030</SimpleData>
+		<SimpleData name="Nombre">GUADALHORCE</SimpleData>
+		<SimpleData name="Nombre SEP">GUADALHORCE</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1973</SimpleData>
+		<SimpleData name="Anyo">1973</SimpleData>
+		<SimpleData name="Rio">GUADALHORCE</SimpleData>
+		<SimpleData name="Municipio">CAMPILLOS</SimpleData>
+		<SimpleData name="Cuenca">CUENCA MEDITERRANEA ANDALUZA</SimpleData>
+		<SimpleData name="Provincia">MALAGA</SimpleData>
+		<SimpleData name="x">339635</SimpleData>
+		<SimpleData name="y">4090040</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1973</SimpleData>
+		<SimpleData name="date">1973/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.80153082629439,36.9422318856897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5230047</SimpleData>
+		<SimpleData name="Nombre">GUADALMENA</SimpleData>
+		<SimpleData name="Nombre SEP">GUADALMENA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">GUADALMENA</SimpleData>
+		<SimpleData name="Municipio">CHICLANA DE SEGURA</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">JAEN</SimpleData>
+		<SimpleData name="x">507600</SimpleData>
+		<SimpleData name="y">4246350</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, Abastecimiento</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.91300370176007,38.3652940647351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">6290030</SimpleData>
+		<SimpleData name="Nombre">GUADALHORCE</SimpleData>
+		<SimpleData name="Nombre SEP">GUADALTEBA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1973</SimpleData>
+		<SimpleData name="Anyo">1973</SimpleData>
+		<SimpleData name="Rio">GUADALHORCE</SimpleData>
+		<SimpleData name="Municipio">CAMPILLOS</SimpleData>
+		<SimpleData name="Cuenca">CUENCA MEDITERRANEA ANDALUZA</SimpleData>
+		<SimpleData name="Provincia">MALAGA</SimpleData>
+		<SimpleData name="x">339635</SimpleData>
+		<SimpleData name="y">4090040</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1973</SimpleData>
+		<SimpleData name="date">1973/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.80089989914444,36.9450688730879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5140033</SimpleData>
+		<SimpleData name="Nombre">GUADANU?O</SimpleData>
+		<SimpleData name="Nombre SEP">GUADANUO</SimpleData>
+		<SimpleData name="Otro nombr">CERRO MURIANO</SimpleData>
+		<SimpleData name="Fecha">01/01/1967</SimpleData>
+		<SimpleData name="Anyo">1967</SimpleData>
+		<SimpleData name="Rio">GUADANU?O</SimpleData>
+		<SimpleData name="Municipio">CORDOBA Y VILLAVICIOSA</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">CORDOBA</SimpleData>
+		<SimpleData name="x">342050</SimpleData>
+		<SimpleData name="y">4209965</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1967</SimpleData>
+		<SimpleData name="date">1967/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.79940104214373,38.0206902745129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">6110005</SimpleData>
+		<SimpleData name="Nombre">GUADARRANQUE</SimpleData>
+		<SimpleData name="Nombre SEP">GUADARRANQUE</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1965</SimpleData>
+		<SimpleData name="Anyo">1965</SimpleData>
+		<SimpleData name="Rio">GUADARRANQUE</SimpleData>
+		<SimpleData name="Municipio">LOS BARRIOS Y CASTELLAR</SimpleData>
+		<SimpleData name="Cuenca">CUENCA MEDITERRANEA ANDALUZA</SimpleData>
+		<SimpleData name="Provincia">CADIZ</SimpleData>
+		<SimpleData name="x">279075</SimpleData>
+		<SimpleData name="y">4021000</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, Industrial</SimpleData>
+		<SimpleData name="time">1965</SimpleData>
+		<SimpleData name="date">1965/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.46258224527812,36.3080618959281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100138</SimpleData>
+		<SimpleData name="Nombre">HELECHAL</SimpleData>
+		<SimpleData name="Nombre SEP">HELECHAL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1965</SimpleData>
+		<SimpleData name="Anyo">1965</SimpleData>
+		<SimpleData name="Rio">ARROYO HELECHAL</SimpleData>
+		<SimpleData name="Municipio">ALCANTARA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">166075</SimpleData>
+		<SimpleData name="y">4418651</SimpleData>
+		<SimpleData name="Tipos">Acuicultura, Riego, ---</SimpleData>
+		<SimpleData name="time">1965</SimpleData>
+		<SimpleData name="date">1965/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.90075205990814,39.8501022100413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3050008</SimpleData>
+		<SimpleData name="Nombre">HINCHONA, LA</SimpleData>
+		<SimpleData name="Nombre SEP">HINCHONA, LA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1946</SimpleData>
+		<SimpleData name="Anyo">1946</SimpleData>
+		<SimpleData name="Rio">YEDRA</SimpleData>
+		<SimpleData name="Municipio">TIEMBLO, EL</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">AVILA</SimpleData>
+		<SimpleData name="x">372108</SimpleData>
+		<SimpleData name="y">4471728</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1946</SimpleData>
+		<SimpleData name="date">1946/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.50883176622184,40.382678871337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5110015</SimpleData>
+		<SimpleData name="Nombre">HURONES, LOS</SimpleData>
+		<SimpleData name="Nombre SEP">HURONES, LOS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1964</SimpleData>
+		<SimpleData name="Anyo">1964</SimpleData>
+		<SimpleData name="Rio">MAJACEITE</SimpleData>
+		<SimpleData name="Municipio">ALGAR</SimpleData>
+		<SimpleData name="Cuenca">GUADALETE Y BARBATE</SimpleData>
+		<SimpleData name="Provincia">CADIZ</SimpleData>
+		<SimpleData name="x">271131</SimpleData>
+		<SimpleData name="y">4060369</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1964</SimpleData>
+		<SimpleData name="date">1964/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.56179318540135,36.6616514525269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8030028</SimpleData>
+		<SimpleData name="Nombre">ISBERT</SimpleData>
+		<SimpleData name="Nombre SEP">ISBERT</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1945</SimpleData>
+		<SimpleData name="Anyo">1945</SimpleData>
+		<SimpleData name="Rio">GIRONA</SimpleData>
+		<SimpleData name="Municipio">ORBA</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">ALICANTE</SimpleData>
+		<SimpleData name="x">751659</SimpleData>
+		<SimpleData name="y">4297224</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1945</SimpleData>
+		<SimpleData name="date">1945/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10263108021709,38.7878640466941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5140028</SimpleData>
+		<SimpleData name="Nombre">IZNAJAR</SimpleData>
+		<SimpleData name="Nombre SEP">IZNAJAR</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">GENIL</SimpleData>
+		<SimpleData name="Municipio">RUTE, CUEVAS SAN MARCOS</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">CORDOBA</SimpleData>
+		<SimpleData name="x">377250</SimpleData>
+		<SimpleData name="y">4126550</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.38459541951843,37.2774505076752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100102</SimpleData>
+		<SimpleData name="Nombre">JARILLA, LA (TAJO)</SimpleData>
+		<SimpleData name="Nombre SEP">JARILLA, LA (TAJO)</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1964</SimpleData>
+		<SimpleData name="Anyo">1964</SimpleData>
+		<SimpleData name="Rio">CAVERA</SimpleData>
+		<SimpleData name="Municipio">JARILLA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">242520</SimpleData>
+		<SimpleData name="y">4451720</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1964</SimpleData>
+		<SimpleData name="date">1964/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.02453883319097,40.1743752882411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5140001</SimpleData>
+		<SimpleData name="Nombre">MALPASILLO JAUJA (AZUD)</SimpleData>
+		<SimpleData name="Nombre SEP">JAUJA</SimpleData>
+		<SimpleData name="Otro nombr">MALPASILLO JAUJA</SimpleData>
+		<SimpleData name="Fecha">31/12/1951</SimpleData>
+		<SimpleData name="Anyo">1951</SimpleData>
+		<SimpleData name="Rio">GENIL</SimpleData>
+		<SimpleData name="Municipio">LUCENA</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">CORDOBA</SimpleData>
+		<SimpleData name="x">352650</SimpleData>
+		<SimpleData name="y">4129600</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, Abastecimiento</SimpleData>
+		<SimpleData name="time">1951</SimpleData>
+		<SimpleData name="date">1951/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.66258549652408,37.3013614453855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2240007</SimpleData>
+		<SimpleData name="Nombre">JUAN BENET (PORMA)</SimpleData>
+		<SimpleData name="Nombre SEP">JUAN BENET (PORMA)</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">30/04/1968</SimpleData>
+		<SimpleData name="Anyo">1968</SimpleData>
+		<SimpleData name="Rio">PORMA</SimpleData>
+		<SimpleData name="Municipio">BO?AR</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">LEON</SimpleData>
+		<SimpleData name="x">313090</SimpleData>
+		<SimpleData name="y">4755710</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1968</SimpleData>
+		<SimpleData name="date">1968/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.29286512628803,42.9292718170784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2400015</SimpleData>
+		<SimpleData name="Nombre">LINARES DEL ARROYO</SimpleData>
+		<SimpleData name="Nombre SEP">LINARES DEL ARROYO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">30/04/1953</SimpleData>
+		<SimpleData name="Anyo">1953</SimpleData>
+		<SimpleData name="Rio">RIAZA</SimpleData>
+		<SimpleData name="Municipio">MADERUELO</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">SEGOVIA</SimpleData>
+		<SimpleData name="x">453728</SimpleData>
+		<SimpleData name="y">4597664</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1953</SimpleData>
+		<SimpleData name="date">1953/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.5546517613635,41.5292857162478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8460013</SimpleData>
+		<SimpleData name="Nombre">LORIGUILLA</SimpleData>
+		<SimpleData name="Nombre SEP">LORIGUILLA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1965</SimpleData>
+		<SimpleData name="Anyo">1965</SimpleData>
+		<SimpleData name="Rio">TURIA</SimpleData>
+		<SimpleData name="Municipio">LORIGUILLA Y CHULILLA</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">VALENCIA</SimpleData>
+		<SimpleData name="x">679189</SimpleData>
+		<SimpleData name="y">4392798</SimpleData>
+		<SimpleData name="Tipos">Regulaci?n, Riego, Hidroel?ctrico</SimpleData>
+		<SimpleData name="time">1965</SimpleData>
+		<SimpleData name="date">1965/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.913545143704678,39.6655988167685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9260022</SimpleData>
+		<SimpleData name="Nombre">MANSILLA</SimpleData>
+		<SimpleData name="Nombre SEP">MANSILLA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1960</SimpleData>
+		<SimpleData name="Anyo">1960</SimpleData>
+		<SimpleData name="Rio">NAJERILLA</SimpleData>
+		<SimpleData name="Municipio">MANSILLA DE LA SIERRA, VILLAVELAYO</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">LOGRO?O</SimpleData>
+		<SimpleData name="x">507343</SimpleData>
+		<SimpleData name="y">4667566</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1960</SimpleData>
+		<SimpleData name="date">1960/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.91186579548949,42.1578185463543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5230044</SimpleData>
+		<SimpleData name="Nombre">MARMOLEJO (AZUD)</SimpleData>
+		<SimpleData name="Nombre SEP">MARMOLEJO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1962</SimpleData>
+		<SimpleData name="Anyo">1962</SimpleData>
+		<SimpleData name="Rio">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Municipio">MARMOLEJO</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">JAEN</SimpleData>
+		<SimpleData name="x">396000</SimpleData>
+		<SimpleData name="y">4213200</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1962</SimpleData>
+		<SimpleData name="date">1962/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.18614607146159,38.0583036116649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9220054</SimpleData>
+		<SimpleData name="Nombre">MEDIANO</SimpleData>
+		<SimpleData name="Nombre SEP">MEDIANO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1959</SimpleData>
+		<SimpleData name="Anyo">1959</SimpleData>
+		<SimpleData name="Rio">CINCA</SimpleData>
+		<SimpleData name="Municipio">FUEVA, LA</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">HUESCA</SimpleData>
+		<SimpleData name="x">765112</SimpleData>
+		<SimpleData name="y">4689838</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1959</SimpleData>
+		<SimpleData name="date">1959/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.209614773336133,42.3127822442602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9500030</SimpleData>
+		<SimpleData name="Nombre">MEQUINENZA</SimpleData>
+		<SimpleData name="Nombre SEP">MEQUINENZA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1964</SimpleData>
+		<SimpleData name="Anyo">1964</SimpleData>
+		<SimpleData name="Rio">EBRO</SimpleData>
+		<SimpleData name="Municipio">MEQUINENZA</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">ZARAGOZA</SimpleData>
+		<SimpleData name="x">774241</SimpleData>
+		<SimpleData name="y">4584997</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1964</SimpleData>
+		<SimpleData name="date">1964/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.27233271846834,41.3691072598816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5230023</SimpleData>
+		<SimpleData name="Nombre">MOLINO DE GUADALEN (CONTRAEMBALSE)</SimpleData>
+		<SimpleData name="Nombre SEP">MOLINO DE GUADALEN</SimpleData>
+		<SimpleData name="Otro nombr">SALTO DEL MOLINO</SimpleData>
+		<SimpleData name="Fecha">31/12/1962</SimpleData>
+		<SimpleData name="Anyo">1962</SimpleData>
+		<SimpleData name="Rio">GUADALEN</SimpleData>
+		<SimpleData name="Municipio">VILCHES</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">JAEN</SimpleData>
+		<SimpleData name="x">457163</SimpleData>
+		<SimpleData name="y">4222764</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1962</SimpleData>
+		<SimpleData name="date">1962/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.49152839171866,38.1484731614481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">6110011</SimpleData>
+		<SimpleData name="Nombre">MONTE DE LA TORRE (DD-1)</SimpleData>
+		<SimpleData name="Nombre SEP">MONTE DE LA TORRE (DD-1)</SimpleData>
+		<SimpleData name="Otro nombr">DEPOSITO DD-1</SimpleData>
+		<SimpleData name="Fecha">31/12/1972</SimpleData>
+		<SimpleData name="Anyo">1972</SimpleData>
+		<SimpleData name="Rio">PRIOR</SimpleData>
+		<SimpleData name="Municipio">BARRIOS, LOS</SimpleData>
+		<SimpleData name="Cuenca">CUENCA MEDITERRANEA ANDALUZA</SimpleData>
+		<SimpleData name="Provincia">CADIZ</SimpleData>
+		<SimpleData name="x">275972</SimpleData>
+		<SimpleData name="y">4004387</SimpleData>
+		<SimpleData name="Tipos">Regulaci?n, Riego, ---</SimpleData>
+		<SimpleData name="time">1972</SimpleData>
+		<SimpleData name="date">1972/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.49238439009859,36.1558959975988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4060102</SimpleData>
+		<SimpleData name="Nombre">MONTIJO (AZUD)</SimpleData>
+		<SimpleData name="Nombre SEP">MONTIJO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1954</SimpleData>
+		<SimpleData name="Anyo">1954</SimpleData>
+		<SimpleData name="Rio">GUADIANA</SimpleData>
+		<SimpleData name="Municipio">MERIDA</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">BADAJOZ</SimpleData>
+		<SimpleData name="x">202510</SimpleData>
+		<SimpleData name="y">4314117</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1954</SimpleData>
+		<SimpleData name="date">1954/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.42766408885272,38.9243443739518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4060074</SimpleData>
+		<SimpleData name="Nombre">MOSQUIL, EL</SimpleData>
+		<SimpleData name="Nombre SEP">MOSQUIL, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1971</SimpleData>
+		<SimpleData name="Anyo">1971</SimpleData>
+		<SimpleData name="Rio">LABRADOS</SimpleData>
+		<SimpleData name="Municipio">USAGRE</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">BADAJOZ</SimpleData>
+		<SimpleData name="x">228717</SimpleData>
+		<SimpleData name="y">4255260</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1971</SimpleData>
+		<SimpleData name="date">1971/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.10214342807971,38.4042290711618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3280058</SimpleData>
+		<SimpleData name="Nombre">NAVALAGAMELLA</SimpleData>
+		<SimpleData name="Nombre SEP">NAVALAGAMELLA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1972</SimpleData>
+		<SimpleData name="Anyo">1972</SimpleData>
+		<SimpleData name="Rio">CURA</SimpleData>
+		<SimpleData name="Municipio">NAVALAGAMELLA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">MADRID</SimpleData>
+		<SimpleData name="x">405106</SimpleData>
+		<SimpleData name="y">4472030</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1972</SimpleData>
+		<SimpleData name="date">1972/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.11812824344085,40.3934690777146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9500043</SimpleData>
+		<SimpleData name="Nombre">NI?O JESUS</SimpleData>
+		<SimpleData name="Nombre SEP">NIO JESUS</SimpleData>
+		<SimpleData name="Otro nombr">ANI?ON</SimpleData>
+		<SimpleData name="Fecha">09/05/1955</SimpleData>
+		<SimpleData name="Anyo">1955</SimpleData>
+		<SimpleData name="Rio">ARROYO DEL FRESNO O JESUS</SimpleData>
+		<SimpleData name="Municipio">ANI?ON</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">ZARAGOZA</SimpleData>
+		<SimpleData name="x">608478</SimpleData>
+		<SimpleData name="y">4595385</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1955</SimpleData>
+		<SimpleData name="date">1955/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.70024158229224,41.5027505253765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9250050</SimpleData>
+		<SimpleData name="Nombre">OLIANA</SimpleData>
+		<SimpleData name="Nombre SEP">OLIANA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1959</SimpleData>
+		<SimpleData name="Anyo">1959</SimpleData>
+		<SimpleData name="Rio">SEGRE</SimpleData>
+		<SimpleData name="Municipio">OLIANA Y PERAMOLA</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">LLEIDA</SimpleData>
+		<SimpleData name="x">855649</SimpleData>
+		<SimpleData name="y">4669176</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1959</SimpleData>
+		<SimpleData name="date">1959/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.29412185676745,42.0932359583104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8120003</SimpleData>
+		<SimpleData name="Nombre">ONDA</SimpleData>
+		<SimpleData name="Nombre SEP">ONDA</SimpleData>
+		<SimpleData name="Otro nombr">BENITANDUS</SimpleData>
+		<SimpleData name="Fecha">01/01/1954</SimpleData>
+		<SimpleData name="Anyo">1954</SimpleData>
+		<SimpleData name="Rio">SECO / VEO</SimpleData>
+		<SimpleData name="Municipio">ALCUDIA DE VEO</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">CASTELLON</SimpleData>
+		<SimpleData name="x">728310</SimpleData>
+		<SimpleData name="y">4424455</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1954</SimpleData>
+		<SimpleData name="date">1954/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.332381988138957,39.9355069920242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4060095</SimpleData>
+		<SimpleData name="Nombre">ORELLANA</SimpleData>
+		<SimpleData name="Nombre SEP">ORELLANA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1963</SimpleData>
+		<SimpleData name="Anyo">1963</SimpleData>
+		<SimpleData name="Rio">GUADIANA</SimpleData>
+		<SimpleData name="Municipio">ORELLANA LA VIEJA, CAMPANARIO</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">BADAJOZ</SimpleData>
+		<SimpleData name="x">280423</SimpleData>
+		<SimpleData name="y">4318386</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1963</SimpleData>
+		<SimpleData name="date">1963/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.53513288695429,38.9869523231723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3190028</SimpleData>
+		<SimpleData name="Nombre">PALMACES</SimpleData>
+		<SimpleData name="Nombre SEP">PALMACES</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1954</SimpleData>
+		<SimpleData name="Anyo">1954</SimpleData>
+		<SimpleData name="Rio">CA?AMARES</SimpleData>
+		<SimpleData name="Municipio">PALMACES DE JADRAQUE</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">GUADALAJARA</SimpleData>
+		<SimpleData name="x">505170</SimpleData>
+		<SimpleData name="y">4544655</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1954</SimpleData>
+		<SimpleData name="date">1954/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.93847727164583,41.0531133705181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">10170013</SimpleData>
+		<SimpleData name="Nombre">PASTERAL I (AZUD)</SimpleData>
+		<SimpleData name="Nombre SEP">PASTERAL, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1962</SimpleData>
+		<SimpleData name="Anyo">1962</SimpleData>
+		<SimpleData name="Rio">TER</SimpleData>
+		<SimpleData name="Municipio">OSOR</SimpleData>
+		<SimpleData name="Cuenca">CUENCAS INTERNAS DE CATALU?A</SimpleData>
+		<SimpleData name="Provincia">GERONA</SimpleData>
+		<SimpleData name="x">965397</SimpleData>
+		<SimpleData name="y">4663877</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1962</SimpleData>
+		<SimpleData name="date">1962/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.61174154012712,41.986908522906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4060004</SimpleData>
+		<SimpleData name="Nombre">PASTIZALES, LOS</SimpleData>
+		<SimpleData name="Nombre SEP">PASTIZALES, LOS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1964</SimpleData>
+		<SimpleData name="Anyo">1964</SimpleData>
+		<SimpleData name="Rio">VALDELARQUILLO (VALDESEQUILLOS)</SimpleData>
+		<SimpleData name="Municipio">HELECHOSA DE LOS MONTES</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">BADAJOZ</SimpleData>
+		<SimpleData name="x">352216</SimpleData>
+		<SimpleData name="y">4363403</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1964</SimpleData>
+		<SimpleData name="date">1964/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.71651424619442,39.4074869214778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5230018</SimpleData>
+		<SimpleData name="Nombre">PEDRO MARIN</SimpleData>
+		<SimpleData name="Nombre SEP">PEDRO MARIN</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1954</SimpleData>
+		<SimpleData name="Anyo">1954</SimpleData>
+		<SimpleData name="Rio">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Municipio">JODAR</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">JAEN</SimpleData>
+		<SimpleData name="x">463739</SimpleData>
+		<SimpleData name="y">4196379</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, Industrial</SimpleData>
+		<SimpleData name="time">1954</SimpleData>
+		<SimpleData name="date">1954/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.41239455913779,37.9087487080691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4130018</SimpleData>
+		<SimpleData name="Nombre">PE?ARROYA</SimpleData>
+		<SimpleData name="Nombre SEP">PEARROYA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1959</SimpleData>
+		<SimpleData name="Anyo">1959</SimpleData>
+		<SimpleData name="Rio">GUADIANA</SimpleData>
+		<SimpleData name="Municipio">ARGAMASILLA DE ALBA</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">CIUDAD REAL</SimpleData>
+		<SimpleData name="x">499519</SimpleData>
+		<SimpleData name="y">4323754</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1959</SimpleData>
+		<SimpleData name="date">1959/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00641057881721,39.0600734782616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3280055</SimpleData>
+		<SimpleData name="Nombre">PE?ASCALES, LOS</SimpleData>
+		<SimpleData name="Nombre SEP">PEASCALES, LOS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1962</SimpleData>
+		<SimpleData name="Anyo">1962</SimpleData>
+		<SimpleData name="Rio">ARROYO TROFAS</SimpleData>
+		<SimpleData name="Municipio">TORRELODONES</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">MADRID</SimpleData>
+		<SimpleData name="x">424055</SimpleData>
+		<SimpleData name="y">4492013</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1962</SimpleData>
+		<SimpleData name="date">1962/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.89921276346739,40.5733851264334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3280063</SimpleData>
+		<SimpleData name="Nombre">PICADAS</SimpleData>
+		<SimpleData name="Nombre SEP">PICADAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1952</SimpleData>
+		<SimpleData name="Anyo">1952</SimpleData>
+		<SimpleData name="Rio">ALBERCHE</SimpleData>
+		<SimpleData name="Municipio">SAN MARTIN DE VALDEIGLESIAS</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">MADRID</SimpleData>
+		<SimpleData name="x">393940</SimpleData>
+		<SimpleData name="y">4465690</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1952</SimpleData>
+		<SimpleData name="date">1952/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.24861395776387,40.3350172288661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4060031</SimpleData>
+		<SimpleData name="Nombre">PIEDRA AGUDA</SimpleData>
+		<SimpleData name="Nombre SEP">PIEDRA AGUDA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1956</SimpleData>
+		<SimpleData name="Anyo">1956</SimpleData>
+		<SimpleData name="Rio">OLIVENZA</SimpleData>
+		<SimpleData name="Municipio">OLIVENZA</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">BADAJOZ</SimpleData>
+		<SimpleData name="x">149904</SimpleData>
+		<SimpleData name="y">4289973</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1956</SimpleData>
+		<SimpleData name="date">1956/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.02212771694823,38.6866459409974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4210092</SimpleData>
+		<SimpleData name="Nombre">PIEDRAS</SimpleData>
+		<SimpleData name="Nombre SEP">PIEDRAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1968</SimpleData>
+		<SimpleData name="Anyo">1968</SimpleData>
+		<SimpleData name="Rio">PIEDRAS</SimpleData>
+		<SimpleData name="Municipio">CARTAYA, LEPE</SimpleData>
+		<SimpleData name="Cuenca">TINTO, ODIEL Y PIEDRAS</SimpleData>
+		<SimpleData name="Provincia">HUELVA</SimpleData>
+		<SimpleData name="x">122023</SimpleData>
+		<SimpleData name="y">4144432</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1968</SimpleData>
+		<SimpleData name="date">1968/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.26778079933721,37.3696378346261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5410106</SimpleData>
+		<SimpleData name="Nombre">PINTADO, EL</SimpleData>
+		<SimpleData name="Nombre SEP">PINTADO, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1948</SimpleData>
+		<SimpleData name="Anyo">1948</SimpleData>
+		<SimpleData name="Rio">VIAR</SimpleData>
+		<SimpleData name="Municipio">CAZALLA SIERRA,GUADALCANAL,REAL DE JARA,REINA FTE ARCO</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">SEVILLA</SimpleData>
+		<SimpleData name="x">240667</SimpleData>
+		<SimpleData name="y">4208399</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1948</SimpleData>
+		<SimpleData name="date">1948/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95289551926576,37.9862003001081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5140004</SimpleData>
+		<SimpleData name="Nombre">PUENTE NUEVO</SimpleData>
+		<SimpleData name="Nombre SEP">PUENTE NUEVO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1972</SimpleData>
+		<SimpleData name="Anyo">1972</SimpleData>
+		<SimpleData name="Rio">GUADIATO</SimpleData>
+		<SimpleData name="Municipio">VILLAVICIOSA DE CORDOBA</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">CORDOBA</SimpleData>
+		<SimpleData name="x">331056</SimpleData>
+		<SimpleData name="y">4217469</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1972</SimpleData>
+		<SimpleData name="date">1972/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.92542311820144,38.086333381963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8120004</SimpleData>
+		<SimpleData name="Nombre">REGAJO, EL</SimpleData>
+		<SimpleData name="Nombre SEP">REGAJO, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/10/1959</SimpleData>
+		<SimpleData name="Anyo">1959</SimpleData>
+		<SimpleData name="Rio">PALANCIA</SimpleData>
+		<SimpleData name="Municipio">JERICA</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">CASTELLON</SimpleData>
+		<SimpleData name="x">711756</SimpleData>
+		<SimpleData name="y">4418669</SimpleData>
+		<SimpleData name="Tipos">Riego, Regulaci?n, ---</SimpleData>
+		<SimpleData name="time">1959</SimpleData>
+		<SimpleData name="date">1959/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.524371838946281,39.8902260405064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2340005</SimpleData>
+		<SimpleData name="Nombre">REQUEJADA</SimpleData>
+		<SimpleData name="Nombre SEP">REQUEJADA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/08/1935</SimpleData>
+		<SimpleData name="Anyo">1935</SimpleData>
+		<SimpleData name="Rio">PISUERGA</SimpleData>
+		<SimpleData name="Municipio">ARBEJAL</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">PALENCIA</SimpleData>
+		<SimpleData name="x">375507</SimpleData>
+		<SimpleData name="y">4751818</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, Defensa frente a avenidas</SimpleData>
+		<SimpleData name="time">1935</SimpleData>
+		<SimpleData name="date">1935/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.5290798421567,42.906501474629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5140048</SimpleData>
+		<SimpleData name="Nombre">RETORTILLO</SimpleData>
+		<SimpleData name="Nombre SEP">RETORTILLO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1970</SimpleData>
+		<SimpleData name="Anyo">1970</SimpleData>
+		<SimpleData name="Rio">RETORTILLO</SimpleData>
+		<SimpleData name="Municipio">HORNACHUELOS, PUEBLA DE INFANTES</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">CORDOBA</SimpleData>
+		<SimpleData name="x">293165</SimpleData>
+		<SimpleData name="y">4191105</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1970</SimpleData>
+		<SimpleData name="date">1970/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.3506859751422,37.8439491051802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3280015</SimpleData>
+		<SimpleData name="Nombre">REY, DEL</SimpleData>
+		<SimpleData name="Nombre SEP">REY, DEL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1971</SimpleData>
+		<SimpleData name="Anyo">1971</SimpleData>
+		<SimpleData name="Rio">JARAMA</SimpleData>
+		<SimpleData name="Municipio">RIVAS-VACIAMADRID</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">MADRID</SimpleData>
+		<SimpleData name="x">453964</SimpleData>
+		<SimpleData name="y">4461241</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1971</SimpleData>
+		<SimpleData name="date">1971/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.54169766672563,40.3004062481493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9430003</SimpleData>
+		<SimpleData name="Nombre">RIBARROJA</SimpleData>
+		<SimpleData name="Nombre SEP">RIBARROJA</SimpleData>
+		<SimpleData name="Otro nombr">RIBA ROJA</SimpleData>
+		<SimpleData name="Fecha">31/12/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">EBRO</SimpleData>
+		<SimpleData name="Municipio">RIBA-ROJA D??EBRE</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">TARRAGONA</SimpleData>
+		<SimpleData name="x">788146</SimpleData>
+		<SimpleData name="y">4571794</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.432402255743064,41.2442604579741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">1270013</SimpleData>
+		<SimpleData name="Nombre">RIBASALTAS (AZUD)</SimpleData>
+		<SimpleData name="Nombre SEP">RIBASALTAS (AZUD)</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">CABE</SimpleData>
+		<SimpleData name="Municipio">MONFORTE DE LEMOS</SimpleData>
+		<SimpleData name="Cuenca">MI?O-SIL</SimpleData>
+		<SimpleData name="Provincia">LUGO</SimpleData>
+		<SimpleData name="x">132034</SimpleData>
+		<SimpleData name="y">4721564</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.48212333717375,42.5587731328879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3450011</SimpleData>
+		<SimpleData name="Nombre">ROSARITO</SimpleData>
+		<SimpleData name="Nombre SEP">ROSARITO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1958</SimpleData>
+		<SimpleData name="Anyo">1958</SimpleData>
+		<SimpleData name="Rio">TIETAR</SimpleData>
+		<SimpleData name="Municipio">OROPESA, CANDELEDA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">TOLEDO</SimpleData>
+		<SimpleData name="x">302082</SimpleData>
+		<SimpleData name="y">4442874</SimpleData>
+		<SimpleData name="Tipos">Riego, Hidroel?ctrico, ---</SimpleData>
+		<SimpleData name="time">1958</SimpleData>
+		<SimpleData name="date">1958/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.32331656940288,40.1097855090024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5230022</SimpleData>
+		<SimpleData name="Nombre">RUMBLAR</SimpleData>
+		<SimpleData name="Nombre SEP">RUMBLAR</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1941</SimpleData>
+		<SimpleData name="Anyo">1941</SimpleData>
+		<SimpleData name="Rio">RUMBLAR</SimpleData>
+		<SimpleData name="Municipio">BA?OS DE LA ENCINA</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">JAEN</SimpleData>
+		<SimpleData name="x">429670</SimpleData>
+		<SimpleData name="y">4224281</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1941</SimpleData>
+		<SimpleData name="date">1941/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.80511813335651,38.1609402007957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100074</SimpleData>
+		<SimpleData name="Nombre">SALOR</SimpleData>
+		<SimpleData name="Nombre SEP">SALOR</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1964</SimpleData>
+		<SimpleData name="Anyo">1964</SimpleData>
+		<SimpleData name="Rio">SALOR</SimpleData>
+		<SimpleData name="Municipio">CACERES</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">214873</SimpleData>
+		<SimpleData name="y">4362570</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1964</SimpleData>
+		<SimpleData name="date">1964/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.3042529479638,39.3638232792893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2470004</SimpleData>
+		<SimpleData name="Nombre">SAN JOSE</SimpleData>
+		<SimpleData name="Nombre SEP">SAN JOSE</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">17/11/1945</SimpleData>
+		<SimpleData name="Anyo">1945</SimpleData>
+		<SimpleData name="Rio">DUERO</SimpleData>
+		<SimpleData name="Municipio">CASTRONU?O</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">VALLADOLID</SimpleData>
+		<SimpleData name="x">310093</SimpleData>
+		<SimpleData name="y">4586292</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1945</SimpleData>
+		<SimpleData name="date">1945/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.27292902194924,41.4033487823792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3280027</SimpleData>
+		<SimpleData name="Nombre">SAN JUAN (DIQUE DEL COLLADO)</SimpleData>
+		<SimpleData name="Nombre SEP">SAN JUAN</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1955</SimpleData>
+		<SimpleData name="Anyo">1955</SimpleData>
+		<SimpleData name="Rio">ALBERCHE</SimpleData>
+		<SimpleData name="Municipio">SAN MARTIN DE VALDEIGLESIAS</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">MADRID</SimpleData>
+		<SimpleData name="x">388451</SimpleData>
+		<SimpleData name="y">4469946</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1955</SimpleData>
+		<SimpleData name="date">1955/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.31396264185899,40.3726349880325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">10250001</SimpleData>
+		<SimpleData name="Nombre">SANT PONC (SAN PONS)</SimpleData>
+		<SimpleData name="Nombre SEP">SAN PONS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">19/12/1957</SimpleData>
+		<SimpleData name="Anyo">1957</SimpleData>
+		<SimpleData name="Rio">EL CARDENER</SimpleData>
+		<SimpleData name="Municipio">CLARIANA DE CARDENER</SimpleData>
+		<SimpleData name="Cuenca">CUENCAS INTERNAS DE CATALU?A</SimpleData>
+		<SimpleData name="Provincia">LLEIDA</SimpleData>
+		<SimpleData name="x">882025</SimpleData>
+		<SimpleData name="y">4656011</SimpleData>
+		<SimpleData name="Tipos">Riego, Abastecimiento, Hidroel?ctrico</SimpleData>
+		<SimpleData name="time">1957</SimpleData>
+		<SimpleData name="date">1957/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.60492870192885,41.9632479652182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9220076</SimpleData>
+		<SimpleData name="Nombre">SANTA ANA</SimpleData>
+		<SimpleData name="Nombre SEP">SANTA ANA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1961</SimpleData>
+		<SimpleData name="Anyo">1961</SimpleData>
+		<SimpleData name="Rio">NOGUERA RIBAGORZANA</SimpleData>
+		<SimpleData name="Municipio">CASTILLONROY</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">HUESCA</SimpleData>
+		<SimpleData name="x">797530</SimpleData>
+		<SimpleData name="y">4643159</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1961</SimpleData>
+		<SimpleData name="date">1961/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.58585068877188,41.8843760749616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2370010</SimpleData>
+		<SimpleData name="Nombre">SANTA TERESA</SimpleData>
+		<SimpleData name="Nombre SEP">SANTA TERESA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">28/02/1961</SimpleData>
+		<SimpleData name="Anyo">1961</SimpleData>
+		<SimpleData name="Rio">TORMES</SimpleData>
+		<SimpleData name="Municipio">MONTEJO DE SALVATIERRA Y PELAYOS</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">SALAMANCA</SimpleData>
+		<SimpleData name="x">280203</SimpleData>
+		<SimpleData name="y">4505246</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, Abastecimiento</SimpleData>
+		<SimpleData name="time">1961</SimpleData>
+		<SimpleData name="date">1961/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.60147881822176,40.6665302082828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">7300019</SimpleData>
+		<SimpleData name="Nombre">SANTOMERA (DIQUE DEL COLLADO)</SimpleData>
+		<SimpleData name="Nombre SEP">SANTOMERA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1965</SimpleData>
+		<SimpleData name="Anyo">1965</SimpleData>
+		<SimpleData name="Rio">SALADA</SimpleData>
+		<SimpleData name="Municipio">SANTOMERA</SimpleData>
+		<SimpleData name="Cuenca">SEGURA</SimpleData>
+		<SimpleData name="Provincia">MURCIA</SimpleData>
+		<SimpleData name="x">667635</SimpleData>
+		<SimpleData name="y">4218190</SimpleData>
+		<SimpleData name="Tipos">Defensa frente a avenidas, Riego, ---</SimpleData>
+		<SimpleData name="time">1965</SimpleData>
+		<SimpleData name="date">1965/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.08922332330582,38.0944168120288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">10080007</SimpleData>
+		<SimpleData name="Nombre">SAU</SimpleData>
+		<SimpleData name="Nombre SEP">SAU</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1964</SimpleData>
+		<SimpleData name="Anyo">1964</SimpleData>
+		<SimpleData name="Rio">TER</SimpleData>
+		<SimpleData name="Municipio">VILANOVA DE SAU</SimpleData>
+		<SimpleData name="Cuenca">CUENCAS INTERNAS DE CATALU?A</SimpleData>
+		<SimpleData name="Provincia">BARCELONA</SimpleData>
+		<SimpleData name="x">948914</SimpleData>
+		<SimpleData name="y">4660480</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1964</SimpleData>
+		<SimpleData name="date">1964/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.41285376360827,41.9680347421453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2240018</SimpleData>
+		<SimpleData name="Nombre">SELGA DE ORDAS</SimpleData>
+		<SimpleData name="Nombre SEP">SELGA DE ORDAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1961</SimpleData>
+		<SimpleData name="Anyo">1961</SimpleData>
+		<SimpleData name="Rio">LUNA</SimpleData>
+		<SimpleData name="Municipio">RIOSECO DE TAPIA, STA. MARIA ORDAS</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">LEON</SimpleData>
+		<SimpleData name="x">271923</SimpleData>
+		<SimpleData name="y">4737491</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1961</SimpleData>
+		<SimpleData name="date">1961/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.787157982272,42.7546237035802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8120002</SimpleData>
+		<SimpleData name="Nombre">SICHAR</SimpleData>
+		<SimpleData name="Nombre SEP">SICHAR</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">30/04/1960</SimpleData>
+		<SimpleData name="Anyo">1960</SimpleData>
+		<SimpleData name="Rio">MIJARES</SimpleData>
+		<SimpleData name="Municipio">ONDA</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">CASTELLON</SimpleData>
+		<SimpleData name="x">736439</SimpleData>
+		<SimpleData name="y">4432744</SimpleData>
+		<SimpleData name="Tipos">Regulaci?n, Riego, ---</SimpleData>
+		<SimpleData name="time">1960</SimpleData>
+		<SimpleData name="date">1960/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.229798337282889,40.0118051592118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100056</SimpleData>
+		<SimpleData name="Nombre">SOLANA, LA</SimpleData>
+		<SimpleData name="Nombre SEP">SOLANA, LA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1955</SimpleData>
+		<SimpleData name="Anyo">1955</SimpleData>
+		<SimpleData name="Rio">ARROYO CABRIOSO</SimpleData>
+		<SimpleData name="Municipio">HERRERA DE ALCANTARA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">121529</SimpleData>
+		<SimpleData name="y">4390838</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1955</SimpleData>
+		<SimpleData name="date">1955/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.40271359732281,39.5825048824551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9220034</SimpleData>
+		<SimpleData name="Nombre">SOTONERA, LA (DIQUE DEL COLLADO 1) (ASTON Y VACAS)</SimpleData>
+		<SimpleData name="Nombre SEP">SOTONERA, LA (DIQUE DEL COLLADO 1)</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1963</SimpleData>
+		<SimpleData name="Anyo">1963</SimpleData>
+		<SimpleData name="Rio">ASTON-VACAS</SimpleData>
+		<SimpleData name="Municipio">ALCALA DE GURREA</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">HUESCA</SimpleData>
+		<SimpleData name="x">692200</SimpleData>
+		<SimpleData name="y">4664000</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1963</SimpleData>
+		<SimpleData name="date">1963/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.675494101176755,42.104556770731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">10170012</SimpleData>
+		<SimpleData name="Nombre">SUSQUEDA</SimpleData>
+		<SimpleData name="Nombre SEP">SUSQUEDA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1967</SimpleData>
+		<SimpleData name="Anyo">1967</SimpleData>
+		<SimpleData name="Rio">TER</SimpleData>
+		<SimpleData name="Municipio">OSOR</SimpleData>
+		<SimpleData name="Cuenca">CUENCAS INTERNAS DE CATALU?A</SimpleData>
+		<SimpleData name="Provincia">GERONA</SimpleData>
+		<SimpleData name="x">958440</SimpleData>
+		<SimpleData name="y">4663004</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1967</SimpleData>
+		<SimpleData name="date">1967/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.52562975472371,41.9781745436696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9500034</SimpleData>
+		<SimpleData name="Nombre">TORCAS, LAS</SimpleData>
+		<SimpleData name="Nombre SEP">TORCAS, LAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1946</SimpleData>
+		<SimpleData name="Anyo">1946</SimpleData>
+		<SimpleData name="Rio">HUERVA</SimpleData>
+		<SimpleData name="Municipio">TOSOS</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">ZARAGOZA</SimpleData>
+		<SimpleData name="x">660235</SimpleData>
+		<SimpleData name="y">4573209</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1946</SimpleData>
+		<SimpleData name="date">1946/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.08624818567898,41.2944321503336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5410139</SimpleData>
+		<SimpleData name="Nombre">TORRE DEL AGUILA</SimpleData>
+		<SimpleData name="Nombre SEP">TORRE DEL AGUILA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1947</SimpleData>
+		<SimpleData name="Anyo">1947</SimpleData>
+		<SimpleData name="Rio">SALADO DE MORON</SimpleData>
+		<SimpleData name="Municipio">UTRERA</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">SEVILLA</SimpleData>
+		<SimpleData name="x">254750</SimpleData>
+		<SimpleData name="y">4103343</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1947</SimpleData>
+		<SimpleData name="date">1947/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.75796704655238,37.0422998535356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2400007</SimpleData>
+		<SimpleData name="Nombre">TORRELARA</SimpleData>
+		<SimpleData name="Nombre SEP">TORRELARA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1971</SimpleData>
+		<SimpleData name="Anyo">1971</SimpleData>
+		<SimpleData name="Rio">MAGDALENA</SimpleData>
+		<SimpleData name="Municipio">MU?OPEDRO</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">SEGOVIA</SimpleData>
+		<SimpleData name="x">371042</SimpleData>
+		<SimpleData name="y">4526981</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1971</SimpleData>
+		<SimpleData name="date">1971/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.52546494892538,40.8816457018566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100128</SimpleData>
+		<SimpleData name="Nombre">TOZO</SimpleData>
+		<SimpleData name="Nombre SEP">TOZO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1962</SimpleData>
+		<SimpleData name="Anyo">1962</SimpleData>
+		<SimpleData name="Rio">TOZO</SimpleData>
+		<SimpleData name="Municipio">TORRECILLAS DE LA TIESA</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">258781</SimpleData>
+		<SimpleData name="y">4384708</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1962</SimpleData>
+		<SimpleData name="date">1962/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.80849153882129,39.578167482739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5230005</SimpleData>
+		<SimpleData name="Nombre">TRANCO DE BEAS</SimpleData>
+		<SimpleData name="Nombre SEP">TRANCO DE BEAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1944</SimpleData>
+		<SimpleData name="Anyo">1944</SimpleData>
+		<SimpleData name="Rio">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Municipio">VILLANUEVA DEL ARZOBISPO</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">JAEN</SimpleData>
+		<SimpleData name="x">518004</SimpleData>
+		<SimpleData name="y">4225445</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1944</SimpleData>
+		<SimpleData name="date">1944/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7960851635346,38.1729610135617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9500008</SimpleData>
+		<SimpleData name="Nombre">TRANQUERA, LA</SimpleData>
+		<SimpleData name="Nombre SEP">TRANQUERA, LA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1959</SimpleData>
+		<SimpleData name="Anyo">1959</SimpleData>
+		<SimpleData name="Rio">PIEDRA</SimpleData>
+		<SimpleData name="Municipio">CARENAS</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">ZARAGOZA</SimpleData>
+		<SimpleData name="x">600522</SimpleData>
+		<SimpleData name="y">4568949</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1959</SimpleData>
+		<SimpleData name="date">1959/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.79993335937915,41.2657149147141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8120011</SimpleData>
+		<SimpleData name="Nombre">ULLDECONA</SimpleData>
+		<SimpleData name="Nombre SEP">ULLDECONA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1967</SimpleData>
+		<SimpleData name="Anyo">1967</SimpleData>
+		<SimpleData name="Rio">CENIA</SimpleData>
+		<SimpleData name="Municipio">PUEBLA DE BENIFASAR, LA</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">CASTELLON</SimpleData>
+		<SimpleData name="x">773861</SimpleData>
+		<SimpleData name="y">4507456</SimpleData>
+		<SimpleData name="Tipos">Riego, Abastecimiento, ---</SimpleData>
+		<SimpleData name="time">1967</SimpleData>
+		<SimpleData name="date">1967/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.233696820899937,40.6712050557062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9010013</SimpleData>
+		<SimpleData name="Nombre">ULLIVARRI (ULLIBARRI GAMBOA)</SimpleData>
+		<SimpleData name="Nombre SEP">ULLIVARRI</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1956</SimpleData>
+		<SimpleData name="Anyo">1956</SimpleData>
+		<SimpleData name="Rio">ZADORRA</SimpleData>
+		<SimpleData name="Municipio">ARRAZUA-UBARRUNDIA</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">ALAVA</SimpleData>
+		<SimpleData name="x">531411</SimpleData>
+		<SimpleData name="y">4753261</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1956</SimpleData>
+		<SimpleData name="date">1956/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.61668456298271,42.9297480815572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9220071</SimpleData>
+		<SimpleData name="Nombre">VADIELLO</SimpleData>
+		<SimpleData name="Nombre SEP">VADIELLO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1971</SimpleData>
+		<SimpleData name="Anyo">1971</SimpleData>
+		<SimpleData name="Rio">GUATIZALEMA</SimpleData>
+		<SimpleData name="Municipio">LOPORZANO</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">HUESCA</SimpleData>
+		<SimpleData name="x">724600</SimpleData>
+		<SimpleData name="y">4680350</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1971</SimpleData>
+		<SimpleData name="date">1971/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.278274787832226,42.2414555528331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">8440008</SimpleData>
+		<SimpleData name="Nombre">VALBONA</SimpleData>
+		<SimpleData name="Nombre SEP">VALBONA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">23/04/1959</SimpleData>
+		<SimpleData name="Anyo">1959</SimpleData>
+		<SimpleData name="Rio">RAMBLA DE FUENTE DE MORA</SimpleData>
+		<SimpleData name="Municipio">VALBONA</SimpleData>
+		<SimpleData name="Cuenca">JUCAR</SimpleData>
+		<SimpleData name="Provincia">TERUEL</SimpleData>
+		<SimpleData name="x">685729</SimpleData>
+		<SimpleData name="y">4458355</SimpleData>
+		<SimpleData name="Tipos">Riego, Regulaci?n, ---</SimpleData>
+		<SimpleData name="time">1959</SimpleData>
+		<SimpleData name="date">1959/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.816101272504915,40.2550608954406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3450003</SimpleData>
+		<SimpleData name="Nombre">VALDECABRAS (ARROYO)</SimpleData>
+		<SimpleData name="Nombre SEP">VALDECABRAS (ARROYO)</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1965</SimpleData>
+		<SimpleData name="Anyo">1965</SimpleData>
+		<SimpleData name="Rio">VALDECABRAS</SimpleData>
+		<SimpleData name="Municipio">ORGAZ</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">TOLEDO</SimpleData>
+		<SimpleData name="x">420490</SimpleData>
+		<SimpleData name="y">4393145</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1965</SimpleData>
+		<SimpleData name="date">1965/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.92678841596702,39.6798151786447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100007</SimpleData>
+		<SimpleData name="Nombre">VALDECA?AS</SimpleData>
+		<SimpleData name="Nombre SEP">VALDECAAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1964</SimpleData>
+		<SimpleData name="Anyo">1964</SimpleData>
+		<SimpleData name="Rio">TAJO</SimpleData>
+		<SimpleData name="Municipio">BELVIS DE MONROY Y VALDECA?AS DE TAJO</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">276345</SimpleData>
+		<SimpleData name="y">4406515</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1964</SimpleData>
+		<SimpleData name="date">1964/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.61151935588016,39.7780581142576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100021</SimpleData>
+		<SimpleData name="Nombre">VALDEOBISPO</SimpleData>
+		<SimpleData name="Nombre SEP">VALDEOBISPO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1965</SimpleData>
+		<SimpleData name="Anyo">1965</SimpleData>
+		<SimpleData name="Rio">ALAGON</SimpleData>
+		<SimpleData name="Municipio">VALDEOBISPO, MONTEHERMOSO</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">222665</SimpleData>
+		<SimpleData name="y">4444086</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1965</SimpleData>
+		<SimpleData name="date">1965/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.25047546503749,40.0999720801875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2240032</SimpleData>
+		<SimpleData name="Nombre">VALDESPINA</SimpleData>
+		<SimpleData name="Nombre SEP">VALDESPINA</SimpleData>
+		<SimpleData name="Otro nombr">EMBALSE DE BARRIO</SimpleData>
+		<SimpleData name="Fecha">01/01/1940</SimpleData>
+		<SimpleData name="Anyo">1940</SimpleData>
+		<SimpleData name="Rio">ARROYO VALDESPINA</SimpleData>
+		<SimpleData name="Municipio">SANTA COLOMBA DE CURUE?O</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">LEON</SimpleData>
+		<SimpleData name="x">302950</SimpleData>
+		<SimpleData name="y">4731030</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1940</SimpleData>
+		<SimpleData name="date">1940/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.40606531377524,42.7064999169038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4060067</SimpleData>
+		<SimpleData name="Nombre">VALUENGO</SimpleData>
+		<SimpleData name="Nombre SEP">VALUENGO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1959</SimpleData>
+		<SimpleData name="Anyo">1959</SimpleData>
+		<SimpleData name="Rio">ARDILA</SimpleData>
+		<SimpleData name="Municipio">JEREZ DE LOS CABALLEROS</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">BADAJOZ</SimpleData>
+		<SimpleData name="x">178405</SimpleData>
+		<SimpleData name="y">4245838</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1959</SimpleData>
+		<SimpleData name="date">1959/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.67589320855244,38.3021128855073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2400023</SimpleData>
+		<SimpleData name="Nombre">VENCIAS, LAS</SimpleData>
+		<SimpleData name="Nombre SEP">VENCIAS, LAS</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1962</SimpleData>
+		<SimpleData name="Anyo">1962</SimpleData>
+		<SimpleData name="Rio">DURAT??N</SimpleData>
+		<SimpleData name="Municipio">FUENTIDUE?A</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">SEGOVIA</SimpleData>
+		<SimpleData name="x">419459</SimpleData>
+		<SimpleData name="y">4586898</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Regulaci?n, Riego</SimpleData>
+		<SimpleData name="time">1962</SimpleData>
+		<SimpleData name="date">1962/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.96394433158904,41.429610334952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4130068</SimpleData>
+		<SimpleData name="Nombre">VICARIO, EL</SimpleData>
+		<SimpleData name="Nombre SEP">VICARIO, EL</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1973</SimpleData>
+		<SimpleData name="Anyo">1973</SimpleData>
+		<SimpleData name="Rio">GUADIANA</SimpleData>
+		<SimpleData name="Municipio">CIUDAD REAL</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">CIUDAD REAL</SimpleData>
+		<SimpleData name="x">413850</SimpleData>
+		<SimpleData name="y">4324000</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1973</SimpleData>
+		<SimpleData name="date">1973/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.99574133226615,39.060841342144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">3100052</SimpleData>
+		<SimpleData name="Nombre">VID III, LA</SimpleData>
+		<SimpleData name="Nombre SEP">VID III, LA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1959</SimpleData>
+		<SimpleData name="Anyo">1959</SimpleData>
+		<SimpleData name="Rio">VID</SimpleData>
+		<SimpleData name="Municipio">TORREJON EL RUBIO</SimpleData>
+		<SimpleData name="Cuenca">TAJO</SimpleData>
+		<SimpleData name="Provincia">CACERES</SimpleData>
+		<SimpleData name="x">247090</SimpleData>
+		<SimpleData name="y">4406926</SimpleData>
+		<SimpleData name="Tipos">Riego, ---, ---</SimpleData>
+		<SimpleData name="time">1959</SimpleData>
+		<SimpleData name="date">1959/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95208623924533,39.7751913109068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">1270004</SimpleData>
+		<SimpleData name="Nombre">VILASOUTO</SimpleData>
+		<SimpleData name="Nombre SEP">VILASOUTO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1969</SimpleData>
+		<SimpleData name="Anyo">1969</SimpleData>
+		<SimpleData name="Rio">MAO</SimpleData>
+		<SimpleData name="Municipio">INCIO, O</SimpleData>
+		<SimpleData name="Cuenca">MI?O-SIL</SimpleData>
+		<SimpleData name="Provincia">LUGO</SimpleData>
+		<SimpleData name="x">137205</SimpleData>
+		<SimpleData name="y">4732933</SimpleData>
+		<SimpleData name="Tipos">Riego, Abastecimiento, ---</SimpleData>
+		<SimpleData name="time">1969</SimpleData>
+		<SimpleData name="date">1969/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.42075396430107,42.6617426257513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5140050</SimpleData>
+		<SimpleData name="Nombre">VILLAFRANCA</SimpleData>
+		<SimpleData name="Nombre SEP">VILLAFRANCA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1948</SimpleData>
+		<SimpleData name="Anyo">1948</SimpleData>
+		<SimpleData name="Rio">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Municipio">VILLAFRANCA DE CORDOBA</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">CORDOBA</SimpleData>
+		<SimpleData name="x">359660</SimpleData>
+		<SimpleData name="y">4202300</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, ---</SimpleData>
+		<SimpleData name="time">1948</SimpleData>
+		<SimpleData name="date">1948/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.62557733082767,37.9559135626788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2370033</SimpleData>
+		<SimpleData name="Nombre">VILLAGONZALO (AZUD)</SimpleData>
+		<SimpleData name="Nombre SEP">VILLAGONZALO</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">14/02/1960</SimpleData>
+		<SimpleData name="Anyo">1960</SimpleData>
+		<SimpleData name="Rio">TORMES</SimpleData>
+		<SimpleData name="Municipio">VILLAGONZALO DE TORMES Y GARIHERNANDEZ</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">SALAMANCA</SimpleData>
+		<SimpleData name="x">289812</SimpleData>
+		<SimpleData name="y">4527892</SimpleData>
+		<SimpleData name="Tipos">Riego, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1960</SimpleData>
+		<SimpleData name="date">1960/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.49589734938719,40.8728403315594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">2240006</SimpleData>
+		<SimpleData name="Nombre">VILLAMECA</SimpleData>
+		<SimpleData name="Nombre SEP">VILLAMECA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1947</SimpleData>
+		<SimpleData name="Anyo">1947</SimpleData>
+		<SimpleData name="Rio">TUERTO-VALLE (TUERTO)</SimpleData>
+		<SimpleData name="Municipio">QUINTANA DEL CASTILLO</SimpleData>
+		<SimpleData name="Cuenca">DUERO</SimpleData>
+		<SimpleData name="Provincia">LEON</SimpleData>
+		<SimpleData name="x">247863</SimpleData>
+		<SimpleData name="y">4726637</SimpleData>
+		<SimpleData name="Tipos">Hidroel?ctrico, Riego, Abastecimiento</SimpleData>
+		<SimpleData name="time">1947</SimpleData>
+		<SimpleData name="date">1947/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.06798870089081,42.647765039059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">9310007</SimpleData>
+		<SimpleData name="Nombre">YESA</SimpleData>
+		<SimpleData name="Nombre SEP">YESA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1959</SimpleData>
+		<SimpleData name="Anyo">1959</SimpleData>
+		<SimpleData name="Rio">ARAGON</SimpleData>
+		<SimpleData name="Municipio">YESA</SimpleData>
+		<SimpleData name="Cuenca">EBRO</SimpleData>
+		<SimpleData name="Provincia">NAVARRA</SimpleData>
+		<SimpleData name="x">648990</SimpleData>
+		<SimpleData name="y">4719190</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Riego, ---</SimpleData>
+		<SimpleData name="time">1959</SimpleData>
+		<SimpleData name="date">1959/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.18246987006024,42.6150428485976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">5230007</SimpleData>
+		<SimpleData name="Nombre">ZOCUECA (AZUD)</SimpleData>
+		<SimpleData name="Nombre SEP">ZOCUECA</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">31/12/1940</SimpleData>
+		<SimpleData name="Anyo">1940</SimpleData>
+		<SimpleData name="Rio">RUMBLAR</SimpleData>
+		<SimpleData name="Municipio">GUARROM?N</SimpleData>
+		<SimpleData name="Cuenca">GUADALQUIVIR</SimpleData>
+		<SimpleData name="Provincia">JAEN</SimpleData>
+		<SimpleData name="x">427175</SimpleData>
+		<SimpleData name="y">4217080</SimpleData>
+		<SimpleData name="Tipos">Riego, Abastecimiento, ---</SimpleData>
+		<SimpleData name="time">1940</SimpleData>
+		<SimpleData name="date">1940/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.83090937493918,38.0957835087897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#embalsesV1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="codpresa">4060070</SimpleData>
+		<SimpleData name="Nombre">ZUJAR (DIQUE DEL COLLADO)</SimpleData>
+		<SimpleData name="Nombre SEP">ZUJAR</SimpleData>
+		<SimpleData name="Otro nombr">---</SimpleData>
+		<SimpleData name="Fecha">01/01/1964</SimpleData>
+		<SimpleData name="Anyo">1964</SimpleData>
+		<SimpleData name="Rio">ZUJAR</SimpleData>
+		<SimpleData name="Municipio">CASTUERA, ESPARRAGOSA DE LARES</SimpleData>
+		<SimpleData name="Cuenca">GUADIANA</SimpleData>
+		<SimpleData name="Provincia">BADAJOZ</SimpleData>
+		<SimpleData name="x">285155</SimpleData>
+		<SimpleData name="y">4310665</SimpleData>
+		<SimpleData name="Tipos">Abastecimiento, Hidroel?ctrico, Riego</SimpleData>
+		<SimpleData name="time">1964</SimpleData>
+		<SimpleData name="date">1964/01/01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.47812428963917,38.9186142676144</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
