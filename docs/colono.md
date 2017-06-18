@@ -15,8 +15,8 @@ Los requisitos indispensables vinculados directamente con la situación personal
 
 
 > 1. Ser mayor de 23 años, licenciado del ejército o exento del servicio militar.
-> 2. Acreditar una préctica agrícola reciente de 2 años al menos.</li>
-> 3. Acreditar unas dotes de moralidad y conducta aceptables</li>
+> 2. Acreditar una préctica agrícola reciente de 2 años al menos.
+> 3. Acreditar unas dotes de moralidad y conducta aceptables.
 
 Además se priorizarían los que a su vez los que:
 
