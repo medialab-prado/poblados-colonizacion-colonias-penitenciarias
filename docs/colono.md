@@ -13,19 +13,19 @@ title: El buen colono
 
 Los requisitos indispensables vinculados directamente con la situación personal del candidato se repetían, y aunque con algunas variaciones, mantenían unos criterios muy similares:
 
-> <ol>
-<li>Ser mayor de 23 años, licenciado del ejército o exento del servicio militar.</li>
-<li>Acreditar una préctica agrícola reciente de 2 años al menos.</li>
-<li>Acreditar unas dotes de moralidad y conducta aceptables</li>
-</ol>
+
+> 1. Ser mayor de 23 años, licenciado del ejército o exento del servicio militar.
+> 2. Acreditar una préctica agrícola reciente de 2 años al menos.</li>
+> 3. Acreditar unas dotes de moralidad y conducta aceptables</li>
+
 Además se priorizarían los que a su vez los que:
-<ol>
-<li>Poseyeran conocimientos de regadío.</li>
-<li>Estuvieran casados o fueran viudos con hijos.</li>
-<li>Tuvieran el mayor número de hijos.</li>
-<li>Supieran leer y escribir. Los analfabetos que resulten admitidos están obligados a aprender a leer y escribir en un plazo de tres años  pudiendo ser expulsado por la Dirección General de Colonización si no cumpliera con el compromiso.</li>
-<li>Tuvieran menos de cincuenta años.</li>
-</ol>
+
+> 1. Poseyeran conocimientos de regadío.
+> 2. Estuvieran casados o fueran viudos con hijos.
+> 3. Tuvieran el mayor número de hijos.
+> 4. Supieran leer y escribir. Los analfabetos que resulten admitidos están obligados a aprender a leer y escribir en un plazo de tres años  pudiendo ser expulsado por la Dirección General de Colonización si no cumpliera con el compromiso.
+> 5. Tuvieran menos de cincuenta años.
+
 Las condiciones serán modificadas a partir de 1958, o al menos así sucede para la Delegación de Talavera de la Reina, donde serán las [unidades familiares del trabajo](https://medialab-prado.github.io/poblados-colonizacion-colonias-penitenciarias/mujeres.html) las que definan con más precisión el acceso.
 
 No podemos dejar de señalar el rol que la iglesia católica tiene tanto en el proceso de selección como en el acompañamiento doctrinal en estos nuevos espacios construidos.  Las referencias son numerosas, pero destacaremos el artículo aparecido en el principal medio propagandístico con el que el INC contaba, la revista Colonización y que encaja con el modelo paternalista que el Estado promueve.
