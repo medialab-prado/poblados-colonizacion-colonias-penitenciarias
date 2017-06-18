@@ -8,27 +8,46 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin=""/>
-		<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin=""/>
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
-    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js" integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg==" crossorigin=""></script>
-    <script src="js/leaflet.ajax.min.js"></script>
-    <script src="js/jquery-3.2.1.min.js"></script>
-		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js" integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg==" crossorigin=""></script>
+	<script src="js/leaflet.ajax.min.js"></script>
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<style>
-		#map {
-			width: 100%;
-			height: 90vh;
-		}
-		#slider{
-			width: 20%;
-			height: 14px;
-			text-align: center;
-			top: -34px;
-			position: relative;
-			z-index: 10000000;
-			left: 8px;
-		}
+	#map {
+		width: 100%;
+		height: 90vh;
+	}
+
+	.slider-contaienr {
+		bottom: 10px;
+	}
+	.value {
+		font-family: 'Open Sans', sans-serif;
+		position: relative;
+		bottom: 50px;
+		font-size: 2em;
+		color: rgb(120,120,120);
+	}
+	#slider-container {
+		bottom: 10px;
+		position: relative;
+		z-index: 10000000;
+		left: 15px;
+		bottom: 45px;
+	}
+	#slider {
+		z-index: 10000000;
+		width: 20%;
+		height: 14px;
+		text-align: center;
+		top: -34px;
+	}
+	#slider span {
+		height: 2.2em;
+	}
 	</style>
 
 	<style>
@@ -50,16 +69,19 @@
 </head>
 <body>
 
-<div id='map'></div>
-<div id='slider' class="info"></div>
-<script>
+	<div id='map'></div>
+	<div id="slider-container">
+		<div class="value"></div>
+		<div id='slider' class="info"></div>
+	</div>
+	<script>
 	var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-			'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-		mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
+	'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+	'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+	mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
 
 	var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
-		streets  = L.tileLayer(mbUrl, {id: 'mapbox.satellite', attribution: mbAttr});
+	streets  = L.tileLayer(mbUrl, {id: 'mapbox.satellite', attribution: mbAttr});
 
 	var mymap = L.map('map', {
 		center:[40.4168, -3.7038],
@@ -77,21 +99,27 @@
 	L.control.layers(baseLayers).addTo(mymap);
 
 	// slider
-	var handle = $( '#slider' );
+	var handle = $( '#slider' ),
+	span = $( '.value' );
+
+
 	handle.slider({
-			min: 1936,
-			max: 1975,
-      create: function() {
-        handle.text( $( this ).slider( "value" ) );
-      },
-      slide: function( event, ui ) {
-        handle.text( ui.value );
-				mymap.eachLayer( function(layer){
-					// Embalses
+		min: 1936,
+		max: 1975,
+		value:1975,
+		create: function() {
+			span.text( 1975 );
+
+		},
+		slide: function( event, ui ) {
+			span.text( ui.value );
+			//handle.text(1975);
+			mymap.eachLayer( function(layer){
+				// Embalses
 				if (layer.feature && layer.feature.properties && layer.feature.properties.Anyo) {
 					var anyo = parseInt(layer.feature.properties.Anyo);
 					if (anyo < ui.value) {
-						layer.options.fillOpacity = 1;
+						layer.options.fillOpacity = .8;
 						layer.remove();
 						layer.addTo(mymap);
 					}
@@ -105,7 +133,7 @@
 				if (layer.feature && layer.feature.properties && layer.feature.properties.ANO) {
 					var anyo = parseInt(layer.feature.properties.ANO);
 					if (anyo < ui.value) {
-						layer.options.fillOpacity = 1;
+						layer.options.fillOpacity = .8;
 						layer.remove();
 						layer.addTo(mymap);
 					}
@@ -120,7 +148,7 @@
 					var ini = parseInt(layer.feature.properties.FECHA_INI);
 					var fin = parseInt(layer.feature.properties.FECHA_FIN);
 					if (ini < ui.value && fin > ui.value) {
-						layer.options.fillOpacity = 1;
+						layer.options.fillOpacity = .8;
 						layer.remove();
 						layer.addTo(mymap);
 					}
@@ -131,8 +159,10 @@
 					}
 				}
 			});
-    }
+		}
 	});
+
+	handle.val(1975)
 
 
 
@@ -143,14 +173,14 @@
 	mymap.getPane('puntos').style.zIndex = 610;
 
 
-/*
+	/*
 	L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoidXJiYW5vdmlpaSIsImEiOiJjaWxmODU2ODIwMDJ5dmxsejRva3FyaWU0In0.xUle2zZJMfYkhXdZUsrlqQ', {
-		maxZoom: 10,
-		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-			'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-		id: 'mapbox.streets'
-	}).addTo(mymap);
+	maxZoom: 10,
+	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+	'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+	'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+	id: 'mapbox.streets'
+}).addTo(mymap);
 */
 mymap.once('focus', function() { mymap.scrollWheelZoom.enable(); });
 mymap.once('focus', function() { mymap.dragging.enable(); });
@@ -164,67 +194,67 @@ var radius_size = 4;
 
 //municipios penales
 var mpn_style = {
-    radius: radius_size,
-    fillColor: mpn_color, //naranja principal
-    color: "#FFFFFF",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: 1
+	radius: radius_size,
+	fillColor: mpn_color, //naranja principal
+	color: "#FFFFFF",
+	weight: 1,
+	opacity: 1,
+	fillOpacity: .8
 };
 
 //embalses
 var emb_style = {
-    radius: radius_size,
-    fillColor: emb_color, //azul claro
-    color: "#FFFFFF",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: 1
+	radius: radius_size,
+	fillColor: emb_color, //azul claro
+	color: "#FFFFFF",
+	weight: 1,
+	opacity: 1,
+	fillOpacity: .8
 };
 
 //colonias penitenciarias
 var col_style = {
-    radius: radius_size,
-    fillColor: col_color, //naranja obscuro
-    color: "#FFFFFF",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: 1
+	radius: radius_size,
+	fillColor: col_color, //naranja obscuro
+	color: "#FFFFFF",
+	weight: 1,
+	opacity: 1,
+	fillOpacity: .8
 };
 
 //poblados de colonización
 var pob_style = {
-    radius: radius_size,
-    fillColor: pob_color, //rojo principal
-    color: "#FFFFFF",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: 1
+	radius: radius_size,
+	fillColor: pob_color, //rojo principal
+	color: "#FFFFFF",
+	weight: 1,
+	opacity: 1,
+	fillOpacity: .8
 };
 
 mymap.on('zoomend',function(){
-  var currentZoom = mymap.getZoom();
-  radius_size = Math.pow(1.27,currentZoom);
-  console.log(radius_size);
+	var currentZoom = mymap.getZoom();
+	radius_size = Math.pow(1.27,currentZoom);
+	console.log(radius_size);
 });
 
 //Zonas de Riego
 $.getJSON("data/ZonasRiego.geojson", function(zon_data){
 	L.geoJson(zon_data,{
 		style: function(feature){
-		var fillColor,
+			var fillColor,
 			type = feature.properties.Tipo;
-		if (type == "A") fillColor = "#006d2c";
-		else if (type == "B") fillColor = "#74c476";
-		else if (type == "C") fillColor = "#bae4b3";
-		else fillColor = "#f7f7f7"; //no data
-		return { color: "#999", weight: 0, fillColor: fillColor, fillOpacity: .6};
-	},
-	pane: 'zonas',
-	onEachFeature: function (feature, layer){
-		layer.bindPopup( "<strong>Zona de Riego</br>Nombre: </strong>" + feature.properties.Nombre + "<br/>" + "<strong> Tipo: </strong>" + feature.properties.D_Tipo + "<br/>" + "<strong> Estado: </strong>" +feature.properties.D_Estado)
-	}
-} ).addTo(mymap);
+			if (type == "A") fillColor = "#006d2c";
+			else if (type == "B") fillColor = "#74c476";
+			else if (type == "C") fillColor = "#bae4b3";
+			else fillColor = "#f7f7f7"; //no data
+			return { color: "#999", weight: 0, fillColor: fillColor, fillOpacity: .6};
+		},
+		pane: 'zonas',
+		onEachFeature: function (feature, layer){
+			layer.bindPopup( "<strong>Zona de Riego</br>Nombre: </strong>" + feature.properties.Nombre + "<br/>" + "<strong> Tipo: </strong>" + feature.properties.D_Tipo + "<br/>" + "<strong> Estado: </strong>" +feature.properties.D_Estado)
+		}
+	} ).addTo(mymap);
 });
 
 //Municipios Penales
@@ -235,8 +265,8 @@ $.getJSON("data/MunicipiosPenales.geojson", function(mpn_data){
 		},
 		pane: 'puntos',
 		onEachFeature: function (feature, layer){
-		layer.bindPopup( "<strong>Municipio Penal</br> Nombre: </strong>" + feature.properties.NOMBRE + ", (" + feature.properties.PROVINCIA + ")<br/>"  + "<strong> Tipo: </strong>" + feature.properties.TIPO_ENTID + "<br/>" + "<strong> Período: </strong>" + feature.properties.PENALES_10 )
-	}
+			layer.bindPopup( "<strong>Municipio Penal</br> Nombre: </strong>" + feature.properties.NOMBRE + ", (" + feature.properties.PROVINCIA + ")<br/>"  + "<strong> Tipo: </strong>" + feature.properties.TIPO_ENTID + "<br/>" + "<strong> Período: </strong>" + feature.properties.PENALES_10 )
+		}
 	}).addTo(mymap);
 });
 
@@ -249,8 +279,8 @@ $.getJSON("data/EmbalsesGenV3.geojson", function(emb_data){
 		},
 		pane: 'puntos',
 		onEachFeature: function (feature, layer){
-		layer.bindPopup( "<strong>Embalse</br> Nombre: </strong>" + feature.properties.Nombre + "</br>" +"<strong> Ubicación: </strong>" + feature.properties.Nombre + " (" + feature.properties.Provincia + ")<br/>"  + "<strong> Río: </strong>" + feature.properties.Rio + "<br/>" + "<strong> Cuenca: </strong>" + feature.properties.Cuenca + "<br/>" + "<strong> Año de construcción: </strong>" + feature.properties.Anyo );
-	}
+			layer.bindPopup( "<strong>Embalse</br> Nombre: </strong>" + feature.properties.Nombre + "</br>" +"<strong> Ubicación: </strong>" + feature.properties.Nombre + " (" + feature.properties.Provincia + ")<br/>"  + "<strong> Río: </strong>" + feature.properties.Rio + "<br/>" + "<strong> Cuenca: </strong>" + feature.properties.Cuenca + "<br/>" + "<strong> Año de construcción: </strong>" + feature.properties.Anyo );
+		}
 	}).addTo(mymap);
 });
 
@@ -263,8 +293,8 @@ $.getJSON("data/ColoniasPenitenciarias.geojson", function(col_data){
 		pane: 'puntos',
 		onEachFeature: function (feature, layer){
 			console.log(feature.properties);
-		layer.bindPopup( "<strong>Colonia Penitenciaria</br> Agrupación: </strong>" + feature.properties.AGRUPACION + "</br>" +"<strong> Entidad: </strong>" + feature.properties.ENTIDAD + "<br/>"  + "<strong> Municipio: </strong>" + feature.properties.MUNICIPIO + "<br/>")
-	}
+			layer.bindPopup( "<strong>Colonia Penitenciaria</br> Agrupación: </strong>" + feature.properties.AGRUPACION + "</br>" +"<strong> Entidad: </strong>" + feature.properties.ENTIDAD + "<br/>"  + "<strong> Municipio: </strong>" + feature.properties.MUNICIPIO + "<br/>")
+		}
 	}).addTo(mymap);
 });
 
@@ -276,8 +306,8 @@ $.getJSON("data/PobladosColonizacion.geojson", function(pob_data){
 		},
 		pane: 'puntos',
 		onEachFeature: function (feature, layer){
-		layer.bindPopup( "<strong>Poblado de Colonización</br> Poblado: </strong>" + feature.properties.POBLADO + " (" + feature.properties.PROVINCIA+ ")</br>" + "<strong> Año: </strong>" + feature.properties.ANO + "<br/>")
-	}
+			layer.bindPopup( "<strong>Poblado de Colonización</br> Poblado: </strong>" + feature.properties.POBLADO + " (" + feature.properties.PROVINCIA+ ")</br>" + "<strong> Año: </strong>" + feature.properties.ANO + "<br/>")
+		}
 	}).addTo(mymap);
 });
 
@@ -285,9 +315,9 @@ var legend = L.control({position: 'bottomright'});
 
 legend.onAdd = function (mymap) {
 
-	 var div = L.DomUtil.create('div', 'info legend');
-	 div.innerHTML = '<i class="circle" style= "background:#7bccc4"> </i> Embalses<br> <i class="circle" style="background:#fc8d59"> </i> Poblados de Colonización<br> <i class="circle" style=background:#fdbb84> </i> Colonias Penitenciarias<br> <i class="circle" style=background:#fdd49e> </i> Municipios Penales<br><i style=background:#006d2c> </i> Zonas regables de colonizacion del P.N.O.H.<br><i style=background:#74c476> </i> Regados del I.N.C. con aguas superficiales<br><i style=background:#bae4b3> </i> Regados del I.N.C. con aguas subterraneas';
-	 return div;
+	var div = L.DomUtil.create('div', 'info legend');
+	div.innerHTML = '<i class="circle" style= "background:#7bccc4"> </i> Embalses<br> <i class="circle" style="background:#fc8d59"> </i> Poblados de Colonización<br> <i class="circle" style=background:#fdbb84> </i> Colonias Penitenciarias<br> <i class="circle" style=background:#fdd49e> </i> Municipios Penales<br><i style=background:#006d2c> </i> Zonas regables de colonización del P.N.O.H.<br><i style=background:#74c476> </i> Regados del I.N.C. con aguas superficiales<br><i style=background:#bae4b3> </i> Regados del I.N.C. con aguas subterraneas';
+	return div;
 };
 
 legend.addTo(mymap);
