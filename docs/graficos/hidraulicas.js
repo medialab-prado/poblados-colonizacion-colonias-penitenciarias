@@ -112,14 +112,14 @@ function draw() {
   fill(0);
   textStyle(BOLD);
   textSize(12);
-  text("NÚMERO DE CANALES Y ACEQUIAS POR CONFEDERACION HIDRÁULICA", 620, 380, 150, 80);
+  text("CANALES Y ACEQUIAS POR CUENCA HIDRÁULICA", 620, 380, 150, 80);
   textStyle(NORMAL);
   textSize(11);
   noStroke();
   fill(155,0,0);
   text("Interacción con el ratón:",620, 430, 150, 20);
   fill(0);
-  text("Kilómetros de canales y acequias construidos en cada una de las cuencas durante la colonización", 620, 445, 150, 80);
+  text("Canales y acequias (Km) construidos en la cuenca durante la colonización", 620, 445, 150, 80);
 
 }
 
