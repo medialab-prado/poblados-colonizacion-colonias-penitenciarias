@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Una recalificación encubierta
+subtitle: La trampa de las tierras exceptuadas y reservadas
 ---
 
 <ol>
@@ -10,7 +11,6 @@ title: Una recalificación encubierta
 
 <li><b>Tierras en exceso</b>: Son las tierras destinadas para la instalación de los colonos en unidades familiares de explotación. A cada colono se le entregaba una parcela de cuatro a ocho hectáreas con un período tutelado de cinco años, durante el cual era obligatorio seguir estrictamente el plan de explotación indicado por el INC.   
 
-<br/> 
 
 El Estado aportaba semillas, abonos, insecticidas, ganado, y un anticipo de las contribuciones y renta de la tierra. El coste de todo ello lo debía devolver el colono con un determinado porcentaje sobre la producción. Tras este periodo, el colono debía amortizar el valor de la tierra a un interés del 3% anual, estableciéndose los plazos entre 15 y 25 años para la tierra y 40 años para la vivienda. Tras devolver la cantidad total del ‘préstamos’ el colono conseguía por fin la propiedad de su finca, incluida toda la parcela y la casa.</li>    
 </ol>
