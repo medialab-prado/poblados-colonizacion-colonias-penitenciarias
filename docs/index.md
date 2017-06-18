@@ -18,9 +18,6 @@ En muchos casos, además, las tierras recibidas eran de muy baja calidad: una <a
 Pese a las dificultades tan diversas como la dureza de los suelos, la burocratización debida al control del Estado o la poca capacidad de los Planes para adaptarse a nuevos escenarios como la mecanización de la agricultura, la mayor parte de los colonos salió adelante. Y con ellos, la colonización y sus regadíos. Dos de estos colonos
 <a href="colono">han conversado con nosotros</a> para este proyecto.
 
-
-Los suelos no fueron la única dificultad que estos pobladores tuvieron que afrontar; a esta hay que sumarle la burocratización debida al continuo control del Instituto de Colonización, <a href="mujeres">la invisibilización del papel de las mujeres</a> y un diseño estacionario de los planes (quitar de los planes) que contempló tardíamente la mecanización de la agricultura. (punto y aparte)
-
 Esta colonización no pudo tener lugar tampoco sin dos contribuciones imprescindibles. En unos pueblos marcados por la presencia de la Iglesia y la Sección Femenina, <a href="mujeres">el papel de las mujeres</a>, por un lado, fue invisibilizado sistemáticamente y despreciado desde la misma redacción de los Planes.
 
 Otro colectivo fue también de importancia estructural en la colonización. Un Estado pauperizado tras la guerra y aislado internacionalmente no podía costear una inversión elevada en infraestructuras. Con las cárceles llenas de prisioneros tras la Guerra, el <a href="presos">uso de presos como mano de obra</a> fue propuesto como la solución a este problema. Como hemos querido mostrar en este proyecto, no habría colonización sin trabajo esclavo.
