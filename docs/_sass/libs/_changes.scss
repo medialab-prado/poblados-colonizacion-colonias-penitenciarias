@@ -133,3 +133,10 @@ canvas {
     }
   }
 }
+
+#banner {
+  @include breakpoint(small){
+    padding: 7em .5em 5em .5em;
+  }
+
+}
