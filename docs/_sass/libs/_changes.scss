@@ -93,11 +93,15 @@ blockquote {
   line-height: 2.1em;
   margin: 0 0 _size(element-margin) 0;
   padding: 2em;
-  background-color:#ddd;
+  background-color:rgb(240,240,240);
 
   @include breakpoint(small){
+    line-height: 1.9em;
     font-size: 1em;
     padding: 1em;
+  }
+  li {
+    margin-bottom: 1em;
   }
 }
 
