@@ -3,42 +3,26 @@ layout: title
 title: Introducción
 ---
 
+El Instituto Nacional de la Colonización fue el organismo creado durante la dictadura para llevar a cabo una de las transformaciones de mayor envergadura sobre el territorio, la colonización interior. Su comentido: transformar y poner en producción agrícola vastas extensiones de terreno, a través principalmente de la implantación de sistemas de regadío.
 
-qué se quiso hacer. quién, porqué y cuándo. y a qué se llegó
+Si bien la colonización interior tuvo un desarrollo espectacular durante el Régimen de Franco, <a href="introduccion">no fue un invento franquista</a>. Hubo colonizaciones y planes de desarrollo hidráulico antes de la Guerra Civil, así como referencias internacionales: la Italia de Mussolini, la Alemania de los años 20 o Estados Unidos.
 
-
-
-
-Uno de los episodios más relevantes (pq?) entre los procesos operados sobre el territorio peninsular durante el siglo xx fue la llamada Colonización Interior. Descendiente de las <a href="contexto">tesis regeneracionistas</a> de final de siglo e inspirada en procesos análogos desarrollados en Italia, Alemania o Israel, esta transformación productiva del territorio dirigida por el Instituto Nacional de Colonización (INC) entre 1939 y 1973 significó fundamentalmente la preparación para el cultivo y puesta en regadío de vastas extensiones de terreno a lo largo y ancho del Estado.
-
-- tiempo
-- que era
-- quien era
-- objetivo
-- que resultó de todo esto..
-
-La necesidad de mano de obra para las tierras puestas en producción implicó la construcción de un gran número (3000) de nuevos pueblos, o poblados de colonización. Dispuestos en redes de pequeños núcleos urbanos sitas en el interior de las zonas regables, fueron pueblos diseñados por algunos de los arquitectos más relevantes del momento <a href="urbanismo">cuyos trazados vanguardistas llaman todavía hoy la atención</a>. Cada familia de colonos, <a href="colono">seleccionada tanto por sus capacidades y competencias como por criterios de buena conducta</a>, recibía una vivienda y una parcela que /debía ir pagando/ había de costear con los réditos de su trabajo. *que nunca sabía cuánto faltaba por pagar*
-
-- dibujarlo con palabras
+En todos estos casos la puesta en producción de terrenos valdíos supuso un movimiento de población. Hacía falta mano de obra, y esto implicó en el caso español la construcción de 300 nuevos pueblos. Planes como el Plan Badajoz dibujaron grandes Zonas Regables sobre el terreno, y dieron lugar a pueblos en medio de la nada, diseñados a menudo por algunos de los arquitectos más relevantes del momento, <a href="urbanismo">cuyos trazados vanguardistas llaman todavía hoy la atención</a>.
 
 {% include mapa.html %}
 
-En muchos casos, las tierras recibidas eran de muy baja calidad, <a href="mecanismos-expropiacion">debido a una compleja mecánica de expropiación que benefició a los grandes terratenientes y a las redes clientelares del Régimen</a>. Los suelos no fueron la única dificultad que estos pobladores tuvieron que afrontar; a esta hay que sumarle la burocratización debida al continuo control del Instituto de Colonización, <a href="mujeres">la invisibilización del papel de las mujeres</a> y un diseño estacionario de los planes (quitar de los planes) que contempló tardíamente la mecanización de la agricultura. (punto y aparte)
+Los poblados de colonización acogieron a familias de colonos llegados de toda la geografía del Estado. Cada familia, <a href="colono">seleccionada tanto por conocimientos como por criterios de buena conducta</a>, recibía una vivienda y una parcela que debía ir pagando con su trabajo, sin saber en ningún momento a ciencia cierta el estado de las cuentas.
 
-- explicar mejor lo del mecanismos de expropiacion
-- aparte. donde la mujer representaba el menor escalafón
-- diseño estacionario - que no contemplaba la evolución
+En muchos casos, además, las tierras recibidas eran de muy baja calidad: una <a href="mecanismos-expropiacion">trampa en la mecánica de expropiación de terrenos</a> permitió a los grandes terratenientes mantener los mejores suelos. Tales fueron los beneficios de estos propietarios <a href="modelos">en algunas zonas</a>, que se llegó a decir que la colonización no fue más que "agua para los latifundistas".
 
-Pese a todas estas dificultades, <a href="colono-ciudadano">las sucesivas generaciones de colonos pusieron en práctica las nuevas técnicas (de regadío) y formaron parte de la buscada modernización agraria</a>.
-- en lugar de modernización, reconectar con algo dicho en parrafos iniciales
+Pese a las dificultades tan diversas como la dureza de los suelos, la burocratización debida al control del Estado o la poca capacidad de los Planes para adaptarse a nuevos escenarios como la mecanización de la agricultura, la mayor parte de los colonos salió adelante. Y con ellos, la colonización y sus regadíos. Dos de estos colonos
+<a href="colono">han conversado con nosotros</a> para este proyecto.
 
-Esta colonización no pudo tener lugar sin una política paralela de desarrollo de infraestructuras hidráulicas (,los conocidos pantanos de Franco). La puesta en regadío implicó la construcción de embalses y la excavación de grandes canales y redes de acequias.
 
-Como un caso más de memoria histórica, es necesario destacar el hecho de que en un Estado pauperizado tras la guerra y aislado internacionalmente, estas obras necesitaron emplear mano de obra proporcionada por <a href="presos">el programa de Redención de Penas por el Trabajo</a>, estos es, prisioneros de guerra y comunes empleados en trabajo esclavo.  
-- darle la vuelta: los presos como solución para un estado sin recursos
+Los suelos no fueron la única dificultad que estos pobladores tuvieron que afrontar; a esta hay que sumarle la burocratización debida al continuo control del Instituto de Colonización, <a href="mujeres">la invisibilización del papel de las mujeres</a> y un diseño estacionario de los planes (quitar de los planes) que contempló tardíamente la mecanización de la agricultura. (punto y aparte)
 
-La colonización fue en resumen un proceso complejo en el que se sucedieron <a href="autoritario">una primera etapa represiva de la dictadura</a> y otra, con una visión pragmática y tecnócrata. (punto: este proceso/..) que fue implantado en <a href="modelos">una variedad enorme de contextos sociales, económicos y culturales</a> que hacen difícil la generalización. Presentamos a continuación una serie de fragmentos de este proceso vistos desde una aproximación centrada en datos históricos de archivos y estudios legitimados. Ventanas de datos a un territorio cuya escala y memoria cambiaron para siempre.
+Esta colonización no pudo tener lugar tampoco sin dos contribuciones imprescindibles. En unos pueblos marcados por la presencia de la Iglesia y la Sección Femenina, <a href="mujeres">el papel de las mujeres</a>, por un lado, fue invisibilizado sistemáticamente y despreciado desde la misma redacción de los Planes.
 
-- El "presentamos a continación" hacerlo sexy:
--- historia
--- hemos accedido a archivos
+Otro colectivo fue también de importancia estructural en la colonización. Un Estado pauperizado tras la guerra y aislado internacionalmente no podía costear una inversión elevada en infraestructuras. Con las cárceles llenas de prisioneros tras la Guerra, el <a href="presos">uso de presos como mano de obra</a> fue propuesto como la solución a este problema. Como hemos querido mostrar en este proyecto, no habría colonización sin trabajo esclavo.
+
+La colonización fue en resumen un proceso muy rico y diverso en el que <a href="autoritario">una primera etapa represiva de la dictadura</a> dio paso a otra más pragmática y tecnócrata. Fue una suma de historias desarrollada a lo largo de 30 años, caracterizada además por una toma abundante de datos. Acceder a estos es por tanto acceder a la memoria de una transformación. La transformación de un suelo que cambió junto a sus habitantes, llegados como nuevos pobladores. La historia de un conjunto de mundos creados de la nada, contada desde la consulta y visualización continua de datos históricos de archivos y estudios legitimados.  Ventanas de datos a un territorio cuya escala y memoria cambiaron para siempre.
