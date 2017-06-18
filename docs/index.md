@@ -7,7 +7,7 @@ El Instituto Nacional de la Colonización fue el organismo creado durante la dic
 
 Si bien la colonización interior tuvo un desarrollo espectacular durante el Régimen de Franco, <a href="introduccion">no fue un invento franquista</a>. Hubo colonizaciones y planes de desarrollo hidráulico antes de la Guerra Civil, así como referencias internacionales: la Italia de Mussolini, la Alemania de los años 20 o Estados Unidos.
 
-En todos estos casos la puesta en producción de terrenos valdíos supuso un movimiento de población. Hacía falta mano de obra, y esto implicó en el caso español la construcción de 300 nuevos pueblos. Planes como el Plan Badajoz dibujaron grandes Zonas Regables sobre el terreno, y dieron lugar a pueblos en medio de la nada, diseñados a menudo por algunos de los arquitectos más relevantes del momento, <a href="urbanismo">cuyos trazados vanguardistas llaman todavía hoy la atención</a>.
+En todos estos casos la puesta en producción de terrenos baldíos supuso un movimiento de población. Hacía falta mano de obra, y esto implicó en el caso español la construcción de 300 nuevos pueblos. Planes como el Plan Badajoz dibujaron grandes Zonas Regables sobre el terreno, y dieron lugar a pueblos en medio de la nada, diseñados a menudo por algunos de los arquitectos más relevantes del momento, <a href="urbanismo">cuyos trazados vanguardistas llaman todavía hoy la atención</a>.
 
 {% include mapa.html %}
 
