@@ -18,8 +18,12 @@ En muchos casos, además, las tierras recibidas eran de muy baja calidad: una <a
 Pese a las dificultades tan diversas como la dureza de los suelos, la burocratización debida al control del Estado o la poca capacidad de los Planes para adaptarse a nuevos escenarios como la mecanización de la agricultura, la mayor parte de los colonos salió adelante. Y con ellos, la colonización y sus regadíos. Dos de estos colonos
 <a href="colono">han conversado con nosotros</a> para este proyecto.
 
-Esta colonización no pudo tener lugar tampoco sin dos contribuciones imprescindibles. En unos pueblos marcados por la presencia de la Iglesia y la Sección Femenina, <a href="mujeres">el papel de las mujeres</a>, es invisibilizado sistemáticamente desde la misma redacción de los Planes a la vez que se vuelve estratégico y esencial a la hora de diseñar la nueva sociedad rural.
+**Historias bajo la infraestructura**
+
+Esta colonización no pudo tener lugar tampoco sin dos contribuciones imprescindibles. En unos pueblos marcados por la presencia de la Iglesia y la Sección Femenina, <a href="mujeres">el papel de las mujeres</a> es invisibilizado sistemáticamente desde la misma redacción de los Planes. En paralelo, este se vuelve estratégico y esencial a la hora de diseñar la nueva sociedad rural.
 
 Otro colectivo fue también de importancia estructural en la colonización. Un Estado pauperizado tras la guerra y aislado internacionalmente no podía costear una inversión elevada en infraestructuras. Con las cárceles llenas de prisioneros tras la Guerra, el <a href="presos">uso de presos como mano de obra</a> fue propuesto como la solución a este problema. Como hemos querido mostrar en este proyecto, no habría colonización sin trabajo esclavo.
+
+
 
 La colonización fue en resumen un proceso muy rico y diverso en el que <a href="autoritario">una primera etapa represiva de la dictadura</a> dio paso a otra más pragmática y tecnócrata. Fue una suma de historias desarrollada a lo largo de 30 años, caracterizada además por una toma abundante de datos. Acceder a estos es por tanto acceder a la memoria de una transformación. La transformación de un suelo que cambió junto a sus habitantes, llegados como nuevos pobladores. La historia de un conjunto de mundos creados de la nada, contada desde la consulta y visualización continua de datos históricos de archivos y estudios legitimados.  Ventanas de datos, en definitiva, a un territorio cuya escala y memoria cambiaron para siempre.

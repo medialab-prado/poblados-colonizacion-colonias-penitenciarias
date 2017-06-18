@@ -17,7 +17,7 @@ En relación a las mujeres que trabajan en labores agrícolas encontramos a muje
 Fuente: Elaboración propia a partir de GÓMEZ BENITO, C. Políticos, burócratas y expertos. Un estudio de la política agraria y la sociología rural en España (1936-1959). Siglo XXI de España Editores S.A (1995) e iconos de Adrien Coquet en [Noun Project](http://thenounproject.com)
 
 En el caso de las **jornaleras** propiamente dichas nos encontramos con mujeres que formando parte de cuadrillas itinerantes trabajan a destajo en tareas de recolección. 
->“¿y recoger cien kilos de algodón una mujer? Recoger 100 kilos de algodón en una jornada ya era recoger algodón, más que los hombres. Se pagaba por kilo. Nos poníamos mi hermano y yo y como mucho cogíamos 30 kilos, te desriñonabas de intentarlo. Eran las jornaleras.” -Milagros, hija de colono.
+>“¿y recoger cien kilos de algodón una mujer? Recoger 100 kilos de algodón en una jornada ya era recoger algodón, más que los hombres. Se pagaba por kilo. Nos poníamos mi hermano y yo y como mucho cogíamos 30 kilos, te desriñonabas de intentarlo. Eran las jornaleras.” -Milagros Rodríguez, hija de colono.
 
 Merecida mención tienen las **Maestras** vinculadas al Insituto de Colonización que fueron objeto de un Estado receloso y controlador que estableció como medida preventiva, el no dotarlas tras su formación como docentes del título de *maestra nacional*. Así limitaba las posibilidades de ejercer su profesión fuera del contexto colonizador, minimizando de esta forma las "deserciones" que amenazaban a un cuerpo profesional con poca demandada.
 
