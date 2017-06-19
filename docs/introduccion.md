@@ -5,7 +5,7 @@ subtitle: El "deseo del agua", la modernización del campo y la estabilidad de l
 ---
 >"Reconquistan los yankis su Oeste; reconquistemos
 nosotros las grandes extensiones que tenemos perdidas para la
-producción.(...). En cuantos terrenos pongamos bajo este sol espléndido agua y abono, tendremos otros tantos trozos de las Indias que no supimos
+producción (...). En cuantos terrenos pongamos bajo este sol espléndido agua y abono, tendremos otros tantos trozos de las Indias que no supimos
 conservar"
 >
 > Rafael Gasset. Ingeniero de Caminos y Ministro de Fomento (1907)
@@ -16,8 +16,8 @@ La centralidad de la política hidráulica en el proyecto colonizador franquista
 
 {% include _hidraulicas.html %}
 
-Las acciones del Instituto Nacional de Colonización se extienden durante 35 años, en un momento decisivo para la modernización del campo español. Teniendo en cuenta que se partía de un sector agrario [escasamente mecanizado](https://medialab-prado.github.io/poblados-colonizacion-colonias-penitenciarias/urbanismo.html), el INC apoyó también paulatinamente la mecanización e industrialización de la agricultura.
-
-Tenemos que tener en cuenta que la colonización no implicó una redistribución real de la propiedad, al existir <a href="mecanismo-expropiacion>trampas en la ley de expropiación que permitieron a los latifundistas mantener gran parte de sus terrenos intactos. Desde este punto de vista, entonces, se puede decir que el INC contribuyó tanto a una estabilización del latifundismo como a la configuración de la agroindustria y al final del campesinado tradicional.
+Las acciones del Instituto Nacional de Colonización (INC) se extienden durante 35 años, en un momento decisivo para la modernización del campo español. Teniendo en cuenta que se partía de un sector agrario [escasamente mecanizado](https://medialab-prado.github.io/poblados-colonizacion-colonias-penitenciarias/urbanismo.html), el INC no sólo se ocupó de llevar el agua a los regadíos y formar a los colonos, sino que apoyó también la adopción de nuevas técnicas, esto es, la mecanización e industrialización de la agricultura.
 
 {% include _mecanizacion.html %}
+
+Es necesario recordar en este punto que la colonización no implicó una redistribución real de la propiedad: <a href="mecanismo-expropiacion>una trampa en la ley de expropiación</a> permitió a los latifundistas mantener gran parte de sus terrenos intactos. El INC fue un agente de cambio y modernización, pero apenas alteró la distribución social del capital agrícola. Sus operaciones contribuyeron más a estabilizar el latifundismo. Al adaptar a los nuevos tiempos las antiguas propiedades, el INC preparó el camino para la configuración de la agroindustria y el final del campesinado tradicional.
