@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Agua, reforma y colonización
-subtitle: 
+subtitle:
 ---
 *"Reconquistan los yankis su Oeste; reconquistemos
 nosotros las grandes extensiones que tenemos perdidas para la
-producción.(...).En cuantos terrenos pongamos bajo este sol espléndido agua y
-abono, tendremos otros tantos trozos de las Indias que no supimos
+producción.(...). En cuantos terrenos pongamos bajo este sol espléndido agua y abono, tendremos otros tantos trozos de las Indias que no supimos
 conservar"
+
  Rafael Gasset. Ingeniero de Caminos y Ministro de Fomento (1907)*
 
 El proyecto y políticas de colonización agraria del Estado franquista desplegadas por el Instituto Nacional de Colonización (1939-1973) no surgen de la nada. Siguiendo a [Cristóbal Gómez Benito](http://historiadelpresente.es/sites/default/files/revista/articulos/3/305unarevisionyunareflexionsobrelapoliticadecolonizacionagrariaenlaespanadefranco.pdf), en ella confluyen las políticas históricas repobladoras de colonización desde el s.XVIII (entre las que se destacan las nuevas poblaciones en el Camino Real de Madrid a Sevilla por Sierra Morena), las de reforma agraria y la política hidráulica.  
