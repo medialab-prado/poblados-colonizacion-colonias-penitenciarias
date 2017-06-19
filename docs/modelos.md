@@ -1,6 +1,7 @@
 ---
 layout: page
 title: La España 'plural' de Franco
+subtitle: Cómo la colonización se adaptó a los distintos territorios del Estado
 ---
 Latifundio, minifundio, grandes propietarios, pequeños agricultores… La adaptación al entorno parcelario era una de las claves que manejaba el Régimen para poder hacer que funcionara el plan de colonización en toda España. Por eso tuvieron que diferenciar el tipo de repoblación dependiendo de la región elegida. Los entornos agrícolas del norte de España están más repartidos y divididos que los del sur y el plan para la colonización de los espacios tenía que adaptarse a ello.
 
@@ -19,6 +20,6 @@ Debido a su geografía y su situación parcelaria, la zona aragonesa y navarra s
 
 <b>El modelo de Andalucía-Extremadura</b>
 
-Frente a los minifundios del norte, la situación del sur siempre se ha caracterizado por latifundios controlados por pocas manos. El Instituto Nacional de Colonización tuvo que negociar entonces con otro tipo de terratenientes. El plan Jaén, por ejemplo, es uno de los casos en los que la colonización produjo asentamientos con poca capacidad para retener a sus pobladores. En lugar de acoger a familias de colonos, muchos de los poblados albergaron a obreros agrícolas. Estos sólo recíbian casa y un pequeño huerto familiar, a cambio de trabajar las tierras de los latifundistas. Es el caso de la imagen a continuación, donde vemos cómo la fundación del poblado de Sotogordo apenas ha implicado una transformación en el paisaje. No hay reparcelación, el gran latifundio se mantiene intacto antes (1945) y después (2014). 
+Frente a los minifundios del norte, la situación del sur siempre se ha caracterizado por latifundios controlados por pocas manos. El Instituto Nacional de Colonización tuvo que negociar entonces con otro tipo de terratenientes. El plan Jaén, por ejemplo, es uno de los casos en los que la colonización produjo asentamientos con poca capacidad para retener a sus pobladores. En lugar de acoger a familias de colonos, muchos de los poblados albergaron a obreros agrícolas. Estos sólo recíbian casa y un pequeño huerto familiar, a cambio de trabajar las tierras de los latifundistas. Es el caso de la imagen a continuación, donde vemos cómo la fundación del poblado de Sotogordo apenas ha implicado una transformación en el paisaje. No hay reparcelación, el gran latifundio se mantiene intacto antes (1945) y después (2014).
 
 {% include _sotogordo.html %}
