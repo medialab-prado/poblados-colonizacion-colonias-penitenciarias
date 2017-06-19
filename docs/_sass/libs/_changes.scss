@@ -14,8 +14,27 @@
     @include breakpoint(medium) {
       width: 100%;
     }
-    > p, header {
+    > p,
+    header {
       width: 40em;
+
+      @include breakpoint(large) {
+        width: 45em;
+      }
+
+      @include breakpoint(medium) {
+        width: 90%;
+      }
+    }
+    li {
+      margin: 0 auto;
+    }
+  }
+  &.style5 {
+
+    li {
+      width: 40em;
+      margin: 0 auto _size(element-margin) auto;
 
       @include breakpoint(large) {
         width: 45em;
@@ -27,6 +46,7 @@
     }
   }
 }
+
 
 twentytwenty-wrapper img {
   width: 100%;
@@ -110,7 +130,8 @@ blockquote {
   background-color:"#cad2d3";
 }
 
-canvas {
+iframe {
+  display: block;
   margin: 0 auto;
 }
 .inner img {
@@ -151,5 +172,5 @@ canvas {
   font-family: 'Open Sans', sans-serif;
   @include breakpoint(small){
     width: 90%;
-}
+  }
 }
