@@ -110,7 +110,8 @@ blockquote {
   background-color:"#cad2d3";
 }
 
-canvas {
+iframe {
+  display: block;
   margin: 0 auto;
 }
 .inner img {
