@@ -191,6 +191,21 @@
 						layer.addTo(mymap);
 					}
 				}
+				// Colonias Penitencia
+				if (layer.feature && layer.feature.properties && layer.feature.properties.ANYO_INI) {
+					var ini = parseInt(layer.feature.properties.ANYO_INI);
+					var fin = parseInt(layer.feature.properties.ANYO_FIN);
+					if (ini < ui.value && fin > ui.value) {
+						layer.options.fillOpacity = .8;
+						layer.remove();
+						layer.addTo(mymap);
+					}
+					else {
+						layer.options.fillOpacity = 0;
+						layer.remove();
+						layer.addTo(mymap);
+					}
+				}
 			});
 		}
 	});
