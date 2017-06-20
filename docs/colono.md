@@ -32,7 +32,7 @@ No podemos dejar de señalar el rol que la iglesia católica tiene tanto en el p
 
 >Un colono que tenga una primaria fe religiosa, un elemental concepto del deber y honradez, que se encuentre sano de cuerpo, sin tristes taras hereditarias, con una elemental instrucción, será el germen que asegure un desenvolvimiento próspero del núcleo de población creado. -ESCARDÓ PEINADOR, G. El hombre, factor básico de la colonización. Colonización , nº 9, 1949
 
-Con el paso del tiempo, la incertidumbre que ha caracterizado diferentes aspectos surante el proceso colonizador continuará presente. La transferencia en relación a la titularidad de las propiedades, parcelas y viviendas se demorará y serán los hijos e hijas las que la concluyan. De la política de corte paternalista resultarán relaciones de desconfianza y situaciones de inseguridad jurídica.
+Con el paso del tiempo, la incertidumbre que ha caracterizado diferentes aspectos durante el proceso colonizador continuará presente. La transferencia en relación a la titularidad de las propiedades, parcelas y viviendas se demorará y serán los hijos e hijas las que la concluyan. De la política de corte paternalista resultarán relaciones de desconfianza y situaciones de inseguridad jurídica.
 >*Siempre nos decían que eso iba a ser propiedad, lo que pasa es que mucha gente no lo creía. Como no tenías escritura y no tenías nada, pues no lo creías. -Mariano Gregorio, hijo de colono.
 
 *Cuando se muere tu padre, no tenías la propiedad todavía, no se había hecho la escritura todavía.* - Conversación con Mariano Gregorio y Milagros Rodríguez, hijo e hija de colonos.
