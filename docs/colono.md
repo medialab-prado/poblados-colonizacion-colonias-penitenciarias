@@ -35,7 +35,7 @@ No podemos dejar de señalar el rol que la iglesia católica tiene tanto en el p
 Con el paso del tiempo, la incertidumbre que ha caracterizado diferentes aspectos durante el proceso colonizador continuará presente. La transferencia en relación a la titularidad de las propiedades, parcelas y viviendas se demorará y serán los hijos e hijas las que la concluyan. De la política de corte paternalista resultarán relaciones de desconfianza y situaciones de inseguridad jurídica.
 >*Siempre nos decían que eso iba a ser propiedad, lo que pasa es que mucha gente no lo creía. Como no tenías escritura y no tenías nada, pues no lo creías. -Mariano Gregorio, hijo de colono.
 
-*Cuando se muere tu padre, no tenías la propiedad todavía, no se había hecho la escritura todavía.* - Conversación con Mariano Gregorio y Milagros Rodríguez, hijo e hija de colonos.
+>*Cuando se muere tu padre, no tenías la propiedad todavía, no se había hecho la escritura todavía.* - Conversación con Mariano Gregorio y Milagros Rodríguez, hijo e hija de colonos.
 
 [**De colono a ciudadano**.](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0ahUKEwjokZS4k8fUAhWKaFAKHXPmBrAQFggjMAA&url=http%3A%2F%2Fwww.historiaagraria.com%2Farticulo.php%3Fid%3D414%26num%3D38&usg=AFQjCNG2HwEH0n8P44311USincnM2NESKA&sig2=lEXxljiI-3AdD_Hut32ngQ&cad=rja) La historia de la colonización no sólo es una, y muchos de sus espacios se rellenan con los recuerdos de una generación que creció y transitó parte de su vida adulta vinculada a uno de los programas más ambiciosos que el estado franquista operó. Es esta **segunda generación**, la de los hijos e hijas de colonos, la que se va a dirigir hacia una ciudadanía más plena.
 
