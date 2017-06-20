@@ -3,7 +3,7 @@ layout: page
 title: El buen colono
 ---
 
-**El buen colono.** La selección del colono es uno de los aspectos centrales del proceso de colonización, éste conlleva el establecimiento de unos critrerios de selección básicos que aparecerán enumerados en la Ley de 1949 sobre *colonización y distribución de la propiedad de las zonas regables* y que dependiendo de los emplazamientos introducirían matices. Así por ejemplo para el Plan Badajoz las prioridades de acceso al programa que se establecieron formalmente fueron:
+La selección del colono es uno de los aspectos centrales del proceso de colonización, éste conlleva el establecimiento de unos critrerios de selección básicos que aparecerán enumerados en la Ley de 1949 sobre *colonización y distribución de la propiedad de las zonas regables* y que dependiendo de los emplazamientos introducirían matices. Así por ejemplo para el Plan Badajoz las prioridades de acceso al programa que se establecieron formalmente fueron:
 
 > 1. Arrendatarios o aparceros de tierras afectadas por la transformación en regadío, siempre que no sean propietarios de otras tierras con superficie suficiente para el mantenimiento de una familia.
 > 2. Colonos o braceros de las comarcas o términos municipales de la provincia de Badajoz en que del estudio económico social efectuado por el INC se deduzca la necesidad de traslado de parte de la población rural a las zonas regables.
