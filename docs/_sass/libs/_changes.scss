@@ -168,9 +168,11 @@ iframe {
   color: rgb(120,120,120);
   font-size: .8em;
   text-align: right;
+  margin-top: .5em;
   font-weight: 100;
   font-family: 'Open Sans', sans-serif;
   @include breakpoint(small){
     width: 90%;
   }
+
 }

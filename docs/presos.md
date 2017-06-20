@@ -21,3 +21,6 @@ El uso de presos para el desarrollo de infraestructuras exigió la construcción
 Algunos de ellos, como el de Los Merinales en Dos Hermanas (Sevilla) han sido demolidos, otros sobreviven en ruinas. Todos tienen, sin embargo, algo en común: una historia de invisibilidad, y de falta a la memoria.
 
 {% include _merinales.html %}
+<div>
+<p class="caption">El pueblo de Los Merinales en Dos Hermanas (Sevilla).</p>
+</div>
