@@ -9,6 +9,11 @@ body {
   padding:0;
   margin:0;
 }
+.twentytwenty-before-label::before,
+.twentytwenty-after-label::before {
+  font-family: 'Open Sans', sans-serif;
+}
+
 </style>
 </head>
 <body>
@@ -18,7 +23,10 @@ body {
 </div>
 <script>
 $(function(){
-  $("#container1").twentytwenty();
+  $("#container1").twentytwenty({
+    before_label: 'Antes',
+	  after_label: 'Despúes'
+  });
 });
 </script>
 </body>

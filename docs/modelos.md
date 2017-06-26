@@ -17,9 +17,16 @@ La siguiente visualización muestra el tamaño medio de las parcelas entregadas 
 Debido a su geografía y su situación parcelaria, la zona aragonesa y navarra se caracteriza por los minifundios, propiedades repartidas y con explotaciones pequeñas. En esas zonas la actuación del INC fue más sencilla y la colonización fue más efectiva. El caso de Bardena del Caudillo es uno de los ejemplos de estrategia de colonización efectiva: el poblado fue fundado en una zona regable de nueva creación. Los colonos recibieron parcelas y las pusieron en producción, de forma tal que el territorio quedó profundamente transformado. La imagen a continuación muestra el antes y el después: del año 1956 con el poblado apenas construido, al 2014 en el que se aprecia un cambio total en la parcelación. Se ve además cómo el pueblo ha crecido desde entonces,  con lo que estamos ante un caso de éxito de la colonización.
 
 {% include _bardenas.html %}
+<div>
+<p class="caption">El pueblo de Bardena del Caudillo.</p>
+</div>
+
 
 <b>El modelo de Andalucía-Extremadura</b>
 
 Frente a los minifundios del norte, la situación del sur siempre se ha caracterizado por latifundios controlados por pocas manos. El Instituto Nacional de Colonización tuvo que negociar entonces con otro tipo de terratenientes. El plan Jaén, por ejemplo, es uno de los casos en los que la colonización produjo asentamientos con poca capacidad para retener a sus pobladores. En lugar de acoger a familias de colonos, muchos de los poblados albergaron a obreros agrícolas. Estos sólo recíbian casa y un pequeño huerto familiar, a cambio de trabajar las tierras de los latifundistas. Es el caso de la imagen a continuación, donde vemos cómo la fundación del poblado de Sotogordo apenas ha implicado una transformación en el paisaje. No hay reparcelación, el gran latifundio se mantiene intacto antes (1945) y después (2014).
 
 {% include _sotogordo.html %}
+<div>
+<p class="caption">El pueblo de Sotogordo.</p>
+</div>
