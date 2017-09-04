@@ -18,4 +18,4 @@ Agradecimientos:
 - Luis Sevillano e Idoia Sota por su interés y apoyo técnico 
 
 Créditos fotografías: 
-Mediateca del Ministerop de Agricultura y Pesca, Alimentación y Medio Ambiente
+Mediateca del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente
