@@ -1,4 +1,7 @@
-Referencias bibliográficas:
+---
+layout: page
+title: Referencias bibliográficas
+---
 
 VVAA. Extremadura saqueada. Recursos naturales y autonomía regional. Ed. Ruedo Ibérico. Paris (1978).
 
