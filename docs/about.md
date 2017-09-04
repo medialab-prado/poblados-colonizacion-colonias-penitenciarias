@@ -21,6 +21,4 @@ Parte de una investigación sobre colonizaciones agrarias y producción visual c
 
 Fondo fotográfico del INC de la [Mediateca del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente](http://www.mapama.gob.es/es/ministerio/archivos-bibliotecas-mediateca/mediateca/)
 
-**Base del diseño de la plantilla web:** 
-
-<a href="http://html5up.net" target="_blank">HTML5 UP</a>
+**Base del diseño de la plantilla web:** <a href="http://html5up.net" target="_blank">HTML5 UP</a>
