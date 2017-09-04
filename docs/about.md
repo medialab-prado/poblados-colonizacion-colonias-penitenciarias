@@ -6,7 +6,7 @@ title: Créditos y agradecimientos
 
 Este proyecto ha siso realizado por Abelardo Gil–Fournier, Andrés Rodríguez Muñoz, Marco Rizzetto, Carmen M. Pellicer Balsalobre, Guillermo Cid y David Prieto. 
 
-Es el resultado de una colaboración llevada a cabo en el contexto del [V Taller de Periodismo de Datos](http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia) organizado en [Medialab-Prado](http://medialab-prado.org) durante los meses de abril, mayo y junio de 2017. 
+Es el resultado de una colaboración llevada a cabo en el contexto del [V Taller de Periodismo de Datos](http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia) que tuvo lugar en [Medialab-Prado](http://medialab-prado.org) durante los meses de abril, mayo y junio de 2017. 
 
 Parte de una investigación sobre colonizaciones agrarias y producción visual contemporánea realizada por Abelardo Gil-Fournier en la Winchester School of Art, que ha recibido el apoyo de Matadero Madrid, transmediale y Aarhus Universitet.
 
