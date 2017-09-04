@@ -8,7 +8,7 @@ Este proyecto ha siso realizado por Abelardo Gil–Fournier, Andrés Rodríguez 
 
 Es el resultado de una colaboración llevada a cabo en el contexto del [V Taller de Periodismo de Datos: La España Vacía](http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia) que tuvo lugar en [Medialab-Prado](http://medialab-prado.org) durante los meses de abril, mayo y junio de 2017. El proyecto fue seleccionado en convocatoria abierta; la propuesta original puede consultarse [aquí](https://github.com/medialab-prado/poblados-colonizacion-colonias-penitenciarias/blob/master/README.asc).
 
-La propuesta inicial surge de una investigación sobre colonizaciones agrarias y producción visual contemporánea realizada por Abelardo Gil-Fournier en la Winchester School of Art, que ha recibido el apoyo de Matadero Madrid, transmediale y Aarhus Universitet.
+La propuesta inicial surge de una investigación sobre colonizaciones agrarias y materialidad de la visión realizada por Abelardo Gil-Fournier en la Winchester School of Art, que ha recibido el apoyo de Matadero Madrid, transmediale berlín y Aarhus Universitet.
 
 **Agradecimientos:** 
 - Al Taller de Periodismo de Datos de MediaLab Prado por generar un espacio de encuentro, estudio y difusión. 
