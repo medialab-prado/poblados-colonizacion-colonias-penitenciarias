@@ -20,4 +20,4 @@ Agradecimientos:
 Créditos fotografías: 
 Mediateca del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente
 
-Base del diseño de la plantilla: <a href="http://html5up.net" target="_blank">HTML5 UP</a>
+Base del diseño de la plantilla web: <a href="http://html5up.net" target="_blank">HTML5 UP</a>
