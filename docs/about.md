@@ -1,3 +1,6 @@
+---
+layout: page
+title: Créditos y agradecimientos
 
 ---
 
