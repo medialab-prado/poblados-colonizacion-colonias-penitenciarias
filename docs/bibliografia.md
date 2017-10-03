@@ -28,13 +28,13 @@ BARCIELA, C. La contrarreforma agraria y la política de colonización del prime
 
 Historia y evolución de la colonización agraria en España:
  
-##Volumen I: Monclús, F.J.; Pyón, J.L. (1988).Políticas y técnicas en la ordenación del espacio rural. Madrid: MAPA, MAP, MOPU. 476 p.
+ Volumen I: Monclús, F.J.; Pyón, J.L. (1988).Políticas y técnicas en la ordenación del espacio rural. Madrid: MAPA, MAP, MOPU. 476 p.
  
-##Volumen II: Mangas Navas, J.M.; Barciela López, C. (1990).Políticas administrativa y económica de la colonización agraria: análisis institucional y financiero (1936-1977). Madrid: MAPA, MAP, MOPU. 654 p.
+ Volumen II: Mangas Navas, J.M.; Barciela López, C. (1990).Políticas administrativa y económica de la colonización agraria: análisis institucional y financiero (1936-1977). Madrid: MAPA, MAP, MOPU. 654 p.
  
-##Volumen III: Villanueva Paredes, A.; Leal Maldonado, J. (1990).La planificación del regadío y los pueblos de colonización. Madrid: MAPA, MAP, MOPU. 410 p.
+ Volumen III: Villanueva Paredes, A.; Leal Maldonado, J. (1990).La planificación del regadío y los pueblos de colonización. Madrid: MAPA, MAP, MOPU. 410 p.
 
-##Volumen IV:  Giménez, C.; Sánchez, L. (1994). Políticas Unidad y diversidad en la colonización agraria: perspectiva comparada del desarrollo de las zonas regables. Madrid: MAPA, MAP, MOPU. 501 p.
+ Volumen IV:  Giménez, C.; Sánchez, L. (1994). Políticas Unidad y diversidad en la colonización agraria: perspectiva comparada del desarrollo de las zonas regables. Madrid: MAPA, MAP, MOPU. 501 p.
 
 MARTÍNEZ, L. y GUTIÉRREZ MOLINA, J.L. (2007) El trabajo esclavo de los presos políticos del franquismo en Andalucía. Ed. Universidad de Almería. http://www.todoslosnombres.org/sites/default/files/documento123_0.pdf
 
